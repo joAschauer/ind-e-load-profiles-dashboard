@@ -1,6 +1,8 @@
 # -*- coding: utf-8 -*-
 """Content of Synthetic profiles tab."""
 
+from datetime import datetime
+
 import plotly.express as px
 import streamlit as st
 
@@ -44,6 +46,7 @@ industry_number = int(
     data_industry_type,
 ) = modul_1_IND_E.modul_1_el(industry_number, PROFILES_DATA_PATH)
 
+st.write(data_industry_type)
 st.sidebar.subheader("Parameter zu ausgewähltem Industrietyp:")
 data_industry_type["Fluktuation"] = st.sidebar.select_slider(
     "Fluktuation:", range(0, 100), value=data_industry_type["Fluktuation"].values[0]
@@ -103,10 +106,24 @@ df_year_3 = modul_3_IND_E.normalising_1000(df)
 df_year_4 = modul_4_IND_E.modul_4(year, industry_number, df_year_3, data_industry_type)
 df_year_4 = modul_4_IND_E.modul_4_fluct(industry_number, df_year_4, data_industry_type)
 
-st.subheader("Finales Profil (erste 14 Tage):")
+st.subheader("Final Profile")
+
+date_range = st.slider(
+    "select range for plot",
+    value=(datetime(2019, 1, 1, 0, 0), datetime(2019, 1, 14, 0, 0)),
+    min_value=datetime(2019, 1, 1, 0, 0),
+    max_value=datetime(2019, 12, 31, 23, 45),
+    format="YYYY/MM/DD - HH:mm",
+    label_visibility="hidden",
+)
+
 fig = px.area(
-    df_year_4.drop("Total", axis=1).multiply(1e-3).head(2 * 4 * 24 * 7),
+    df_year_4.drop("Total", axis=1)
+    .multiply(1e-3)
+    .loc[date_range[0] : date_range[1], :],
     title=f"{industry_name} (WZ {industry_type})",
     labels={"value": "MW", "index": "Zeit"},
 )
 st.plotly_chart(fig, use_container_width=True)
+with st.expander("Data"):
+    st.dataframe(df_year_4 * 1e-3, use_container_width=True)
