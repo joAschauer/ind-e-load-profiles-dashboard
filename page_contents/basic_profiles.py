@@ -29,7 +29,7 @@ st.header("Basic end use profiles")
 if "aggregate_end_use_types" not in st.session_state.keys():
     st.session_state["aggregate_end_use_types"] = False
 
-st.session_state["aggregate_end_use_types"] = st.checkbox("Aggregate end user types?")
+st.session_state["aggregate_end_use_types"] = st.checkbox("Aggregate end use types?")
 
 
 df_profiles = load_profiles_from_csv(st.session_state["aggregate_end_use_types"])
@@ -42,6 +42,7 @@ fig = px.area(
     facet_col="end_use_type",
     facet_row_spacing=0.1,
     height=700,
+    labels={"end_use_type": "End use type", "value": "load"},
 )
 
 st.plotly_chart(fig, use_container_width=True)
@@ -54,5 +55,10 @@ fig = px.bar(
     x="share_fraction",
     color="end_use_type",
     orientation="h",
+    labels={
+        "share_fraction": "Share",
+        "industry_type": "Industry type",
+        "end_use_type": "End use type",
+    },
 )
 st.plotly_chart(fig, use_container_width=True)
