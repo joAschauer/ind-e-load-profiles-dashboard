@@ -1,0 +1,4 @@
+{
+  "date_modified": "2025-02-10",
+  "sql_query": "\nSELECT [industry_type]\n      ,[end_use_type_agg] as [end_use_type]\n      ,sum([share_fraction]) as [share_fraction]\n  FROM [ind_e].[dbo].[industry_type_end_use_shares]\n\n  group by [industry_type], [end_use_type_agg]\n        "
+}

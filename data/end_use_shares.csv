@@ -1,0 +1,113 @@
+industry_type,end_use_type,share_fraction
+Gew. v. Steinen u. Erden,Beleuchtung,0.03125
+Gew. v. Steinen u. Erden,IKT,0.015625
+Gew. v. Steinen u. Erden,Klimakälte,0.015625
+Gew. v. Steinen u. Erden,Mechanische Antriebe,0.890625
+Gew. v. Steinen u. Erden,Prozesskälte,0
+Gew. v. Steinen u. Erden,Prozesswärme,0.046875
+Gew. v. Steinen u. Erden,Raumwärme,0
+Gew. v. Steinen u. Erden,Warmwasser,0
+Ernährung und Tabak,Beleuchtung,0.041979
+Ernährung und Tabak,IKT,0.0329835
+Ernährung und Tabak,Klimakälte,0.041979
+Ernährung und Tabak,Mechanische Antriebe,0.565217
+Ernährung und Tabak,Prozesskälte,0.181409
+Ernährung und Tabak,Prozesswärme,0.130435
+Ernährung und Tabak,Raumwärme,0.0029985
+Ernährung und Tabak,Warmwasser,0.0029985
+Papiergewerbe,Beleuchtung,0.0118694
+Papiergewerbe,IKT,0.00890208
+Papiergewerbe,Klimakälte,0.0163205
+Papiergewerbe,Mechanische Antriebe,0.952522
+Papiergewerbe,Prozesskälte,0.0103858
+Papiergewerbe,Prozesswärme,0
+Papiergewerbe,Raumwärme,0
+Papiergewerbe,Warmwasser,0
+Grundstoffchemie,Beleuchtung,0.00487805
+Grundstoffchemie,IKT,0.00670732
+Grundstoffchemie,Klimakälte,0.00609756
+Grundstoffchemie,Mechanische Antriebe,0.614024
+Grundstoffchemie,Prozesskälte,0.125
+Grundstoffchemie,Prozesswärme,0.242073
+Grundstoffchemie,Raumwärme,0.000609756
+Grundstoffchemie,Warmwasser,0.000609756
+Sonst. chemische Industrie,Beleuchtung,0.0470588
+Sonst. chemische Industrie,IKT,0.0784314
+Sonst. chemische Industrie,Klimakälte,0.0588235
+Sonst. chemische Industrie,Mechanische Antriebe,0.74902
+Sonst. chemische Industrie,Prozesskälte,0.0509804
+Sonst. chemische Industrie,Prozesswärme,0.00784314
+Sonst. chemische Industrie,Raumwärme,0.00392157
+Sonst. chemische Industrie,Warmwasser,0.00392157
+Gummi- u. Kunststoffwaren,Beleuchtung,0.0464217
+Gummi- u. Kunststoffwaren,IKT,0.0290135
+Gummi- u. Kunststoffwaren,Klimakälte,0.0386847
+Gummi- u. Kunststoffwaren,Mechanische Antriebe,0.823985
+Gummi- u. Kunststoffwaren,Prozesskälte,0.00967118
+Gummi- u. Kunststoffwaren,Prozesswärme,0.0483559
+Gummi- u. Kunststoffwaren,Raumwärme,0.00193424
+Gummi- u. Kunststoffwaren,Warmwasser,0.00193424
+Glas u. Keramik,Beleuchtung,0.0280899
+Glas u. Keramik,IKT,0.0224719
+Glas u. Keramik,Klimakälte,0.011236
+Glas u. Keramik,Mechanische Antriebe,0.921348
+Glas u. Keramik,Prozesskälte,0.0168539
+Glas u. Keramik,Prozesswärme,0
+Glas u. Keramik,Raumwärme,0
+Glas u. Keramik,Warmwasser,0
+Verarb. v. Steine u. Erden,Beleuchtung,0.0212014
+Verarb. v. Steine u. Erden,IKT,0.0212014
+Verarb. v. Steine u. Erden,Klimakälte,0.0106007
+Verarb. v. Steine u. Erden,Mechanische Antriebe,0.946996
+Verarb. v. Steine u. Erden,Prozesskälte,0
+Verarb. v. Steine u. Erden,Prozesswärme,0
+Verarb. v. Steine u. Erden,Raumwärme,0
+Verarb. v. Steine u. Erden,Warmwasser,0
+Metallerzeugung,Beleuchtung,0.00696379
+Metallerzeugung,IKT,0.00417827
+Metallerzeugung,Klimakälte,0.00278552
+Metallerzeugung,Mechanische Antriebe,0.649025
+Metallerzeugung,Prozesskälte,0
+Metallerzeugung,Prozesswärme,0.337047
+Metallerzeugung,Raumwärme,0
+Metallerzeugung,Warmwasser,0
+"NE-Metalle, -gießereien",Beleuchtung,0.0120968
+"NE-Metalle, -gießereien",IKT,0.00537634
+"NE-Metalle, -gießereien",Klimakälte,0.00537634
+"NE-Metalle, -gießereien",Mechanische Antriebe,0.422043
+"NE-Metalle, -gießereien",Prozesskälte,0
+"NE-Metalle, -gießereien",Prozesswärme,0.553763
+"NE-Metalle, -gießereien",Raumwärme,0.00134409
+"NE-Metalle, -gießereien",Warmwasser,0
+Metallbearbeitung,Beleuchtung,0.0800712
+Metallbearbeitung,IKT,0.044484
+Metallbearbeitung,Klimakälte,0.0391459
+Metallbearbeitung,Mechanische Antriebe,0.731317
+Metallbearbeitung,Prozesskälte,0
+Metallbearbeitung,Prozesswärme,0.0960854
+Metallbearbeitung,Raumwärme,0.00533808
+Metallbearbeitung,Warmwasser,0.00355872
+Maschinenbau,Beleuchtung,0.132029
+Maschinenbau,IKT,0.151589
+Maschinenbau,Klimakälte,0.0440098
+Maschinenbau,Mechanische Antriebe,0.545232
+Maschinenbau,Prozesskälte,0.0171149
+Maschinenbau,Prozesswärme,0.0953545
+Maschinenbau,Raumwärme,0.00733496
+Maschinenbau,Warmwasser,0.00733496
+Fahrzeugbau,Beleuchtung,0.0863422
+Fahrzeugbau,IKT,0.0769231
+Fahrzeugbau,Klimakälte,0.0282575
+Fahrzeugbau,Mechanische Antriebe,0.701727
+Fahrzeugbau,Prozesskälte,0
+Fahrzeugbau,Prozesswärme,0.0973312
+Fahrzeugbau,Raumwärme,0.00470958
+Fahrzeugbau,Warmwasser,0.00470958
+Sonstige Wirtschaftszweige,Beleuchtung,0.0930521
+Sonstige Wirtschaftszweige,IKT,0.122829
+Sonstige Wirtschaftszweige,Klimakälte,0.0297767
+Sonstige Wirtschaftszweige,Mechanische Antriebe,0.637717
+Sonstige Wirtschaftszweige,Prozesskälte,0.00868486
+Sonstige Wirtschaftszweige,Prozesswärme,0.0955335
+Sonstige Wirtschaftszweige,Raumwärme,0.00620347
+Sonstige Wirtschaftszweige,Warmwasser,0.00620347

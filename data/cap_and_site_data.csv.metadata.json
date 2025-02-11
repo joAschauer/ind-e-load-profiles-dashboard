@@ -1,0 +1,4 @@
+{
+  "date_modified": "2025-02-10",
+  "sql_query": "\n    SELECT  [lk_id] as id\n        ,[lk_name] as name\n        ,[wz2008_abteilung]\n         ,[wz2008_abteilung_name]\n        ,[n_sites]\n        ,[n_cap_gapfilled] as [n_cap]\n    FROM [ind_e].[dbo].[lk_betriebe_und_beschaeftigte_pro_abschnitt_3]\n\n    order by lk_id, wz2008_abteilung\n    "
+}

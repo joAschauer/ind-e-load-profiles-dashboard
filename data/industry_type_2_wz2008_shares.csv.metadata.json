@@ -1,0 +1,4 @@
+{
+  "date_modified": "2025-02-10",
+  "sql_query": "\n    SELECT\n        Industry_ID as sector_agg_id\n        ,concat([Industry_ID], ': ', b.[Name]) as sector_agg\n        ,concat(c.ID, ': ', c.[Name]) as sector_wz2008\n        ,[share]\n    FROM [ind_e].[dbo].[industry_type_2_wz2008_abteilung] a\n\n    join ind_e.dbo.industry_type b on a.Industry_ID = b.ID\n    join ind_e.dbo.wz2008_abteilung c on a.Abteilung = c.ID\n    order by b.ID, c.ID\n    "
+}

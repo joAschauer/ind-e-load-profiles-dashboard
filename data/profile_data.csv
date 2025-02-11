@@ -1,0 +1,3841 @@
+day,time,end_use_type,value
+Constant,1900-01-01 00:00:00,Beleuchtung,1
+Constant,1900-01-01 00:00:00,IKT,1
+Constant,1900-01-01 00:00:00,Klimakälte,1
+Constant,1900-01-01 00:00:00,mechanische Antriebe,1
+Constant,1900-01-01 00:00:00,Prozesskälte,1
+Constant,1900-01-01 00:00:00,Prozesswärme,1
+Constant,1900-01-01 00:00:00,Raumwärme,1
+Constant,1900-01-01 00:00:00,Warmwasser,1
+Constant,1900-01-01 00:15:00,Beleuchtung,1
+Constant,1900-01-01 00:15:00,IKT,1
+Constant,1900-01-01 00:15:00,Klimakälte,1
+Constant,1900-01-01 00:15:00,mechanische Antriebe,1
+Constant,1900-01-01 00:15:00,Prozesskälte,1
+Constant,1900-01-01 00:15:00,Prozesswärme,1
+Constant,1900-01-01 00:15:00,Raumwärme,1
+Constant,1900-01-01 00:15:00,Warmwasser,1
+Constant,1900-01-01 00:30:00,Beleuchtung,1
+Constant,1900-01-01 00:30:00,IKT,1
+Constant,1900-01-01 00:30:00,Klimakälte,1
+Constant,1900-01-01 00:30:00,mechanische Antriebe,1
+Constant,1900-01-01 00:30:00,Prozesskälte,1
+Constant,1900-01-01 00:30:00,Prozesswärme,1
+Constant,1900-01-01 00:30:00,Raumwärme,1
+Constant,1900-01-01 00:30:00,Warmwasser,1
+Constant,1900-01-01 00:45:00,Beleuchtung,1
+Constant,1900-01-01 00:45:00,IKT,1
+Constant,1900-01-01 00:45:00,Klimakälte,1
+Constant,1900-01-01 00:45:00,mechanische Antriebe,1
+Constant,1900-01-01 00:45:00,Prozesskälte,1
+Constant,1900-01-01 00:45:00,Prozesswärme,1
+Constant,1900-01-01 00:45:00,Raumwärme,1
+Constant,1900-01-01 00:45:00,Warmwasser,1
+Constant,1900-01-01 01:00:00,Beleuchtung,1
+Constant,1900-01-01 01:00:00,IKT,1
+Constant,1900-01-01 01:00:00,Klimakälte,1
+Constant,1900-01-01 01:00:00,mechanische Antriebe,1
+Constant,1900-01-01 01:00:00,Prozesskälte,1
+Constant,1900-01-01 01:00:00,Prozesswärme,1
+Constant,1900-01-01 01:00:00,Raumwärme,1
+Constant,1900-01-01 01:00:00,Warmwasser,1
+Constant,1900-01-01 01:15:00,Beleuchtung,1
+Constant,1900-01-01 01:15:00,IKT,1
+Constant,1900-01-01 01:15:00,Klimakälte,1
+Constant,1900-01-01 01:15:00,mechanische Antriebe,1
+Constant,1900-01-01 01:15:00,Prozesskälte,1
+Constant,1900-01-01 01:15:00,Prozesswärme,1
+Constant,1900-01-01 01:15:00,Raumwärme,1
+Constant,1900-01-01 01:15:00,Warmwasser,1
+Constant,1900-01-01 01:30:00,Beleuchtung,1
+Constant,1900-01-01 01:30:00,IKT,1
+Constant,1900-01-01 01:30:00,Klimakälte,1
+Constant,1900-01-01 01:30:00,mechanische Antriebe,1
+Constant,1900-01-01 01:30:00,Prozesskälte,1
+Constant,1900-01-01 01:30:00,Prozesswärme,1
+Constant,1900-01-01 01:30:00,Raumwärme,1
+Constant,1900-01-01 01:30:00,Warmwasser,1
+Constant,1900-01-01 01:45:00,Beleuchtung,1
+Constant,1900-01-01 01:45:00,IKT,1
+Constant,1900-01-01 01:45:00,Klimakälte,1
+Constant,1900-01-01 01:45:00,mechanische Antriebe,1
+Constant,1900-01-01 01:45:00,Prozesskälte,1
+Constant,1900-01-01 01:45:00,Prozesswärme,1
+Constant,1900-01-01 01:45:00,Raumwärme,1
+Constant,1900-01-01 01:45:00,Warmwasser,1
+Constant,1900-01-01 02:00:00,Beleuchtung,1
+Constant,1900-01-01 02:00:00,IKT,1
+Constant,1900-01-01 02:00:00,Klimakälte,1
+Constant,1900-01-01 02:00:00,mechanische Antriebe,1
+Constant,1900-01-01 02:00:00,Prozesskälte,1
+Constant,1900-01-01 02:00:00,Prozesswärme,1
+Constant,1900-01-01 02:00:00,Raumwärme,1
+Constant,1900-01-01 02:00:00,Warmwasser,1
+Constant,1900-01-01 02:15:00,Beleuchtung,1
+Constant,1900-01-01 02:15:00,IKT,1
+Constant,1900-01-01 02:15:00,Klimakälte,1
+Constant,1900-01-01 02:15:00,mechanische Antriebe,1
+Constant,1900-01-01 02:15:00,Prozesskälte,1
+Constant,1900-01-01 02:15:00,Prozesswärme,1
+Constant,1900-01-01 02:15:00,Raumwärme,1
+Constant,1900-01-01 02:15:00,Warmwasser,1
+Constant,1900-01-01 02:30:00,Beleuchtung,1
+Constant,1900-01-01 02:30:00,IKT,1
+Constant,1900-01-01 02:30:00,Klimakälte,1
+Constant,1900-01-01 02:30:00,mechanische Antriebe,1
+Constant,1900-01-01 02:30:00,Prozesskälte,1
+Constant,1900-01-01 02:30:00,Prozesswärme,1
+Constant,1900-01-01 02:30:00,Raumwärme,1
+Constant,1900-01-01 02:30:00,Warmwasser,1
+Constant,1900-01-01 02:45:00,Beleuchtung,1
+Constant,1900-01-01 02:45:00,IKT,1
+Constant,1900-01-01 02:45:00,Klimakälte,1
+Constant,1900-01-01 02:45:00,mechanische Antriebe,1
+Constant,1900-01-01 02:45:00,Prozesskälte,1
+Constant,1900-01-01 02:45:00,Prozesswärme,1
+Constant,1900-01-01 02:45:00,Raumwärme,1
+Constant,1900-01-01 02:45:00,Warmwasser,1
+Constant,1900-01-01 03:00:00,Beleuchtung,1
+Constant,1900-01-01 03:00:00,IKT,1
+Constant,1900-01-01 03:00:00,Klimakälte,1
+Constant,1900-01-01 03:00:00,mechanische Antriebe,1
+Constant,1900-01-01 03:00:00,Prozesskälte,1
+Constant,1900-01-01 03:00:00,Prozesswärme,1
+Constant,1900-01-01 03:00:00,Raumwärme,1
+Constant,1900-01-01 03:00:00,Warmwasser,1
+Constant,1900-01-01 03:15:00,Beleuchtung,1
+Constant,1900-01-01 03:15:00,IKT,1
+Constant,1900-01-01 03:15:00,Klimakälte,1
+Constant,1900-01-01 03:15:00,mechanische Antriebe,1
+Constant,1900-01-01 03:15:00,Prozesskälte,1
+Constant,1900-01-01 03:15:00,Prozesswärme,1
+Constant,1900-01-01 03:15:00,Raumwärme,1
+Constant,1900-01-01 03:15:00,Warmwasser,1
+Constant,1900-01-01 03:30:00,Beleuchtung,1
+Constant,1900-01-01 03:30:00,IKT,1
+Constant,1900-01-01 03:30:00,Klimakälte,1
+Constant,1900-01-01 03:30:00,mechanische Antriebe,1
+Constant,1900-01-01 03:30:00,Prozesskälte,1
+Constant,1900-01-01 03:30:00,Prozesswärme,1
+Constant,1900-01-01 03:30:00,Raumwärme,1
+Constant,1900-01-01 03:30:00,Warmwasser,1
+Constant,1900-01-01 03:45:00,Beleuchtung,1
+Constant,1900-01-01 03:45:00,IKT,1
+Constant,1900-01-01 03:45:00,Klimakälte,1
+Constant,1900-01-01 03:45:00,mechanische Antriebe,1
+Constant,1900-01-01 03:45:00,Prozesskälte,1
+Constant,1900-01-01 03:45:00,Prozesswärme,1
+Constant,1900-01-01 03:45:00,Raumwärme,1
+Constant,1900-01-01 03:45:00,Warmwasser,1
+Constant,1900-01-01 04:00:00,Beleuchtung,1
+Constant,1900-01-01 04:00:00,IKT,1
+Constant,1900-01-01 04:00:00,Klimakälte,1
+Constant,1900-01-01 04:00:00,mechanische Antriebe,1
+Constant,1900-01-01 04:00:00,Prozesskälte,1
+Constant,1900-01-01 04:00:00,Prozesswärme,1
+Constant,1900-01-01 04:00:00,Raumwärme,1
+Constant,1900-01-01 04:00:00,Warmwasser,1
+Constant,1900-01-01 04:15:00,Beleuchtung,1
+Constant,1900-01-01 04:15:00,IKT,1
+Constant,1900-01-01 04:15:00,Klimakälte,1
+Constant,1900-01-01 04:15:00,mechanische Antriebe,1
+Constant,1900-01-01 04:15:00,Prozesskälte,1
+Constant,1900-01-01 04:15:00,Prozesswärme,1
+Constant,1900-01-01 04:15:00,Raumwärme,1
+Constant,1900-01-01 04:15:00,Warmwasser,1
+Constant,1900-01-01 04:30:00,Beleuchtung,1
+Constant,1900-01-01 04:30:00,IKT,1
+Constant,1900-01-01 04:30:00,Klimakälte,1
+Constant,1900-01-01 04:30:00,mechanische Antriebe,1
+Constant,1900-01-01 04:30:00,Prozesskälte,1
+Constant,1900-01-01 04:30:00,Prozesswärme,1
+Constant,1900-01-01 04:30:00,Raumwärme,1
+Constant,1900-01-01 04:30:00,Warmwasser,1
+Constant,1900-01-01 04:45:00,Beleuchtung,1
+Constant,1900-01-01 04:45:00,IKT,1
+Constant,1900-01-01 04:45:00,Klimakälte,1
+Constant,1900-01-01 04:45:00,mechanische Antriebe,1
+Constant,1900-01-01 04:45:00,Prozesskälte,1
+Constant,1900-01-01 04:45:00,Prozesswärme,1
+Constant,1900-01-01 04:45:00,Raumwärme,1
+Constant,1900-01-01 04:45:00,Warmwasser,1
+Constant,1900-01-01 05:00:00,Beleuchtung,1
+Constant,1900-01-01 05:00:00,IKT,1
+Constant,1900-01-01 05:00:00,Klimakälte,1
+Constant,1900-01-01 05:00:00,mechanische Antriebe,1
+Constant,1900-01-01 05:00:00,Prozesskälte,1
+Constant,1900-01-01 05:00:00,Prozesswärme,1
+Constant,1900-01-01 05:00:00,Raumwärme,1
+Constant,1900-01-01 05:00:00,Warmwasser,1
+Constant,1900-01-01 05:15:00,Beleuchtung,1
+Constant,1900-01-01 05:15:00,IKT,1
+Constant,1900-01-01 05:15:00,Klimakälte,1
+Constant,1900-01-01 05:15:00,mechanische Antriebe,1
+Constant,1900-01-01 05:15:00,Prozesskälte,1
+Constant,1900-01-01 05:15:00,Prozesswärme,1
+Constant,1900-01-01 05:15:00,Raumwärme,1
+Constant,1900-01-01 05:15:00,Warmwasser,1
+Constant,1900-01-01 05:30:00,Beleuchtung,1
+Constant,1900-01-01 05:30:00,IKT,1
+Constant,1900-01-01 05:30:00,Klimakälte,1
+Constant,1900-01-01 05:30:00,mechanische Antriebe,1
+Constant,1900-01-01 05:30:00,Prozesskälte,1
+Constant,1900-01-01 05:30:00,Prozesswärme,1
+Constant,1900-01-01 05:30:00,Raumwärme,1
+Constant,1900-01-01 05:30:00,Warmwasser,1
+Constant,1900-01-01 05:45:00,Beleuchtung,1
+Constant,1900-01-01 05:45:00,IKT,1
+Constant,1900-01-01 05:45:00,Klimakälte,1
+Constant,1900-01-01 05:45:00,mechanische Antriebe,1
+Constant,1900-01-01 05:45:00,Prozesskälte,1
+Constant,1900-01-01 05:45:00,Prozesswärme,1
+Constant,1900-01-01 05:45:00,Raumwärme,1
+Constant,1900-01-01 05:45:00,Warmwasser,1
+Constant,1900-01-01 06:00:00,Beleuchtung,1
+Constant,1900-01-01 06:00:00,IKT,1
+Constant,1900-01-01 06:00:00,Klimakälte,1
+Constant,1900-01-01 06:00:00,mechanische Antriebe,1
+Constant,1900-01-01 06:00:00,Prozesskälte,1
+Constant,1900-01-01 06:00:00,Prozesswärme,1
+Constant,1900-01-01 06:00:00,Raumwärme,1
+Constant,1900-01-01 06:00:00,Warmwasser,1
+Constant,1900-01-01 06:15:00,Beleuchtung,1
+Constant,1900-01-01 06:15:00,IKT,1
+Constant,1900-01-01 06:15:00,Klimakälte,1
+Constant,1900-01-01 06:15:00,mechanische Antriebe,1
+Constant,1900-01-01 06:15:00,Prozesskälte,1
+Constant,1900-01-01 06:15:00,Prozesswärme,1
+Constant,1900-01-01 06:15:00,Raumwärme,1
+Constant,1900-01-01 06:15:00,Warmwasser,1
+Constant,1900-01-01 06:30:00,Beleuchtung,1
+Constant,1900-01-01 06:30:00,IKT,1
+Constant,1900-01-01 06:30:00,Klimakälte,1
+Constant,1900-01-01 06:30:00,mechanische Antriebe,1
+Constant,1900-01-01 06:30:00,Prozesskälte,1
+Constant,1900-01-01 06:30:00,Prozesswärme,1
+Constant,1900-01-01 06:30:00,Raumwärme,1
+Constant,1900-01-01 06:30:00,Warmwasser,1
+Constant,1900-01-01 06:45:00,Beleuchtung,1
+Constant,1900-01-01 06:45:00,IKT,1
+Constant,1900-01-01 06:45:00,Klimakälte,1
+Constant,1900-01-01 06:45:00,mechanische Antriebe,1
+Constant,1900-01-01 06:45:00,Prozesskälte,1
+Constant,1900-01-01 06:45:00,Prozesswärme,1
+Constant,1900-01-01 06:45:00,Raumwärme,1
+Constant,1900-01-01 06:45:00,Warmwasser,1
+Constant,1900-01-01 07:00:00,Beleuchtung,1
+Constant,1900-01-01 07:00:00,IKT,1
+Constant,1900-01-01 07:00:00,Klimakälte,1
+Constant,1900-01-01 07:00:00,mechanische Antriebe,1
+Constant,1900-01-01 07:00:00,Prozesskälte,1
+Constant,1900-01-01 07:00:00,Prozesswärme,1
+Constant,1900-01-01 07:00:00,Raumwärme,1
+Constant,1900-01-01 07:00:00,Warmwasser,1
+Constant,1900-01-01 07:15:00,Beleuchtung,1
+Constant,1900-01-01 07:15:00,IKT,1
+Constant,1900-01-01 07:15:00,Klimakälte,1
+Constant,1900-01-01 07:15:00,mechanische Antriebe,1
+Constant,1900-01-01 07:15:00,Prozesskälte,1
+Constant,1900-01-01 07:15:00,Prozesswärme,1
+Constant,1900-01-01 07:15:00,Raumwärme,1
+Constant,1900-01-01 07:15:00,Warmwasser,1
+Constant,1900-01-01 07:30:00,Beleuchtung,1
+Constant,1900-01-01 07:30:00,IKT,1
+Constant,1900-01-01 07:30:00,Klimakälte,1
+Constant,1900-01-01 07:30:00,mechanische Antriebe,1
+Constant,1900-01-01 07:30:00,Prozesskälte,1
+Constant,1900-01-01 07:30:00,Prozesswärme,1
+Constant,1900-01-01 07:30:00,Raumwärme,1
+Constant,1900-01-01 07:30:00,Warmwasser,1
+Constant,1900-01-01 07:45:00,Beleuchtung,1
+Constant,1900-01-01 07:45:00,IKT,1
+Constant,1900-01-01 07:45:00,Klimakälte,1
+Constant,1900-01-01 07:45:00,mechanische Antriebe,1
+Constant,1900-01-01 07:45:00,Prozesskälte,1
+Constant,1900-01-01 07:45:00,Prozesswärme,1
+Constant,1900-01-01 07:45:00,Raumwärme,1
+Constant,1900-01-01 07:45:00,Warmwasser,1
+Constant,1900-01-01 08:00:00,Beleuchtung,1
+Constant,1900-01-01 08:00:00,IKT,1
+Constant,1900-01-01 08:00:00,Klimakälte,1
+Constant,1900-01-01 08:00:00,mechanische Antriebe,1
+Constant,1900-01-01 08:00:00,Prozesskälte,1
+Constant,1900-01-01 08:00:00,Prozesswärme,1
+Constant,1900-01-01 08:00:00,Raumwärme,1
+Constant,1900-01-01 08:00:00,Warmwasser,1
+Constant,1900-01-01 08:15:00,Beleuchtung,1
+Constant,1900-01-01 08:15:00,IKT,1
+Constant,1900-01-01 08:15:00,Klimakälte,1
+Constant,1900-01-01 08:15:00,mechanische Antriebe,1
+Constant,1900-01-01 08:15:00,Prozesskälte,1
+Constant,1900-01-01 08:15:00,Prozesswärme,1
+Constant,1900-01-01 08:15:00,Raumwärme,1
+Constant,1900-01-01 08:15:00,Warmwasser,1
+Constant,1900-01-01 08:30:00,Beleuchtung,1
+Constant,1900-01-01 08:30:00,IKT,1
+Constant,1900-01-01 08:30:00,Klimakälte,1
+Constant,1900-01-01 08:30:00,mechanische Antriebe,1
+Constant,1900-01-01 08:30:00,Prozesskälte,1
+Constant,1900-01-01 08:30:00,Prozesswärme,1
+Constant,1900-01-01 08:30:00,Raumwärme,1
+Constant,1900-01-01 08:30:00,Warmwasser,1
+Constant,1900-01-01 08:45:00,Beleuchtung,1
+Constant,1900-01-01 08:45:00,IKT,1
+Constant,1900-01-01 08:45:00,Klimakälte,1
+Constant,1900-01-01 08:45:00,mechanische Antriebe,1
+Constant,1900-01-01 08:45:00,Prozesskälte,1
+Constant,1900-01-01 08:45:00,Prozesswärme,1
+Constant,1900-01-01 08:45:00,Raumwärme,1
+Constant,1900-01-01 08:45:00,Warmwasser,1
+Constant,1900-01-01 09:00:00,Beleuchtung,1
+Constant,1900-01-01 09:00:00,IKT,1
+Constant,1900-01-01 09:00:00,Klimakälte,1
+Constant,1900-01-01 09:00:00,mechanische Antriebe,1
+Constant,1900-01-01 09:00:00,Prozesskälte,1
+Constant,1900-01-01 09:00:00,Prozesswärme,1
+Constant,1900-01-01 09:00:00,Raumwärme,1
+Constant,1900-01-01 09:00:00,Warmwasser,1
+Constant,1900-01-01 09:15:00,Beleuchtung,1
+Constant,1900-01-01 09:15:00,IKT,1
+Constant,1900-01-01 09:15:00,Klimakälte,1
+Constant,1900-01-01 09:15:00,mechanische Antriebe,1
+Constant,1900-01-01 09:15:00,Prozesskälte,1
+Constant,1900-01-01 09:15:00,Prozesswärme,1
+Constant,1900-01-01 09:15:00,Raumwärme,1
+Constant,1900-01-01 09:15:00,Warmwasser,1
+Constant,1900-01-01 09:30:00,Beleuchtung,1
+Constant,1900-01-01 09:30:00,IKT,1
+Constant,1900-01-01 09:30:00,Klimakälte,1
+Constant,1900-01-01 09:30:00,mechanische Antriebe,1
+Constant,1900-01-01 09:30:00,Prozesskälte,1
+Constant,1900-01-01 09:30:00,Prozesswärme,1
+Constant,1900-01-01 09:30:00,Raumwärme,1
+Constant,1900-01-01 09:30:00,Warmwasser,1
+Constant,1900-01-01 09:45:00,Beleuchtung,1
+Constant,1900-01-01 09:45:00,IKT,1
+Constant,1900-01-01 09:45:00,Klimakälte,1
+Constant,1900-01-01 09:45:00,mechanische Antriebe,1
+Constant,1900-01-01 09:45:00,Prozesskälte,1
+Constant,1900-01-01 09:45:00,Prozesswärme,1
+Constant,1900-01-01 09:45:00,Raumwärme,1
+Constant,1900-01-01 09:45:00,Warmwasser,1
+Constant,1900-01-01 10:00:00,Beleuchtung,1
+Constant,1900-01-01 10:00:00,IKT,1
+Constant,1900-01-01 10:00:00,Klimakälte,1
+Constant,1900-01-01 10:00:00,mechanische Antriebe,1
+Constant,1900-01-01 10:00:00,Prozesskälte,1
+Constant,1900-01-01 10:00:00,Prozesswärme,1
+Constant,1900-01-01 10:00:00,Raumwärme,1
+Constant,1900-01-01 10:00:00,Warmwasser,1
+Constant,1900-01-01 10:15:00,Beleuchtung,1
+Constant,1900-01-01 10:15:00,IKT,1
+Constant,1900-01-01 10:15:00,Klimakälte,1
+Constant,1900-01-01 10:15:00,mechanische Antriebe,1
+Constant,1900-01-01 10:15:00,Prozesskälte,1
+Constant,1900-01-01 10:15:00,Prozesswärme,1
+Constant,1900-01-01 10:15:00,Raumwärme,1
+Constant,1900-01-01 10:15:00,Warmwasser,1
+Constant,1900-01-01 10:30:00,Beleuchtung,1
+Constant,1900-01-01 10:30:00,IKT,1
+Constant,1900-01-01 10:30:00,Klimakälte,1
+Constant,1900-01-01 10:30:00,mechanische Antriebe,1
+Constant,1900-01-01 10:30:00,Prozesskälte,1
+Constant,1900-01-01 10:30:00,Prozesswärme,1
+Constant,1900-01-01 10:30:00,Raumwärme,1
+Constant,1900-01-01 10:30:00,Warmwasser,1
+Constant,1900-01-01 10:45:00,Beleuchtung,1
+Constant,1900-01-01 10:45:00,IKT,1
+Constant,1900-01-01 10:45:00,Klimakälte,1
+Constant,1900-01-01 10:45:00,mechanische Antriebe,1
+Constant,1900-01-01 10:45:00,Prozesskälte,1
+Constant,1900-01-01 10:45:00,Prozesswärme,1
+Constant,1900-01-01 10:45:00,Raumwärme,1
+Constant,1900-01-01 10:45:00,Warmwasser,1
+Constant,1900-01-01 11:00:00,Beleuchtung,1
+Constant,1900-01-01 11:00:00,IKT,1
+Constant,1900-01-01 11:00:00,Klimakälte,1
+Constant,1900-01-01 11:00:00,mechanische Antriebe,1
+Constant,1900-01-01 11:00:00,Prozesskälte,1
+Constant,1900-01-01 11:00:00,Prozesswärme,1
+Constant,1900-01-01 11:00:00,Raumwärme,1
+Constant,1900-01-01 11:00:00,Warmwasser,1
+Constant,1900-01-01 11:15:00,Beleuchtung,1
+Constant,1900-01-01 11:15:00,IKT,1
+Constant,1900-01-01 11:15:00,Klimakälte,1
+Constant,1900-01-01 11:15:00,mechanische Antriebe,1
+Constant,1900-01-01 11:15:00,Prozesskälte,1
+Constant,1900-01-01 11:15:00,Prozesswärme,1
+Constant,1900-01-01 11:15:00,Raumwärme,1
+Constant,1900-01-01 11:15:00,Warmwasser,1
+Constant,1900-01-01 11:30:00,Beleuchtung,1
+Constant,1900-01-01 11:30:00,IKT,1
+Constant,1900-01-01 11:30:00,Klimakälte,1
+Constant,1900-01-01 11:30:00,mechanische Antriebe,1
+Constant,1900-01-01 11:30:00,Prozesskälte,1
+Constant,1900-01-01 11:30:00,Prozesswärme,1
+Constant,1900-01-01 11:30:00,Raumwärme,1
+Constant,1900-01-01 11:30:00,Warmwasser,1
+Constant,1900-01-01 11:45:00,Beleuchtung,1
+Constant,1900-01-01 11:45:00,IKT,1
+Constant,1900-01-01 11:45:00,Klimakälte,1
+Constant,1900-01-01 11:45:00,mechanische Antriebe,1
+Constant,1900-01-01 11:45:00,Prozesskälte,1
+Constant,1900-01-01 11:45:00,Prozesswärme,1
+Constant,1900-01-01 11:45:00,Raumwärme,1
+Constant,1900-01-01 11:45:00,Warmwasser,1
+Constant,1900-01-01 12:00:00,Beleuchtung,1
+Constant,1900-01-01 12:00:00,IKT,1
+Constant,1900-01-01 12:00:00,Klimakälte,1
+Constant,1900-01-01 12:00:00,mechanische Antriebe,1
+Constant,1900-01-01 12:00:00,Prozesskälte,1
+Constant,1900-01-01 12:00:00,Prozesswärme,1
+Constant,1900-01-01 12:00:00,Raumwärme,1
+Constant,1900-01-01 12:00:00,Warmwasser,1
+Constant,1900-01-01 12:15:00,Beleuchtung,1
+Constant,1900-01-01 12:15:00,IKT,1
+Constant,1900-01-01 12:15:00,Klimakälte,1
+Constant,1900-01-01 12:15:00,mechanische Antriebe,1
+Constant,1900-01-01 12:15:00,Prozesskälte,1
+Constant,1900-01-01 12:15:00,Prozesswärme,1
+Constant,1900-01-01 12:15:00,Raumwärme,1
+Constant,1900-01-01 12:15:00,Warmwasser,1
+Constant,1900-01-01 12:30:00,Beleuchtung,1
+Constant,1900-01-01 12:30:00,IKT,1
+Constant,1900-01-01 12:30:00,Klimakälte,1
+Constant,1900-01-01 12:30:00,mechanische Antriebe,1
+Constant,1900-01-01 12:30:00,Prozesskälte,1
+Constant,1900-01-01 12:30:00,Prozesswärme,1
+Constant,1900-01-01 12:30:00,Raumwärme,1
+Constant,1900-01-01 12:30:00,Warmwasser,1
+Constant,1900-01-01 12:45:00,Beleuchtung,1
+Constant,1900-01-01 12:45:00,IKT,1
+Constant,1900-01-01 12:45:00,Klimakälte,1
+Constant,1900-01-01 12:45:00,mechanische Antriebe,1
+Constant,1900-01-01 12:45:00,Prozesskälte,1
+Constant,1900-01-01 12:45:00,Prozesswärme,1
+Constant,1900-01-01 12:45:00,Raumwärme,1
+Constant,1900-01-01 12:45:00,Warmwasser,1
+Constant,1900-01-01 13:00:00,Beleuchtung,1
+Constant,1900-01-01 13:00:00,IKT,1
+Constant,1900-01-01 13:00:00,Klimakälte,1
+Constant,1900-01-01 13:00:00,mechanische Antriebe,1
+Constant,1900-01-01 13:00:00,Prozesskälte,1
+Constant,1900-01-01 13:00:00,Prozesswärme,1
+Constant,1900-01-01 13:00:00,Raumwärme,1
+Constant,1900-01-01 13:00:00,Warmwasser,1
+Constant,1900-01-01 13:15:00,Beleuchtung,1
+Constant,1900-01-01 13:15:00,IKT,1
+Constant,1900-01-01 13:15:00,Klimakälte,1
+Constant,1900-01-01 13:15:00,mechanische Antriebe,1
+Constant,1900-01-01 13:15:00,Prozesskälte,1
+Constant,1900-01-01 13:15:00,Prozesswärme,1
+Constant,1900-01-01 13:15:00,Raumwärme,1
+Constant,1900-01-01 13:15:00,Warmwasser,1
+Constant,1900-01-01 13:30:00,Beleuchtung,1
+Constant,1900-01-01 13:30:00,IKT,1
+Constant,1900-01-01 13:30:00,Klimakälte,1
+Constant,1900-01-01 13:30:00,mechanische Antriebe,1
+Constant,1900-01-01 13:30:00,Prozesskälte,1
+Constant,1900-01-01 13:30:00,Prozesswärme,1
+Constant,1900-01-01 13:30:00,Raumwärme,1
+Constant,1900-01-01 13:30:00,Warmwasser,1
+Constant,1900-01-01 13:45:00,Beleuchtung,1
+Constant,1900-01-01 13:45:00,IKT,1
+Constant,1900-01-01 13:45:00,Klimakälte,1
+Constant,1900-01-01 13:45:00,mechanische Antriebe,1
+Constant,1900-01-01 13:45:00,Prozesskälte,1
+Constant,1900-01-01 13:45:00,Prozesswärme,1
+Constant,1900-01-01 13:45:00,Raumwärme,1
+Constant,1900-01-01 13:45:00,Warmwasser,1
+Constant,1900-01-01 14:00:00,Beleuchtung,1
+Constant,1900-01-01 14:00:00,IKT,1
+Constant,1900-01-01 14:00:00,Klimakälte,1
+Constant,1900-01-01 14:00:00,mechanische Antriebe,1
+Constant,1900-01-01 14:00:00,Prozesskälte,1
+Constant,1900-01-01 14:00:00,Prozesswärme,1
+Constant,1900-01-01 14:00:00,Raumwärme,1
+Constant,1900-01-01 14:00:00,Warmwasser,1
+Constant,1900-01-01 14:15:00,Beleuchtung,1
+Constant,1900-01-01 14:15:00,IKT,1
+Constant,1900-01-01 14:15:00,Klimakälte,1
+Constant,1900-01-01 14:15:00,mechanische Antriebe,1
+Constant,1900-01-01 14:15:00,Prozesskälte,1
+Constant,1900-01-01 14:15:00,Prozesswärme,1
+Constant,1900-01-01 14:15:00,Raumwärme,1
+Constant,1900-01-01 14:15:00,Warmwasser,1
+Constant,1900-01-01 14:30:00,Beleuchtung,1
+Constant,1900-01-01 14:30:00,IKT,1
+Constant,1900-01-01 14:30:00,Klimakälte,1
+Constant,1900-01-01 14:30:00,mechanische Antriebe,1
+Constant,1900-01-01 14:30:00,Prozesskälte,1
+Constant,1900-01-01 14:30:00,Prozesswärme,1
+Constant,1900-01-01 14:30:00,Raumwärme,1
+Constant,1900-01-01 14:30:00,Warmwasser,1
+Constant,1900-01-01 14:45:00,Beleuchtung,1
+Constant,1900-01-01 14:45:00,IKT,1
+Constant,1900-01-01 14:45:00,Klimakälte,1
+Constant,1900-01-01 14:45:00,mechanische Antriebe,1
+Constant,1900-01-01 14:45:00,Prozesskälte,1
+Constant,1900-01-01 14:45:00,Prozesswärme,1
+Constant,1900-01-01 14:45:00,Raumwärme,1
+Constant,1900-01-01 14:45:00,Warmwasser,1
+Constant,1900-01-01 15:00:00,Beleuchtung,1
+Constant,1900-01-01 15:00:00,IKT,1
+Constant,1900-01-01 15:00:00,Klimakälte,1
+Constant,1900-01-01 15:00:00,mechanische Antriebe,1
+Constant,1900-01-01 15:00:00,Prozesskälte,1
+Constant,1900-01-01 15:00:00,Prozesswärme,1
+Constant,1900-01-01 15:00:00,Raumwärme,1
+Constant,1900-01-01 15:00:00,Warmwasser,1
+Constant,1900-01-01 15:15:00,Beleuchtung,1
+Constant,1900-01-01 15:15:00,IKT,1
+Constant,1900-01-01 15:15:00,Klimakälte,1
+Constant,1900-01-01 15:15:00,mechanische Antriebe,1
+Constant,1900-01-01 15:15:00,Prozesskälte,1
+Constant,1900-01-01 15:15:00,Prozesswärme,1
+Constant,1900-01-01 15:15:00,Raumwärme,1
+Constant,1900-01-01 15:15:00,Warmwasser,1
+Constant,1900-01-01 15:30:00,Beleuchtung,1
+Constant,1900-01-01 15:30:00,IKT,1
+Constant,1900-01-01 15:30:00,Klimakälte,1
+Constant,1900-01-01 15:30:00,mechanische Antriebe,1
+Constant,1900-01-01 15:30:00,Prozesskälte,1
+Constant,1900-01-01 15:30:00,Prozesswärme,1
+Constant,1900-01-01 15:30:00,Raumwärme,1
+Constant,1900-01-01 15:30:00,Warmwasser,1
+Constant,1900-01-01 15:45:00,Beleuchtung,1
+Constant,1900-01-01 15:45:00,IKT,1
+Constant,1900-01-01 15:45:00,Klimakälte,1
+Constant,1900-01-01 15:45:00,mechanische Antriebe,1
+Constant,1900-01-01 15:45:00,Prozesskälte,1
+Constant,1900-01-01 15:45:00,Prozesswärme,1
+Constant,1900-01-01 15:45:00,Raumwärme,1
+Constant,1900-01-01 15:45:00,Warmwasser,1
+Constant,1900-01-01 16:00:00,Beleuchtung,1
+Constant,1900-01-01 16:00:00,IKT,1
+Constant,1900-01-01 16:00:00,Klimakälte,1
+Constant,1900-01-01 16:00:00,mechanische Antriebe,1
+Constant,1900-01-01 16:00:00,Prozesskälte,1
+Constant,1900-01-01 16:00:00,Prozesswärme,1
+Constant,1900-01-01 16:00:00,Raumwärme,1
+Constant,1900-01-01 16:00:00,Warmwasser,1
+Constant,1900-01-01 16:15:00,Beleuchtung,1
+Constant,1900-01-01 16:15:00,IKT,1
+Constant,1900-01-01 16:15:00,Klimakälte,1
+Constant,1900-01-01 16:15:00,mechanische Antriebe,1
+Constant,1900-01-01 16:15:00,Prozesskälte,1
+Constant,1900-01-01 16:15:00,Prozesswärme,1
+Constant,1900-01-01 16:15:00,Raumwärme,1
+Constant,1900-01-01 16:15:00,Warmwasser,1
+Constant,1900-01-01 16:30:00,Beleuchtung,1
+Constant,1900-01-01 16:30:00,IKT,1
+Constant,1900-01-01 16:30:00,Klimakälte,1
+Constant,1900-01-01 16:30:00,mechanische Antriebe,1
+Constant,1900-01-01 16:30:00,Prozesskälte,1
+Constant,1900-01-01 16:30:00,Prozesswärme,1
+Constant,1900-01-01 16:30:00,Raumwärme,1
+Constant,1900-01-01 16:30:00,Warmwasser,1
+Constant,1900-01-01 16:45:00,Beleuchtung,1
+Constant,1900-01-01 16:45:00,IKT,1
+Constant,1900-01-01 16:45:00,Klimakälte,1
+Constant,1900-01-01 16:45:00,mechanische Antriebe,1
+Constant,1900-01-01 16:45:00,Prozesskälte,1
+Constant,1900-01-01 16:45:00,Prozesswärme,1
+Constant,1900-01-01 16:45:00,Raumwärme,1
+Constant,1900-01-01 16:45:00,Warmwasser,1
+Constant,1900-01-01 17:00:00,Beleuchtung,1
+Constant,1900-01-01 17:00:00,IKT,1
+Constant,1900-01-01 17:00:00,Klimakälte,1
+Constant,1900-01-01 17:00:00,mechanische Antriebe,1
+Constant,1900-01-01 17:00:00,Prozesskälte,1
+Constant,1900-01-01 17:00:00,Prozesswärme,1
+Constant,1900-01-01 17:00:00,Raumwärme,1
+Constant,1900-01-01 17:00:00,Warmwasser,1
+Constant,1900-01-01 17:15:00,Beleuchtung,1
+Constant,1900-01-01 17:15:00,IKT,1
+Constant,1900-01-01 17:15:00,Klimakälte,1
+Constant,1900-01-01 17:15:00,mechanische Antriebe,1
+Constant,1900-01-01 17:15:00,Prozesskälte,1
+Constant,1900-01-01 17:15:00,Prozesswärme,1
+Constant,1900-01-01 17:15:00,Raumwärme,1
+Constant,1900-01-01 17:15:00,Warmwasser,1
+Constant,1900-01-01 17:30:00,Beleuchtung,1
+Constant,1900-01-01 17:30:00,IKT,1
+Constant,1900-01-01 17:30:00,Klimakälte,1
+Constant,1900-01-01 17:30:00,mechanische Antriebe,1
+Constant,1900-01-01 17:30:00,Prozesskälte,1
+Constant,1900-01-01 17:30:00,Prozesswärme,1
+Constant,1900-01-01 17:30:00,Raumwärme,1
+Constant,1900-01-01 17:30:00,Warmwasser,1
+Constant,1900-01-01 17:45:00,Beleuchtung,1
+Constant,1900-01-01 17:45:00,IKT,1
+Constant,1900-01-01 17:45:00,Klimakälte,1
+Constant,1900-01-01 17:45:00,mechanische Antriebe,1
+Constant,1900-01-01 17:45:00,Prozesskälte,1
+Constant,1900-01-01 17:45:00,Prozesswärme,1
+Constant,1900-01-01 17:45:00,Raumwärme,1
+Constant,1900-01-01 17:45:00,Warmwasser,1
+Constant,1900-01-01 18:00:00,Beleuchtung,1
+Constant,1900-01-01 18:00:00,IKT,1
+Constant,1900-01-01 18:00:00,Klimakälte,1
+Constant,1900-01-01 18:00:00,mechanische Antriebe,1
+Constant,1900-01-01 18:00:00,Prozesskälte,1
+Constant,1900-01-01 18:00:00,Prozesswärme,1
+Constant,1900-01-01 18:00:00,Raumwärme,1
+Constant,1900-01-01 18:00:00,Warmwasser,1
+Constant,1900-01-01 18:15:00,Beleuchtung,1
+Constant,1900-01-01 18:15:00,IKT,1
+Constant,1900-01-01 18:15:00,Klimakälte,1
+Constant,1900-01-01 18:15:00,mechanische Antriebe,1
+Constant,1900-01-01 18:15:00,Prozesskälte,1
+Constant,1900-01-01 18:15:00,Prozesswärme,1
+Constant,1900-01-01 18:15:00,Raumwärme,1
+Constant,1900-01-01 18:15:00,Warmwasser,1
+Constant,1900-01-01 18:30:00,Beleuchtung,1
+Constant,1900-01-01 18:30:00,IKT,1
+Constant,1900-01-01 18:30:00,Klimakälte,1
+Constant,1900-01-01 18:30:00,mechanische Antriebe,1
+Constant,1900-01-01 18:30:00,Prozesskälte,1
+Constant,1900-01-01 18:30:00,Prozesswärme,1
+Constant,1900-01-01 18:30:00,Raumwärme,1
+Constant,1900-01-01 18:30:00,Warmwasser,1
+Constant,1900-01-01 18:45:00,Beleuchtung,1
+Constant,1900-01-01 18:45:00,IKT,1
+Constant,1900-01-01 18:45:00,Klimakälte,1
+Constant,1900-01-01 18:45:00,mechanische Antriebe,1
+Constant,1900-01-01 18:45:00,Prozesskälte,1
+Constant,1900-01-01 18:45:00,Prozesswärme,1
+Constant,1900-01-01 18:45:00,Raumwärme,1
+Constant,1900-01-01 18:45:00,Warmwasser,1
+Constant,1900-01-01 19:00:00,Beleuchtung,1
+Constant,1900-01-01 19:00:00,IKT,1
+Constant,1900-01-01 19:00:00,Klimakälte,1
+Constant,1900-01-01 19:00:00,mechanische Antriebe,1
+Constant,1900-01-01 19:00:00,Prozesskälte,1
+Constant,1900-01-01 19:00:00,Prozesswärme,1
+Constant,1900-01-01 19:00:00,Raumwärme,1
+Constant,1900-01-01 19:00:00,Warmwasser,1
+Constant,1900-01-01 19:15:00,Beleuchtung,1
+Constant,1900-01-01 19:15:00,IKT,1
+Constant,1900-01-01 19:15:00,Klimakälte,1
+Constant,1900-01-01 19:15:00,mechanische Antriebe,1
+Constant,1900-01-01 19:15:00,Prozesskälte,1
+Constant,1900-01-01 19:15:00,Prozesswärme,1
+Constant,1900-01-01 19:15:00,Raumwärme,1
+Constant,1900-01-01 19:15:00,Warmwasser,1
+Constant,1900-01-01 19:30:00,Beleuchtung,1
+Constant,1900-01-01 19:30:00,IKT,1
+Constant,1900-01-01 19:30:00,Klimakälte,1
+Constant,1900-01-01 19:30:00,mechanische Antriebe,1
+Constant,1900-01-01 19:30:00,Prozesskälte,1
+Constant,1900-01-01 19:30:00,Prozesswärme,1
+Constant,1900-01-01 19:30:00,Raumwärme,1
+Constant,1900-01-01 19:30:00,Warmwasser,1
+Constant,1900-01-01 19:45:00,Beleuchtung,1
+Constant,1900-01-01 19:45:00,IKT,1
+Constant,1900-01-01 19:45:00,Klimakälte,1
+Constant,1900-01-01 19:45:00,mechanische Antriebe,1
+Constant,1900-01-01 19:45:00,Prozesskälte,1
+Constant,1900-01-01 19:45:00,Prozesswärme,1
+Constant,1900-01-01 19:45:00,Raumwärme,1
+Constant,1900-01-01 19:45:00,Warmwasser,1
+Constant,1900-01-01 20:00:00,Beleuchtung,1
+Constant,1900-01-01 20:00:00,IKT,1
+Constant,1900-01-01 20:00:00,Klimakälte,1
+Constant,1900-01-01 20:00:00,mechanische Antriebe,1
+Constant,1900-01-01 20:00:00,Prozesskälte,1
+Constant,1900-01-01 20:00:00,Prozesswärme,1
+Constant,1900-01-01 20:00:00,Raumwärme,1
+Constant,1900-01-01 20:00:00,Warmwasser,1
+Constant,1900-01-01 20:15:00,Beleuchtung,1
+Constant,1900-01-01 20:15:00,IKT,1
+Constant,1900-01-01 20:15:00,Klimakälte,1
+Constant,1900-01-01 20:15:00,mechanische Antriebe,1
+Constant,1900-01-01 20:15:00,Prozesskälte,1
+Constant,1900-01-01 20:15:00,Prozesswärme,1
+Constant,1900-01-01 20:15:00,Raumwärme,1
+Constant,1900-01-01 20:15:00,Warmwasser,1
+Constant,1900-01-01 20:30:00,Beleuchtung,1
+Constant,1900-01-01 20:30:00,IKT,1
+Constant,1900-01-01 20:30:00,Klimakälte,1
+Constant,1900-01-01 20:30:00,mechanische Antriebe,1
+Constant,1900-01-01 20:30:00,Prozesskälte,1
+Constant,1900-01-01 20:30:00,Prozesswärme,1
+Constant,1900-01-01 20:30:00,Raumwärme,1
+Constant,1900-01-01 20:30:00,Warmwasser,1
+Constant,1900-01-01 20:45:00,Beleuchtung,1
+Constant,1900-01-01 20:45:00,IKT,1
+Constant,1900-01-01 20:45:00,Klimakälte,1
+Constant,1900-01-01 20:45:00,mechanische Antriebe,1
+Constant,1900-01-01 20:45:00,Prozesskälte,1
+Constant,1900-01-01 20:45:00,Prozesswärme,1
+Constant,1900-01-01 20:45:00,Raumwärme,1
+Constant,1900-01-01 20:45:00,Warmwasser,1
+Constant,1900-01-01 21:00:00,Beleuchtung,1
+Constant,1900-01-01 21:00:00,IKT,1
+Constant,1900-01-01 21:00:00,Klimakälte,1
+Constant,1900-01-01 21:00:00,mechanische Antriebe,1
+Constant,1900-01-01 21:00:00,Prozesskälte,1
+Constant,1900-01-01 21:00:00,Prozesswärme,1
+Constant,1900-01-01 21:00:00,Raumwärme,1
+Constant,1900-01-01 21:00:00,Warmwasser,1
+Constant,1900-01-01 21:15:00,Beleuchtung,1
+Constant,1900-01-01 21:15:00,IKT,1
+Constant,1900-01-01 21:15:00,Klimakälte,1
+Constant,1900-01-01 21:15:00,mechanische Antriebe,1
+Constant,1900-01-01 21:15:00,Prozesskälte,1
+Constant,1900-01-01 21:15:00,Prozesswärme,1
+Constant,1900-01-01 21:15:00,Raumwärme,1
+Constant,1900-01-01 21:15:00,Warmwasser,1
+Constant,1900-01-01 21:30:00,Beleuchtung,1
+Constant,1900-01-01 21:30:00,IKT,1
+Constant,1900-01-01 21:30:00,Klimakälte,1
+Constant,1900-01-01 21:30:00,mechanische Antriebe,1
+Constant,1900-01-01 21:30:00,Prozesskälte,1
+Constant,1900-01-01 21:30:00,Prozesswärme,1
+Constant,1900-01-01 21:30:00,Raumwärme,1
+Constant,1900-01-01 21:30:00,Warmwasser,1
+Constant,1900-01-01 21:45:00,Beleuchtung,1
+Constant,1900-01-01 21:45:00,IKT,1
+Constant,1900-01-01 21:45:00,Klimakälte,1
+Constant,1900-01-01 21:45:00,mechanische Antriebe,1
+Constant,1900-01-01 21:45:00,Prozesskälte,1
+Constant,1900-01-01 21:45:00,Prozesswärme,1
+Constant,1900-01-01 21:45:00,Raumwärme,1
+Constant,1900-01-01 21:45:00,Warmwasser,1
+Constant,1900-01-01 22:00:00,Beleuchtung,1
+Constant,1900-01-01 22:00:00,IKT,1
+Constant,1900-01-01 22:00:00,Klimakälte,1
+Constant,1900-01-01 22:00:00,mechanische Antriebe,1
+Constant,1900-01-01 22:00:00,Prozesskälte,1
+Constant,1900-01-01 22:00:00,Prozesswärme,1
+Constant,1900-01-01 22:00:00,Raumwärme,1
+Constant,1900-01-01 22:00:00,Warmwasser,1
+Constant,1900-01-01 22:15:00,Beleuchtung,1
+Constant,1900-01-01 22:15:00,IKT,1
+Constant,1900-01-01 22:15:00,Klimakälte,1
+Constant,1900-01-01 22:15:00,mechanische Antriebe,1
+Constant,1900-01-01 22:15:00,Prozesskälte,1
+Constant,1900-01-01 22:15:00,Prozesswärme,1
+Constant,1900-01-01 22:15:00,Raumwärme,1
+Constant,1900-01-01 22:15:00,Warmwasser,1
+Constant,1900-01-01 22:30:00,Beleuchtung,1
+Constant,1900-01-01 22:30:00,IKT,1
+Constant,1900-01-01 22:30:00,Klimakälte,1
+Constant,1900-01-01 22:30:00,mechanische Antriebe,1
+Constant,1900-01-01 22:30:00,Prozesskälte,1
+Constant,1900-01-01 22:30:00,Prozesswärme,1
+Constant,1900-01-01 22:30:00,Raumwärme,1
+Constant,1900-01-01 22:30:00,Warmwasser,1
+Constant,1900-01-01 22:45:00,Beleuchtung,1
+Constant,1900-01-01 22:45:00,IKT,1
+Constant,1900-01-01 22:45:00,Klimakälte,1
+Constant,1900-01-01 22:45:00,mechanische Antriebe,1
+Constant,1900-01-01 22:45:00,Prozesskälte,1
+Constant,1900-01-01 22:45:00,Prozesswärme,1
+Constant,1900-01-01 22:45:00,Raumwärme,1
+Constant,1900-01-01 22:45:00,Warmwasser,1
+Constant,1900-01-01 23:00:00,Beleuchtung,1
+Constant,1900-01-01 23:00:00,IKT,1
+Constant,1900-01-01 23:00:00,Klimakälte,1
+Constant,1900-01-01 23:00:00,mechanische Antriebe,1
+Constant,1900-01-01 23:00:00,Prozesskälte,1
+Constant,1900-01-01 23:00:00,Prozesswärme,1
+Constant,1900-01-01 23:00:00,Raumwärme,1
+Constant,1900-01-01 23:00:00,Warmwasser,1
+Constant,1900-01-01 23:15:00,Beleuchtung,1
+Constant,1900-01-01 23:15:00,IKT,1
+Constant,1900-01-01 23:15:00,Klimakälte,1
+Constant,1900-01-01 23:15:00,mechanische Antriebe,1
+Constant,1900-01-01 23:15:00,Prozesskälte,1
+Constant,1900-01-01 23:15:00,Prozesswärme,1
+Constant,1900-01-01 23:15:00,Raumwärme,1
+Constant,1900-01-01 23:15:00,Warmwasser,1
+Constant,1900-01-01 23:30:00,Beleuchtung,1
+Constant,1900-01-01 23:30:00,IKT,1
+Constant,1900-01-01 23:30:00,Klimakälte,1
+Constant,1900-01-01 23:30:00,mechanische Antriebe,1
+Constant,1900-01-01 23:30:00,Prozesskälte,1
+Constant,1900-01-01 23:30:00,Prozesswärme,1
+Constant,1900-01-01 23:30:00,Raumwärme,1
+Constant,1900-01-01 23:30:00,Warmwasser,1
+Constant,1900-01-01 23:45:00,Beleuchtung,1
+Constant,1900-01-01 23:45:00,IKT,1
+Constant,1900-01-01 23:45:00,Klimakälte,1
+Constant,1900-01-01 23:45:00,mechanische Antriebe,1
+Constant,1900-01-01 23:45:00,Prozesskälte,1
+Constant,1900-01-01 23:45:00,Prozesswärme,1
+Constant,1900-01-01 23:45:00,Raumwärme,1
+Constant,1900-01-01 23:45:00,Warmwasser,1
+Holiday,1900-01-01 00:00:00,Beleuchtung,1.17727
+Holiday,1900-01-01 00:00:00,IKT,1.17727
+Holiday,1900-01-01 00:00:00,Klimakälte,1.17727
+Holiday,1900-01-01 00:00:00,mechanische Antriebe,1.08863
+Holiday,1900-01-01 00:00:00,Prozesskälte,1
+Holiday,1900-01-01 00:00:00,Prozesswärme,1.08863
+Holiday,1900-01-01 00:00:00,Raumwärme,1.17727
+Holiday,1900-01-01 00:00:00,Warmwasser,1.17727
+Holiday,1900-01-01 00:15:00,Beleuchtung,1.17727
+Holiday,1900-01-01 00:15:00,IKT,1.17727
+Holiday,1900-01-01 00:15:00,Klimakälte,1.17727
+Holiday,1900-01-01 00:15:00,mechanische Antriebe,1.08863
+Holiday,1900-01-01 00:15:00,Prozesskälte,1
+Holiday,1900-01-01 00:15:00,Prozesswärme,1.08863
+Holiday,1900-01-01 00:15:00,Raumwärme,1.17727
+Holiday,1900-01-01 00:15:00,Warmwasser,1.17727
+Holiday,1900-01-01 00:30:00,Beleuchtung,1.17727
+Holiday,1900-01-01 00:30:00,IKT,1.17727
+Holiday,1900-01-01 00:30:00,Klimakälte,1.17727
+Holiday,1900-01-01 00:30:00,mechanische Antriebe,1.08863
+Holiday,1900-01-01 00:30:00,Prozesskälte,1
+Holiday,1900-01-01 00:30:00,Prozesswärme,1.08863
+Holiday,1900-01-01 00:30:00,Raumwärme,1.17727
+Holiday,1900-01-01 00:30:00,Warmwasser,1.17727
+Holiday,1900-01-01 00:45:00,Beleuchtung,1.17727
+Holiday,1900-01-01 00:45:00,IKT,1.17727
+Holiday,1900-01-01 00:45:00,Klimakälte,1.17727
+Holiday,1900-01-01 00:45:00,mechanische Antriebe,1.08863
+Holiday,1900-01-01 00:45:00,Prozesskälte,1
+Holiday,1900-01-01 00:45:00,Prozesswärme,1.08863
+Holiday,1900-01-01 00:45:00,Raumwärme,1.17727
+Holiday,1900-01-01 00:45:00,Warmwasser,1.17727
+Holiday,1900-01-01 01:00:00,Beleuchtung,1.17727
+Holiday,1900-01-01 01:00:00,IKT,1.17727
+Holiday,1900-01-01 01:00:00,Klimakälte,1.17727
+Holiday,1900-01-01 01:00:00,mechanische Antriebe,1.08863
+Holiday,1900-01-01 01:00:00,Prozesskälte,1
+Holiday,1900-01-01 01:00:00,Prozesswärme,1.08863
+Holiday,1900-01-01 01:00:00,Raumwärme,1.17727
+Holiday,1900-01-01 01:00:00,Warmwasser,1.17727
+Holiday,1900-01-01 01:15:00,Beleuchtung,1.15151
+Holiday,1900-01-01 01:15:00,IKT,1.15151
+Holiday,1900-01-01 01:15:00,Klimakälte,1.15151
+Holiday,1900-01-01 01:15:00,mechanische Antriebe,1.07576
+Holiday,1900-01-01 01:15:00,Prozesskälte,1
+Holiday,1900-01-01 01:15:00,Prozesswärme,1.07576
+Holiday,1900-01-01 01:15:00,Raumwärme,1.15151
+Holiday,1900-01-01 01:15:00,Warmwasser,1.15151
+Holiday,1900-01-01 01:30:00,Beleuchtung,1.122
+Holiday,1900-01-01 01:30:00,IKT,1.122
+Holiday,1900-01-01 01:30:00,Klimakälte,1.122
+Holiday,1900-01-01 01:30:00,mechanische Antriebe,1.061
+Holiday,1900-01-01 01:30:00,Prozesskälte,1
+Holiday,1900-01-01 01:30:00,Prozesswärme,1.061
+Holiday,1900-01-01 01:30:00,Raumwärme,1.122
+Holiday,1900-01-01 01:30:00,Warmwasser,1.122
+Holiday,1900-01-01 01:45:00,Beleuchtung,1.09199
+Holiday,1900-01-01 01:45:00,IKT,1.09199
+Holiday,1900-01-01 01:45:00,Klimakälte,1.09199
+Holiday,1900-01-01 01:45:00,mechanische Antriebe,1.04599
+Holiday,1900-01-01 01:45:00,Prozesskälte,1
+Holiday,1900-01-01 01:45:00,Prozesswärme,1.04599
+Holiday,1900-01-01 01:45:00,Raumwärme,1.09199
+Holiday,1900-01-01 01:45:00,Warmwasser,1.09199
+Holiday,1900-01-01 02:00:00,Beleuchtung,1.06475
+Holiday,1900-01-01 02:00:00,IKT,1.06475
+Holiday,1900-01-01 02:00:00,Klimakälte,1.06475
+Holiday,1900-01-01 02:00:00,mechanische Antriebe,1.03238
+Holiday,1900-01-01 02:00:00,Prozesskälte,1
+Holiday,1900-01-01 02:00:00,Prozesswärme,1.03238
+Holiday,1900-01-01 02:00:00,Raumwärme,1.06475
+Holiday,1900-01-01 02:00:00,Warmwasser,1.06475
+Holiday,1900-01-01 02:15:00,Beleuchtung,1.04283
+Holiday,1900-01-01 02:15:00,IKT,1.04283
+Holiday,1900-01-01 02:15:00,Klimakälte,1.04283
+Holiday,1900-01-01 02:15:00,mechanische Antriebe,1.02141
+Holiday,1900-01-01 02:15:00,Prozesskälte,1
+Holiday,1900-01-01 02:15:00,Prozesswärme,1.02141
+Holiday,1900-01-01 02:15:00,Raumwärme,1.04283
+Holiday,1900-01-01 02:15:00,Warmwasser,1.04283
+Holiday,1900-01-01 02:30:00,Beleuchtung,1.02585
+Holiday,1900-01-01 02:30:00,IKT,1.02585
+Holiday,1900-01-01 02:30:00,Klimakälte,1.02585
+Holiday,1900-01-01 02:30:00,mechanische Antriebe,1.01292
+Holiday,1900-01-01 02:30:00,Prozesskälte,1
+Holiday,1900-01-01 02:30:00,Prozesswärme,1.01292
+Holiday,1900-01-01 02:30:00,Raumwärme,1.02585
+Holiday,1900-01-01 02:30:00,Warmwasser,1.02585
+Holiday,1900-01-01 02:45:00,Beleuchtung,1.0127
+Holiday,1900-01-01 02:45:00,IKT,1.0127
+Holiday,1900-01-01 02:45:00,Klimakälte,1.0127
+Holiday,1900-01-01 02:45:00,mechanische Antriebe,1.00635
+Holiday,1900-01-01 02:45:00,Prozesskälte,1
+Holiday,1900-01-01 02:45:00,Prozesswärme,1.00635
+Holiday,1900-01-01 02:45:00,Raumwärme,1.0127
+Holiday,1900-01-01 02:45:00,Warmwasser,1.0127
+Holiday,1900-01-01 03:00:00,Beleuchtung,1.00228
+Holiday,1900-01-01 03:00:00,IKT,1.00228
+Holiday,1900-01-01 03:00:00,Klimakälte,1.00228
+Holiday,1900-01-01 03:00:00,mechanische Antriebe,1.00114
+Holiday,1900-01-01 03:00:00,Prozesskälte,1
+Holiday,1900-01-01 03:00:00,Prozesswärme,1.00114
+Holiday,1900-01-01 03:00:00,Raumwärme,1.00228
+Holiday,1900-01-01 03:00:00,Warmwasser,1.00228
+Holiday,1900-01-01 03:15:00,Beleuchtung,0.993676
+Holiday,1900-01-01 03:15:00,IKT,0.993676
+Holiday,1900-01-01 03:15:00,Klimakälte,0.993676
+Holiday,1900-01-01 03:15:00,mechanische Antriebe,0.996838
+Holiday,1900-01-01 03:15:00,Prozesskälte,1
+Holiday,1900-01-01 03:15:00,Prozesswärme,0.996838
+Holiday,1900-01-01 03:15:00,Raumwärme,0.993676
+Holiday,1900-01-01 03:15:00,Warmwasser,0.993676
+Holiday,1900-01-01 03:30:00,Beleuchtung,0.986714
+Holiday,1900-01-01 03:30:00,IKT,0.986714
+Holiday,1900-01-01 03:30:00,Klimakälte,0.986714
+Holiday,1900-01-01 03:30:00,mechanische Antriebe,0.993357
+Holiday,1900-01-01 03:30:00,Prozesskälte,1
+Holiday,1900-01-01 03:30:00,Prozesswärme,0.993357
+Holiday,1900-01-01 03:30:00,Raumwärme,0.986714
+Holiday,1900-01-01 03:30:00,Warmwasser,0.986714
+Holiday,1900-01-01 03:45:00,Beleuchtung,0.981418
+Holiday,1900-01-01 03:45:00,IKT,0.981418
+Holiday,1900-01-01 03:45:00,Klimakälte,0.981418
+Holiday,1900-01-01 03:45:00,mechanische Antriebe,0.990709
+Holiday,1900-01-01 03:45:00,Prozesskälte,1
+Holiday,1900-01-01 03:45:00,Prozesswärme,0.990709
+Holiday,1900-01-01 03:45:00,Raumwärme,0.981418
+Holiday,1900-01-01 03:45:00,Warmwasser,0.981418
+Holiday,1900-01-01 04:00:00,Beleuchtung,0.977806
+Holiday,1900-01-01 04:00:00,IKT,0.977806
+Holiday,1900-01-01 04:00:00,Klimakälte,0.977806
+Holiday,1900-01-01 04:00:00,mechanische Antriebe,0.988903
+Holiday,1900-01-01 04:00:00,Prozesskälte,1
+Holiday,1900-01-01 04:00:00,Prozesswärme,0.988903
+Holiday,1900-01-01 04:00:00,Raumwärme,0.977806
+Holiday,1900-01-01 04:00:00,Warmwasser,0.977806
+Holiday,1900-01-01 04:15:00,Beleuchtung,0.975844
+Holiday,1900-01-01 04:15:00,IKT,0.975844
+Holiday,1900-01-01 04:15:00,Klimakälte,0.975844
+Holiday,1900-01-01 04:15:00,mechanische Antriebe,0.987922
+Holiday,1900-01-01 04:15:00,Prozesskälte,1
+Holiday,1900-01-01 04:15:00,Prozesswärme,0.987922
+Holiday,1900-01-01 04:15:00,Raumwärme,0.975844
+Holiday,1900-01-01 04:15:00,Warmwasser,0.975844
+Holiday,1900-01-01 04:30:00,Beleuchtung,0.975275
+Holiday,1900-01-01 04:30:00,IKT,0.975275
+Holiday,1900-01-01 04:30:00,Klimakälte,0.975275
+Holiday,1900-01-01 04:30:00,mechanische Antriebe,0.987637
+Holiday,1900-01-01 04:30:00,Prozesskälte,1
+Holiday,1900-01-01 04:30:00,Prozesswärme,0.987637
+Holiday,1900-01-01 04:30:00,Raumwärme,0.975275
+Holiday,1900-01-01 04:30:00,Warmwasser,0.975275
+Holiday,1900-01-01 04:45:00,Beleuchtung,0.975789
+Holiday,1900-01-01 04:45:00,IKT,0.975789
+Holiday,1900-01-01 04:45:00,Klimakälte,0.975789
+Holiday,1900-01-01 04:45:00,mechanische Antriebe,0.987895
+Holiday,1900-01-01 04:45:00,Prozesskälte,1
+Holiday,1900-01-01 04:45:00,Prozesswärme,0.987895
+Holiday,1900-01-01 04:45:00,Raumwärme,0.975789
+Holiday,1900-01-01 04:45:00,Warmwasser,0.975789
+Holiday,1900-01-01 05:00:00,Beleuchtung,0.977075
+Holiday,1900-01-01 05:00:00,IKT,0.977075
+Holiday,1900-01-01 05:00:00,Klimakälte,0.977075
+Holiday,1900-01-01 05:00:00,mechanische Antriebe,0.988538
+Holiday,1900-01-01 05:00:00,Prozesskälte,1
+Holiday,1900-01-01 05:00:00,Prozesswärme,0.988538
+Holiday,1900-01-01 05:00:00,Raumwärme,0.977075
+Holiday,1900-01-01 05:00:00,Warmwasser,0.977075
+Holiday,1900-01-01 05:15:00,Beleuchtung,0.97885
+Holiday,1900-01-01 05:15:00,IKT,0.97885
+Holiday,1900-01-01 05:15:00,Klimakälte,0.97885
+Holiday,1900-01-01 05:15:00,mechanische Antriebe,0.989425
+Holiday,1900-01-01 05:15:00,Prozesskälte,1
+Holiday,1900-01-01 05:15:00,Prozesswärme,0.989425
+Holiday,1900-01-01 05:15:00,Raumwärme,0.97885
+Holiday,1900-01-01 05:15:00,Warmwasser,0.97885
+Holiday,1900-01-01 05:30:00,Beleuchtung,0.980939
+Holiday,1900-01-01 05:30:00,IKT,0.980939
+Holiday,1900-01-01 05:30:00,Klimakälte,0.980939
+Holiday,1900-01-01 05:30:00,mechanische Antriebe,0.990469
+Holiday,1900-01-01 05:30:00,Prozesskälte,1
+Holiday,1900-01-01 05:30:00,Prozesswärme,0.990469
+Holiday,1900-01-01 05:30:00,Raumwärme,0.980939
+Holiday,1900-01-01 05:30:00,Warmwasser,0.980939
+Holiday,1900-01-01 05:45:00,Beleuchtung,0.983197
+Holiday,1900-01-01 05:45:00,IKT,0.983197
+Holiday,1900-01-01 05:45:00,Klimakälte,0.983197
+Holiday,1900-01-01 05:45:00,mechanische Antriebe,0.991598
+Holiday,1900-01-01 05:45:00,Prozesskälte,1
+Holiday,1900-01-01 05:45:00,Prozesswärme,0.991598
+Holiday,1900-01-01 05:45:00,Raumwärme,0.983197
+Holiday,1900-01-01 05:45:00,Warmwasser,0.983197
+Holiday,1900-01-01 06:00:00,Beleuchtung,0.985477
+Holiday,1900-01-01 06:00:00,IKT,0.985477
+Holiday,1900-01-01 06:00:00,Klimakälte,0.985477
+Holiday,1900-01-01 06:00:00,mechanische Antriebe,0.992739
+Holiday,1900-01-01 06:00:00,Prozesskälte,1
+Holiday,1900-01-01 06:00:00,Prozesswärme,0.992739
+Holiday,1900-01-01 06:00:00,Raumwärme,0.985477
+Holiday,1900-01-01 06:00:00,Warmwasser,0.985477
+Holiday,1900-01-01 06:15:00,Beleuchtung,0.987655
+Holiday,1900-01-01 06:15:00,IKT,0.987655
+Holiday,1900-01-01 06:15:00,Klimakälte,0.987655
+Holiday,1900-01-01 06:15:00,mechanische Antriebe,0.993827
+Holiday,1900-01-01 06:15:00,Prozesskälte,1
+Holiday,1900-01-01 06:15:00,Prozesswärme,0.993827
+Holiday,1900-01-01 06:15:00,Raumwärme,0.987655
+Holiday,1900-01-01 06:15:00,Warmwasser,0.987655
+Holiday,1900-01-01 06:30:00,Beleuchtung,0.989679
+Holiday,1900-01-01 06:30:00,IKT,0.989679
+Holiday,1900-01-01 06:30:00,Klimakälte,0.989679
+Holiday,1900-01-01 06:30:00,mechanische Antriebe,0.994839
+Holiday,1900-01-01 06:30:00,Prozesskälte,1
+Holiday,1900-01-01 06:30:00,Prozesswärme,0.994839
+Holiday,1900-01-01 06:30:00,Raumwärme,0.989679
+Holiday,1900-01-01 06:30:00,Warmwasser,0.989679
+Holiday,1900-01-01 06:45:00,Beleuchtung,0.99152
+Holiday,1900-01-01 06:45:00,IKT,0.99152
+Holiday,1900-01-01 06:45:00,Klimakälte,0.99152
+Holiday,1900-01-01 06:45:00,mechanische Antriebe,0.99576
+Holiday,1900-01-01 06:45:00,Prozesskälte,1
+Holiday,1900-01-01 06:45:00,Prozesswärme,0.99576
+Holiday,1900-01-01 06:45:00,Raumwärme,0.99152
+Holiday,1900-01-01 06:45:00,Warmwasser,0.99152
+Holiday,1900-01-01 07:00:00,Beleuchtung,0.993149
+Holiday,1900-01-01 07:00:00,IKT,0.993149
+Holiday,1900-01-01 07:00:00,Klimakälte,0.993149
+Holiday,1900-01-01 07:00:00,mechanische Antriebe,0.996575
+Holiday,1900-01-01 07:00:00,Prozesskälte,1
+Holiday,1900-01-01 07:00:00,Prozesswärme,0.996575
+Holiday,1900-01-01 07:00:00,Raumwärme,0.993149
+Holiday,1900-01-01 07:00:00,Warmwasser,0.993149
+Holiday,1900-01-01 07:15:00,Beleuchtung,0.994551
+Holiday,1900-01-01 07:15:00,IKT,0.994551
+Holiday,1900-01-01 07:15:00,Klimakälte,0.994551
+Holiday,1900-01-01 07:15:00,mechanische Antriebe,0.997275
+Holiday,1900-01-01 07:15:00,Prozesskälte,1
+Holiday,1900-01-01 07:15:00,Prozesswärme,0.997275
+Holiday,1900-01-01 07:15:00,Raumwärme,0.994551
+Holiday,1900-01-01 07:15:00,Warmwasser,0.994551
+Holiday,1900-01-01 07:30:00,Beleuchtung,0.995769
+Holiday,1900-01-01 07:30:00,IKT,0.995769
+Holiday,1900-01-01 07:30:00,Klimakälte,0.995769
+Holiday,1900-01-01 07:30:00,mechanische Antriebe,0.997885
+Holiday,1900-01-01 07:30:00,Prozesskälte,1
+Holiday,1900-01-01 07:30:00,Prozesswärme,0.997885
+Holiday,1900-01-01 07:30:00,Raumwärme,0.995769
+Holiday,1900-01-01 07:30:00,Warmwasser,0.995769
+Holiday,1900-01-01 07:45:00,Beleuchtung,0.996865
+Holiday,1900-01-01 07:45:00,IKT,0.996865
+Holiday,1900-01-01 07:45:00,Klimakälte,0.996865
+Holiday,1900-01-01 07:45:00,mechanische Antriebe,0.998433
+Holiday,1900-01-01 07:45:00,Prozesskälte,1
+Holiday,1900-01-01 07:45:00,Prozesswärme,0.998433
+Holiday,1900-01-01 07:45:00,Raumwärme,0.996865
+Holiday,1900-01-01 07:45:00,Warmwasser,0.996865
+Holiday,1900-01-01 08:00:00,Beleuchtung,0.997898
+Holiday,1900-01-01 08:00:00,IKT,0.997898
+Holiday,1900-01-01 08:00:00,Klimakälte,0.997898
+Holiday,1900-01-01 08:00:00,mechanische Antriebe,0.998949
+Holiday,1900-01-01 08:00:00,Prozesskälte,1
+Holiday,1900-01-01 08:00:00,Prozesswärme,0.998949
+Holiday,1900-01-01 08:00:00,Raumwärme,0.997898
+Holiday,1900-01-01 08:00:00,Warmwasser,0.997898
+Holiday,1900-01-01 08:15:00,Beleuchtung,0.998917
+Holiday,1900-01-01 08:15:00,IKT,0.998917
+Holiday,1900-01-01 08:15:00,Klimakälte,0.998917
+Holiday,1900-01-01 08:15:00,mechanische Antriebe,0.999458
+Holiday,1900-01-01 08:15:00,Prozesskälte,1
+Holiday,1900-01-01 08:15:00,Prozesswärme,0.999458
+Holiday,1900-01-01 08:15:00,Raumwärme,0.998917
+Holiday,1900-01-01 08:15:00,Warmwasser,0.998917
+Holiday,1900-01-01 08:30:00,Beleuchtung,0.999928
+Holiday,1900-01-01 08:30:00,IKT,0.999928
+Holiday,1900-01-01 08:30:00,Klimakälte,0.999928
+Holiday,1900-01-01 08:30:00,mechanische Antriebe,0.999964
+Holiday,1900-01-01 08:30:00,Prozesskälte,1
+Holiday,1900-01-01 08:30:00,Prozesswärme,0.999964
+Holiday,1900-01-01 08:30:00,Raumwärme,0.999928
+Holiday,1900-01-01 08:30:00,Warmwasser,0.999928
+Holiday,1900-01-01 08:45:00,Beleuchtung,1.00093
+Holiday,1900-01-01 08:45:00,IKT,1.00093
+Holiday,1900-01-01 08:45:00,Klimakälte,1.00093
+Holiday,1900-01-01 08:45:00,mechanische Antriebe,1.00046
+Holiday,1900-01-01 08:45:00,Prozesskälte,1
+Holiday,1900-01-01 08:45:00,Prozesswärme,1.00046
+Holiday,1900-01-01 08:45:00,Raumwärme,1.00093
+Holiday,1900-01-01 08:45:00,Warmwasser,1.00093
+Holiday,1900-01-01 09:00:00,Beleuchtung,1.00192
+Holiday,1900-01-01 09:00:00,IKT,1.00192
+Holiday,1900-01-01 09:00:00,Klimakälte,1.00192
+Holiday,1900-01-01 09:00:00,mechanische Antriebe,1.00096
+Holiday,1900-01-01 09:00:00,Prozesskälte,1
+Holiday,1900-01-01 09:00:00,Prozesswärme,1.00096
+Holiday,1900-01-01 09:00:00,Raumwärme,1.00192
+Holiday,1900-01-01 09:00:00,Warmwasser,1.00192
+Holiday,1900-01-01 09:15:00,Beleuchtung,1.00288
+Holiday,1900-01-01 09:15:00,IKT,1.00288
+Holiday,1900-01-01 09:15:00,Klimakälte,1.00288
+Holiday,1900-01-01 09:15:00,mechanische Antriebe,1.00144
+Holiday,1900-01-01 09:15:00,Prozesskälte,1
+Holiday,1900-01-01 09:15:00,Prozesswärme,1.00144
+Holiday,1900-01-01 09:15:00,Raumwärme,1.00288
+Holiday,1900-01-01 09:15:00,Warmwasser,1.00288
+Holiday,1900-01-01 09:30:00,Beleuchtung,1.00378
+Holiday,1900-01-01 09:30:00,IKT,1.00378
+Holiday,1900-01-01 09:30:00,Klimakälte,1.00378
+Holiday,1900-01-01 09:30:00,mechanische Antriebe,1.00189
+Holiday,1900-01-01 09:30:00,Prozesskälte,1
+Holiday,1900-01-01 09:30:00,Prozesswärme,1.00189
+Holiday,1900-01-01 09:30:00,Raumwärme,1.00378
+Holiday,1900-01-01 09:30:00,Warmwasser,1.00378
+Holiday,1900-01-01 09:45:00,Beleuchtung,1.00457
+Holiday,1900-01-01 09:45:00,IKT,1.00457
+Holiday,1900-01-01 09:45:00,Klimakälte,1.00457
+Holiday,1900-01-01 09:45:00,mechanische Antriebe,1.00228
+Holiday,1900-01-01 09:45:00,Prozesskälte,1
+Holiday,1900-01-01 09:45:00,Prozesswärme,1.00228
+Holiday,1900-01-01 09:45:00,Raumwärme,1.00457
+Holiday,1900-01-01 09:45:00,Warmwasser,1.00457
+Holiday,1900-01-01 10:00:00,Beleuchtung,1.0052
+Holiday,1900-01-01 10:00:00,IKT,1.0052
+Holiday,1900-01-01 10:00:00,Klimakälte,1.0052
+Holiday,1900-01-01 10:00:00,mechanische Antriebe,1.0026
+Holiday,1900-01-01 10:00:00,Prozesskälte,1
+Holiday,1900-01-01 10:00:00,Prozesswärme,1.0026
+Holiday,1900-01-01 10:00:00,Raumwärme,1.0052
+Holiday,1900-01-01 10:00:00,Warmwasser,1.0052
+Holiday,1900-01-01 10:15:00,Beleuchtung,1.00565
+Holiday,1900-01-01 10:15:00,IKT,1.00565
+Holiday,1900-01-01 10:15:00,Klimakälte,1.00565
+Holiday,1900-01-01 10:15:00,mechanische Antriebe,1.00282
+Holiday,1900-01-01 10:15:00,Prozesskälte,1
+Holiday,1900-01-01 10:15:00,Prozesswärme,1.00282
+Holiday,1900-01-01 10:15:00,Raumwärme,1.00565
+Holiday,1900-01-01 10:15:00,Warmwasser,1.00565
+Holiday,1900-01-01 10:30:00,Beleuchtung,1.00591
+Holiday,1900-01-01 10:30:00,IKT,1.00591
+Holiday,1900-01-01 10:30:00,Klimakälte,1.00591
+Holiday,1900-01-01 10:30:00,mechanische Antriebe,1.00295
+Holiday,1900-01-01 10:30:00,Prozesskälte,1
+Holiday,1900-01-01 10:30:00,Prozesswärme,1.00295
+Holiday,1900-01-01 10:30:00,Raumwärme,1.00591
+Holiday,1900-01-01 10:30:00,Warmwasser,1.00591
+Holiday,1900-01-01 10:45:00,Beleuchtung,1.006
+Holiday,1900-01-01 10:45:00,IKT,1.006
+Holiday,1900-01-01 10:45:00,Klimakälte,1.006
+Holiday,1900-01-01 10:45:00,mechanische Antriebe,1.003
+Holiday,1900-01-01 10:45:00,Prozesskälte,1
+Holiday,1900-01-01 10:45:00,Prozesswärme,1.003
+Holiday,1900-01-01 10:45:00,Raumwärme,1.006
+Holiday,1900-01-01 10:45:00,Warmwasser,1.006
+Holiday,1900-01-01 11:00:00,Beleuchtung,1.00593
+Holiday,1900-01-01 11:00:00,IKT,1.00593
+Holiday,1900-01-01 11:00:00,Klimakälte,1.00593
+Holiday,1900-01-01 11:00:00,mechanische Antriebe,1.00297
+Holiday,1900-01-01 11:00:00,Prozesskälte,1
+Holiday,1900-01-01 11:00:00,Prozesswärme,1.00297
+Holiday,1900-01-01 11:00:00,Raumwärme,1.00593
+Holiday,1900-01-01 11:00:00,Warmwasser,1.00593
+Holiday,1900-01-01 11:15:00,Beleuchtung,1.00573
+Holiday,1900-01-01 11:15:00,IKT,1.00573
+Holiday,1900-01-01 11:15:00,Klimakälte,1.00573
+Holiday,1900-01-01 11:15:00,mechanische Antriebe,1.00286
+Holiday,1900-01-01 11:15:00,Prozesskälte,1
+Holiday,1900-01-01 11:15:00,Prozesswärme,1.00286
+Holiday,1900-01-01 11:15:00,Raumwärme,1.00573
+Holiday,1900-01-01 11:15:00,Warmwasser,1.00573
+Holiday,1900-01-01 11:30:00,Beleuchtung,1.00536
+Holiday,1900-01-01 11:30:00,IKT,1.00536
+Holiday,1900-01-01 11:30:00,Klimakälte,1.00536
+Holiday,1900-01-01 11:30:00,mechanische Antriebe,1.00268
+Holiday,1900-01-01 11:30:00,Prozesskälte,1
+Holiday,1900-01-01 11:30:00,Prozesswärme,1.00268
+Holiday,1900-01-01 11:30:00,Raumwärme,1.00536
+Holiday,1900-01-01 11:30:00,Warmwasser,1.00536
+Holiday,1900-01-01 11:45:00,Beleuchtung,1.00483
+Holiday,1900-01-01 11:45:00,IKT,1.00483
+Holiday,1900-01-01 11:45:00,Klimakälte,1.00483
+Holiday,1900-01-01 11:45:00,mechanische Antriebe,1.00241
+Holiday,1900-01-01 11:45:00,Prozesskälte,1
+Holiday,1900-01-01 11:45:00,Prozesswärme,1.00241
+Holiday,1900-01-01 11:45:00,Raumwärme,1.00483
+Holiday,1900-01-01 11:45:00,Warmwasser,1.00483
+Holiday,1900-01-01 12:00:00,Beleuchtung,1.00411
+Holiday,1900-01-01 12:00:00,IKT,1.00411
+Holiday,1900-01-01 12:00:00,Klimakälte,1.00411
+Holiday,1900-01-01 12:00:00,mechanische Antriebe,1.00205
+Holiday,1900-01-01 12:00:00,Prozesskälte,1
+Holiday,1900-01-01 12:00:00,Prozesswärme,1.00205
+Holiday,1900-01-01 12:00:00,Raumwärme,1.00411
+Holiday,1900-01-01 12:00:00,Warmwasser,1.00411
+Holiday,1900-01-01 12:15:00,Beleuchtung,1.00318
+Holiday,1900-01-01 12:15:00,IKT,1.00318
+Holiday,1900-01-01 12:15:00,Klimakälte,1.00318
+Holiday,1900-01-01 12:15:00,mechanische Antriebe,1.00159
+Holiday,1900-01-01 12:15:00,Prozesskälte,1
+Holiday,1900-01-01 12:15:00,Prozesswärme,1.00159
+Holiday,1900-01-01 12:15:00,Raumwärme,1.00318
+Holiday,1900-01-01 12:15:00,Warmwasser,1.00318
+Holiday,1900-01-01 12:30:00,Beleuchtung,1.002
+Holiday,1900-01-01 12:30:00,IKT,1.002
+Holiday,1900-01-01 12:30:00,Klimakälte,1.002
+Holiday,1900-01-01 12:30:00,mechanische Antriebe,1.001
+Holiday,1900-01-01 12:30:00,Prozesskälte,1
+Holiday,1900-01-01 12:30:00,Prozesswärme,1.001
+Holiday,1900-01-01 12:30:00,Raumwärme,1.002
+Holiday,1900-01-01 12:30:00,Warmwasser,1.002
+Holiday,1900-01-01 12:45:00,Beleuchtung,1.0005
+Holiday,1900-01-01 12:45:00,IKT,1.0005
+Holiday,1900-01-01 12:45:00,Klimakälte,1.0005
+Holiday,1900-01-01 12:45:00,mechanische Antriebe,1.00025
+Holiday,1900-01-01 12:45:00,Prozesskälte,1
+Holiday,1900-01-01 12:45:00,Prozesswärme,1.00025
+Holiday,1900-01-01 12:45:00,Raumwärme,1.0005
+Holiday,1900-01-01 12:45:00,Warmwasser,1.0005
+Holiday,1900-01-01 13:00:00,Beleuchtung,0.998629
+Holiday,1900-01-01 13:00:00,IKT,0.998629
+Holiday,1900-01-01 13:00:00,Klimakälte,0.998629
+Holiday,1900-01-01 13:00:00,mechanische Antriebe,0.999314
+Holiday,1900-01-01 13:00:00,Prozesskälte,1
+Holiday,1900-01-01 13:00:00,Prozesswärme,0.999314
+Holiday,1900-01-01 13:00:00,Raumwärme,0.998629
+Holiday,1900-01-01 13:00:00,Warmwasser,0.998629
+Holiday,1900-01-01 13:15:00,Beleuchtung,0.996323
+Holiday,1900-01-01 13:15:00,IKT,0.996323
+Holiday,1900-01-01 13:15:00,Klimakälte,0.996323
+Holiday,1900-01-01 13:15:00,mechanische Antriebe,0.998161
+Holiday,1900-01-01 13:15:00,Prozesskälte,1
+Holiday,1900-01-01 13:15:00,Prozesswärme,0.998161
+Holiday,1900-01-01 13:15:00,Raumwärme,0.996323
+Holiday,1900-01-01 13:15:00,Warmwasser,0.996323
+Holiday,1900-01-01 13:30:00,Beleuchtung,0.993524
+Holiday,1900-01-01 13:30:00,IKT,0.993524
+Holiday,1900-01-01 13:30:00,Klimakälte,0.993524
+Holiday,1900-01-01 13:30:00,mechanische Antriebe,0.996762
+Holiday,1900-01-01 13:30:00,Prozesskälte,1
+Holiday,1900-01-01 13:30:00,Prozesswärme,0.996762
+Holiday,1900-01-01 13:30:00,Raumwärme,0.993524
+Holiday,1900-01-01 13:30:00,Warmwasser,0.993524
+Holiday,1900-01-01 13:45:00,Beleuchtung,0.990173
+Holiday,1900-01-01 13:45:00,IKT,0.990173
+Holiday,1900-01-01 13:45:00,Klimakälte,0.990173
+Holiday,1900-01-01 13:45:00,mechanische Antriebe,0.995086
+Holiday,1900-01-01 13:45:00,Prozesskälte,1
+Holiday,1900-01-01 13:45:00,Prozesswärme,0.995086
+Holiday,1900-01-01 13:45:00,Raumwärme,0.990173
+Holiday,1900-01-01 13:45:00,Warmwasser,0.990173
+Holiday,1900-01-01 14:00:00,Beleuchtung,0.986208
+Holiday,1900-01-01 14:00:00,IKT,0.986208
+Holiday,1900-01-01 14:00:00,Klimakälte,0.986208
+Holiday,1900-01-01 14:00:00,mechanische Antriebe,0.993104
+Holiday,1900-01-01 14:00:00,Prozesskälte,1
+Holiday,1900-01-01 14:00:00,Prozesswärme,0.993104
+Holiday,1900-01-01 14:00:00,Raumwärme,0.986208
+Holiday,1900-01-01 14:00:00,Warmwasser,0.986208
+Holiday,1900-01-01 14:15:00,Beleuchtung,0.981607
+Holiday,1900-01-01 14:15:00,IKT,0.981607
+Holiday,1900-01-01 14:15:00,Klimakälte,0.981607
+Holiday,1900-01-01 14:15:00,mechanische Antriebe,0.990804
+Holiday,1900-01-01 14:15:00,Prozesskälte,1
+Holiday,1900-01-01 14:15:00,Prozesswärme,0.990804
+Holiday,1900-01-01 14:15:00,Raumwärme,0.981607
+Holiday,1900-01-01 14:15:00,Warmwasser,0.981607
+Holiday,1900-01-01 14:30:00,Beleuchtung,0.976495
+Holiday,1900-01-01 14:30:00,IKT,0.976495
+Holiday,1900-01-01 14:30:00,Klimakälte,0.976495
+Holiday,1900-01-01 14:30:00,mechanische Antriebe,0.988248
+Holiday,1900-01-01 14:30:00,Prozesskälte,1
+Holiday,1900-01-01 14:30:00,Prozesswärme,0.988248
+Holiday,1900-01-01 14:30:00,Raumwärme,0.976495
+Holiday,1900-01-01 14:30:00,Warmwasser,0.976495
+Holiday,1900-01-01 14:45:00,Beleuchtung,0.971034
+Holiday,1900-01-01 14:45:00,IKT,0.971034
+Holiday,1900-01-01 14:45:00,Klimakälte,0.971034
+Holiday,1900-01-01 14:45:00,mechanische Antriebe,0.985517
+Holiday,1900-01-01 14:45:00,Prozesskälte,1
+Holiday,1900-01-01 14:45:00,Prozesswärme,0.985517
+Holiday,1900-01-01 14:45:00,Raumwärme,0.971034
+Holiday,1900-01-01 14:45:00,Warmwasser,0.971034
+Holiday,1900-01-01 15:00:00,Beleuchtung,0.965385
+Holiday,1900-01-01 15:00:00,IKT,0.965385
+Holiday,1900-01-01 15:00:00,Klimakälte,0.965385
+Holiday,1900-01-01 15:00:00,mechanische Antriebe,0.982693
+Holiday,1900-01-01 15:00:00,Prozesskälte,1
+Holiday,1900-01-01 15:00:00,Prozesswärme,0.982693
+Holiday,1900-01-01 15:00:00,Raumwärme,0.965385
+Holiday,1900-01-01 15:00:00,Warmwasser,0.965385
+Holiday,1900-01-01 15:15:00,Beleuchtung,0.959712
+Holiday,1900-01-01 15:15:00,IKT,0.959712
+Holiday,1900-01-01 15:15:00,Klimakälte,0.959712
+Holiday,1900-01-01 15:15:00,mechanische Antriebe,0.979856
+Holiday,1900-01-01 15:15:00,Prozesskälte,1
+Holiday,1900-01-01 15:15:00,Prozesswärme,0.979856
+Holiday,1900-01-01 15:15:00,Raumwärme,0.959712
+Holiday,1900-01-01 15:15:00,Warmwasser,0.959712
+Holiday,1900-01-01 15:30:00,Beleuchtung,0.954179
+Holiday,1900-01-01 15:30:00,IKT,0.954179
+Holiday,1900-01-01 15:30:00,Klimakälte,0.954179
+Holiday,1900-01-01 15:30:00,mechanische Antriebe,0.97709
+Holiday,1900-01-01 15:30:00,Prozesskälte,1
+Holiday,1900-01-01 15:30:00,Prozesswärme,0.97709
+Holiday,1900-01-01 15:30:00,Raumwärme,0.954179
+Holiday,1900-01-01 15:30:00,Warmwasser,0.954179
+Holiday,1900-01-01 15:45:00,Beleuchtung,0.948952
+Holiday,1900-01-01 15:45:00,IKT,0.948952
+Holiday,1900-01-01 15:45:00,Klimakälte,0.948952
+Holiday,1900-01-01 15:45:00,mechanische Antriebe,0.974476
+Holiday,1900-01-01 15:45:00,Prozesskälte,1
+Holiday,1900-01-01 15:45:00,Prozesswärme,0.974476
+Holiday,1900-01-01 15:45:00,Raumwärme,0.948952
+Holiday,1900-01-01 15:45:00,Warmwasser,0.948952
+Holiday,1900-01-01 16:00:00,Beleuchtung,0.944197
+Holiday,1900-01-01 16:00:00,IKT,0.944197
+Holiday,1900-01-01 16:00:00,Klimakälte,0.944197
+Holiday,1900-01-01 16:00:00,mechanische Antriebe,0.972099
+Holiday,1900-01-01 16:00:00,Prozesskälte,1
+Holiday,1900-01-01 16:00:00,Prozesswärme,0.972099
+Holiday,1900-01-01 16:00:00,Raumwärme,0.944197
+Holiday,1900-01-01 16:00:00,Warmwasser,0.944197
+Holiday,1900-01-01 16:15:00,Beleuchtung,0.940051
+Holiday,1900-01-01 16:15:00,IKT,0.940051
+Holiday,1900-01-01 16:15:00,Klimakälte,0.940051
+Holiday,1900-01-01 16:15:00,mechanische Antriebe,0.970026
+Holiday,1900-01-01 16:15:00,Prozesskälte,1
+Holiday,1900-01-01 16:15:00,Prozesswärme,0.970026
+Holiday,1900-01-01 16:15:00,Raumwärme,0.940051
+Holiday,1900-01-01 16:15:00,Warmwasser,0.940051
+Holiday,1900-01-01 16:30:00,Beleuchtung,0.93654
+Holiday,1900-01-01 16:30:00,IKT,0.93654
+Holiday,1900-01-01 16:30:00,Klimakälte,0.93654
+Holiday,1900-01-01 16:30:00,mechanische Antriebe,0.96827
+Holiday,1900-01-01 16:30:00,Prozesskälte,1
+Holiday,1900-01-01 16:30:00,Prozesswärme,0.96827
+Holiday,1900-01-01 16:30:00,Raumwärme,0.93654
+Holiday,1900-01-01 16:30:00,Warmwasser,0.93654
+Holiday,1900-01-01 16:45:00,Beleuchtung,0.933661
+Holiday,1900-01-01 16:45:00,IKT,0.933661
+Holiday,1900-01-01 16:45:00,Klimakälte,0.933661
+Holiday,1900-01-01 16:45:00,mechanische Antriebe,0.96683
+Holiday,1900-01-01 16:45:00,Prozesskälte,1
+Holiday,1900-01-01 16:45:00,Prozesswärme,0.96683
+Holiday,1900-01-01 16:45:00,Raumwärme,0.933661
+Holiday,1900-01-01 16:45:00,Warmwasser,0.933661
+Holiday,1900-01-01 17:00:00,Beleuchtung,0.931411
+Holiday,1900-01-01 17:00:00,IKT,0.931411
+Holiday,1900-01-01 17:00:00,Klimakälte,0.931411
+Holiday,1900-01-01 17:00:00,mechanische Antriebe,0.965706
+Holiday,1900-01-01 17:00:00,Prozesskälte,1
+Holiday,1900-01-01 17:00:00,Prozesswärme,0.965706
+Holiday,1900-01-01 17:00:00,Raumwärme,0.931411
+Holiday,1900-01-01 17:00:00,Warmwasser,0.931411
+Holiday,1900-01-01 17:15:00,Beleuchtung,0.929762
+Holiday,1900-01-01 17:15:00,IKT,0.929762
+Holiday,1900-01-01 17:15:00,Klimakälte,0.929762
+Holiday,1900-01-01 17:15:00,mechanische Antriebe,0.964881
+Holiday,1900-01-01 17:15:00,Prozesskälte,1
+Holiday,1900-01-01 17:15:00,Prozesswärme,0.964881
+Holiday,1900-01-01 17:15:00,Raumwärme,0.929762
+Holiday,1900-01-01 17:15:00,Warmwasser,0.929762
+Holiday,1900-01-01 17:30:00,Beleuchtung,0.928585
+Holiday,1900-01-01 17:30:00,IKT,0.928585
+Holiday,1900-01-01 17:30:00,Klimakälte,0.928585
+Holiday,1900-01-01 17:30:00,mechanische Antriebe,0.964293
+Holiday,1900-01-01 17:30:00,Prozesskälte,1
+Holiday,1900-01-01 17:30:00,Prozesswärme,0.964293
+Holiday,1900-01-01 17:30:00,Raumwärme,0.928585
+Holiday,1900-01-01 17:30:00,Warmwasser,0.928585
+Holiday,1900-01-01 17:45:00,Beleuchtung,0.927725
+Holiday,1900-01-01 17:45:00,IKT,0.927725
+Holiday,1900-01-01 17:45:00,Klimakälte,0.927725
+Holiday,1900-01-01 17:45:00,mechanische Antriebe,0.963863
+Holiday,1900-01-01 17:45:00,Prozesskälte,1
+Holiday,1900-01-01 17:45:00,Prozesswärme,0.963863
+Holiday,1900-01-01 17:45:00,Raumwärme,0.927725
+Holiday,1900-01-01 17:45:00,Warmwasser,0.927725
+Holiday,1900-01-01 18:00:00,Beleuchtung,0.927027
+Holiday,1900-01-01 18:00:00,IKT,0.927027
+Holiday,1900-01-01 18:00:00,Klimakälte,0.927027
+Holiday,1900-01-01 18:00:00,mechanische Antriebe,0.963514
+Holiday,1900-01-01 18:00:00,Prozesskälte,1
+Holiday,1900-01-01 18:00:00,Prozesswärme,0.963514
+Holiday,1900-01-01 18:00:00,Raumwärme,0.927027
+Holiday,1900-01-01 18:00:00,Warmwasser,0.927027
+Holiday,1900-01-01 18:15:00,Beleuchtung,0.926363
+Holiday,1900-01-01 18:15:00,IKT,0.926363
+Holiday,1900-01-01 18:15:00,Klimakälte,0.926363
+Holiday,1900-01-01 18:15:00,mechanische Antriebe,0.963182
+Holiday,1900-01-01 18:15:00,Prozesskälte,1
+Holiday,1900-01-01 18:15:00,Prozesswärme,0.963182
+Holiday,1900-01-01 18:15:00,Raumwärme,0.926363
+Holiday,1900-01-01 18:15:00,Warmwasser,0.926363
+Holiday,1900-01-01 18:30:00,Beleuchtung,0.925712
+Holiday,1900-01-01 18:30:00,IKT,0.925712
+Holiday,1900-01-01 18:30:00,Klimakälte,0.925712
+Holiday,1900-01-01 18:30:00,mechanische Antriebe,0.962856
+Holiday,1900-01-01 18:30:00,Prozesskälte,1
+Holiday,1900-01-01 18:30:00,Prozesswärme,0.962856
+Holiday,1900-01-01 18:30:00,Raumwärme,0.925712
+Holiday,1900-01-01 18:30:00,Warmwasser,0.925712
+Holiday,1900-01-01 18:45:00,Beleuchtung,0.925079
+Holiday,1900-01-01 18:45:00,IKT,0.925079
+Holiday,1900-01-01 18:45:00,Klimakälte,0.925079
+Holiday,1900-01-01 18:45:00,mechanische Antriebe,0.96254
+Holiday,1900-01-01 18:45:00,Prozesskälte,1
+Holiday,1900-01-01 18:45:00,Prozesswärme,0.96254
+Holiday,1900-01-01 18:45:00,Raumwärme,0.925079
+Holiday,1900-01-01 18:45:00,Warmwasser,0.925079
+Holiday,1900-01-01 19:00:00,Beleuchtung,0.92447
+Holiday,1900-01-01 19:00:00,IKT,0.92447
+Holiday,1900-01-01 19:00:00,Klimakälte,0.92447
+Holiday,1900-01-01 19:00:00,mechanische Antriebe,0.962235
+Holiday,1900-01-01 19:00:00,Prozesskälte,1
+Holiday,1900-01-01 19:00:00,Prozesswärme,0.962235
+Holiday,1900-01-01 19:00:00,Raumwärme,0.92447
+Holiday,1900-01-01 19:00:00,Warmwasser,0.92447
+Holiday,1900-01-01 19:15:00,Beleuchtung,0.923923
+Holiday,1900-01-01 19:15:00,IKT,0.923923
+Holiday,1900-01-01 19:15:00,Klimakälte,0.923923
+Holiday,1900-01-01 19:15:00,mechanische Antriebe,0.961962
+Holiday,1900-01-01 19:15:00,Prozesskälte,1
+Holiday,1900-01-01 19:15:00,Prozesswärme,0.961962
+Holiday,1900-01-01 19:15:00,Raumwärme,0.923923
+Holiday,1900-01-01 19:15:00,Warmwasser,0.923923
+Holiday,1900-01-01 19:30:00,Beleuchtung,0.923607
+Holiday,1900-01-01 19:30:00,IKT,0.923607
+Holiday,1900-01-01 19:30:00,Klimakälte,0.923607
+Holiday,1900-01-01 19:30:00,mechanische Antriebe,0.961803
+Holiday,1900-01-01 19:30:00,Prozesskälte,1
+Holiday,1900-01-01 19:30:00,Prozesswärme,0.961803
+Holiday,1900-01-01 19:30:00,Raumwärme,0.923607
+Holiday,1900-01-01 19:30:00,Warmwasser,0.923607
+Holiday,1900-01-01 19:45:00,Beleuchtung,0.923722
+Holiday,1900-01-01 19:45:00,IKT,0.923722
+Holiday,1900-01-01 19:45:00,Klimakälte,0.923722
+Holiday,1900-01-01 19:45:00,mechanische Antriebe,0.961861
+Holiday,1900-01-01 19:45:00,Prozesskälte,1
+Holiday,1900-01-01 19:45:00,Prozesswärme,0.961861
+Holiday,1900-01-01 19:45:00,Raumwärme,0.923722
+Holiday,1900-01-01 19:45:00,Warmwasser,0.923722
+Holiday,1900-01-01 20:00:00,Beleuchtung,0.92447
+Holiday,1900-01-01 20:00:00,IKT,0.92447
+Holiday,1900-01-01 20:00:00,Klimakälte,0.92447
+Holiday,1900-01-01 20:00:00,mechanische Antriebe,0.962235
+Holiday,1900-01-01 20:00:00,Prozesskälte,1
+Holiday,1900-01-01 20:00:00,Prozesswärme,0.962235
+Holiday,1900-01-01 20:00:00,Raumwärme,0.92447
+Holiday,1900-01-01 20:00:00,Warmwasser,0.92447
+Holiday,1900-01-01 20:15:00,Beleuchtung,0.926072
+Holiday,1900-01-01 20:15:00,IKT,0.926072
+Holiday,1900-01-01 20:15:00,Klimakälte,0.926072
+Holiday,1900-01-01 20:15:00,mechanische Antriebe,0.963036
+Holiday,1900-01-01 20:15:00,Prozesskälte,1
+Holiday,1900-01-01 20:15:00,Prozesswärme,0.963036
+Holiday,1900-01-01 20:15:00,Raumwärme,0.926072
+Holiday,1900-01-01 20:15:00,Warmwasser,0.926072
+Holiday,1900-01-01 20:30:00,Beleuchtung,0.928828
+Holiday,1900-01-01 20:30:00,IKT,0.928828
+Holiday,1900-01-01 20:30:00,Klimakälte,0.928828
+Holiday,1900-01-01 20:30:00,mechanische Antriebe,0.964414
+Holiday,1900-01-01 20:30:00,Prozesskälte,1
+Holiday,1900-01-01 20:30:00,Prozesswärme,0.964414
+Holiday,1900-01-01 20:30:00,Raumwärme,0.928828
+Holiday,1900-01-01 20:30:00,Warmwasser,0.928828
+Holiday,1900-01-01 20:45:00,Beleuchtung,0.933058
+Holiday,1900-01-01 20:45:00,IKT,0.933058
+Holiday,1900-01-01 20:45:00,Klimakälte,0.933058
+Holiday,1900-01-01 20:45:00,mechanische Antriebe,0.966529
+Holiday,1900-01-01 20:45:00,Prozesskälte,1
+Holiday,1900-01-01 20:45:00,Prozesswärme,0.966529
+Holiday,1900-01-01 20:45:00,Raumwärme,0.933058
+Holiday,1900-01-01 20:45:00,Warmwasser,0.933058
+Holiday,1900-01-01 21:00:00,Beleuchtung,0.939083
+Holiday,1900-01-01 21:00:00,IKT,0.939083
+Holiday,1900-01-01 21:00:00,Klimakälte,0.939083
+Holiday,1900-01-01 21:00:00,mechanische Antriebe,0.969541
+Holiday,1900-01-01 21:00:00,Prozesskälte,1
+Holiday,1900-01-01 21:00:00,Prozesswärme,0.969541
+Holiday,1900-01-01 21:00:00,Raumwärme,0.939083
+Holiday,1900-01-01 21:00:00,Warmwasser,0.939083
+Holiday,1900-01-01 21:15:00,Beleuchtung,0.947241
+Holiday,1900-01-01 21:15:00,IKT,0.947241
+Holiday,1900-01-01 21:15:00,Klimakälte,0.947241
+Holiday,1900-01-01 21:15:00,mechanische Antriebe,0.973621
+Holiday,1900-01-01 21:15:00,Prozesskälte,1
+Holiday,1900-01-01 21:15:00,Prozesswärme,0.973621
+Holiday,1900-01-01 21:15:00,Raumwärme,0.947241
+Holiday,1900-01-01 21:15:00,Warmwasser,0.947241
+Holiday,1900-01-01 21:30:00,Beleuchtung,0.957951
+Holiday,1900-01-01 21:30:00,IKT,0.957951
+Holiday,1900-01-01 21:30:00,Klimakälte,0.957951
+Holiday,1900-01-01 21:30:00,mechanische Antriebe,0.978975
+Holiday,1900-01-01 21:30:00,Prozesskälte,1
+Holiday,1900-01-01 21:30:00,Prozesswärme,0.978975
+Holiday,1900-01-01 21:30:00,Raumwärme,0.957951
+Holiday,1900-01-01 21:30:00,Warmwasser,0.957951
+Holiday,1900-01-01 21:45:00,Beleuchtung,0.971647
+Holiday,1900-01-01 21:45:00,IKT,0.971647
+Holiday,1900-01-01 21:45:00,Klimakälte,0.971647
+Holiday,1900-01-01 21:45:00,mechanische Antriebe,0.985823
+Holiday,1900-01-01 21:45:00,Prozesskälte,1
+Holiday,1900-01-01 21:45:00,Prozesswärme,0.985823
+Holiday,1900-01-01 21:45:00,Raumwärme,0.971647
+Holiday,1900-01-01 21:45:00,Warmwasser,0.971647
+Holiday,1900-01-01 22:00:00,Beleuchtung,0.988765
+Holiday,1900-01-01 22:00:00,IKT,0.988765
+Holiday,1900-01-01 22:00:00,Klimakälte,0.988765
+Holiday,1900-01-01 22:00:00,mechanische Antriebe,0.994383
+Holiday,1900-01-01 22:00:00,Prozesskälte,1
+Holiday,1900-01-01 22:00:00,Prozesswärme,0.994383
+Holiday,1900-01-01 22:00:00,Raumwärme,0.988765
+Holiday,1900-01-01 22:00:00,Warmwasser,0.988765
+Holiday,1900-01-01 22:15:00,Beleuchtung,1.00974
+Holiday,1900-01-01 22:15:00,IKT,1.00974
+Holiday,1900-01-01 22:15:00,Klimakälte,1.00974
+Holiday,1900-01-01 22:15:00,mechanische Antriebe,1.00487
+Holiday,1900-01-01 22:15:00,Prozesskälte,1
+Holiday,1900-01-01 22:15:00,Prozesswärme,1.00487
+Holiday,1900-01-01 22:15:00,Raumwärme,1.00974
+Holiday,1900-01-01 22:15:00,Warmwasser,1.00974
+Holiday,1900-01-01 22:30:00,Beleuchtung,1.03501
+Holiday,1900-01-01 22:30:00,IKT,1.03501
+Holiday,1900-01-01 22:30:00,Klimakälte,1.03501
+Holiday,1900-01-01 22:30:00,mechanische Antriebe,1.01751
+Holiday,1900-01-01 22:30:00,Prozesskälte,1
+Holiday,1900-01-01 22:30:00,Prozesswärme,1.01751
+Holiday,1900-01-01 22:30:00,Raumwärme,1.03501
+Holiday,1900-01-01 22:30:00,Warmwasser,1.03501
+Holiday,1900-01-01 22:45:00,Beleuchtung,1.06502
+Holiday,1900-01-01 22:45:00,IKT,1.06502
+Holiday,1900-01-01 22:45:00,Klimakälte,1.06502
+Holiday,1900-01-01 22:45:00,mechanische Antriebe,1.03251
+Holiday,1900-01-01 22:45:00,Prozesskälte,1
+Holiday,1900-01-01 22:45:00,Prozesswärme,1.03251
+Holiday,1900-01-01 22:45:00,Raumwärme,1.06502
+Holiday,1900-01-01 22:45:00,Warmwasser,1.06502
+Holiday,1900-01-01 23:00:00,Beleuchtung,1.10019
+Holiday,1900-01-01 23:00:00,IKT,1.10019
+Holiday,1900-01-01 23:00:00,Klimakälte,1.10019
+Holiday,1900-01-01 23:00:00,mechanische Antriebe,1.05009
+Holiday,1900-01-01 23:00:00,Prozesskälte,1
+Holiday,1900-01-01 23:00:00,Prozesswärme,1.05009
+Holiday,1900-01-01 23:00:00,Raumwärme,1.10019
+Holiday,1900-01-01 23:00:00,Warmwasser,1.10019
+Holiday,1900-01-01 23:15:00,Beleuchtung,1.13834
+Holiday,1900-01-01 23:15:00,IKT,1.13834
+Holiday,1900-01-01 23:15:00,Klimakälte,1.13834
+Holiday,1900-01-01 23:15:00,mechanische Antriebe,1.06917
+Holiday,1900-01-01 23:15:00,Prozesskälte,1
+Holiday,1900-01-01 23:15:00,Prozesswärme,1.06917
+Holiday,1900-01-01 23:15:00,Raumwärme,1.13834
+Holiday,1900-01-01 23:15:00,Warmwasser,1.13834
+Holiday,1900-01-01 23:30:00,Beleuchtung,1.16912
+Holiday,1900-01-01 23:30:00,IKT,1.16912
+Holiday,1900-01-01 23:30:00,Klimakälte,1.16912
+Holiday,1900-01-01 23:30:00,mechanische Antriebe,1.08456
+Holiday,1900-01-01 23:30:00,Prozesskälte,1
+Holiday,1900-01-01 23:30:00,Prozesswärme,1.08456
+Holiday,1900-01-01 23:30:00,Raumwärme,1.16912
+Holiday,1900-01-01 23:30:00,Warmwasser,1.16912
+Holiday,1900-01-01 23:45:00,Beleuchtung,1.17727
+Holiday,1900-01-01 23:45:00,IKT,1.17727
+Holiday,1900-01-01 23:45:00,Klimakälte,1.17727
+Holiday,1900-01-01 23:45:00,mechanische Antriebe,1.08863
+Holiday,1900-01-01 23:45:00,Prozesskälte,1
+Holiday,1900-01-01 23:45:00,Prozesswärme,1.08863
+Holiday,1900-01-01 23:45:00,Raumwärme,1.17727
+Holiday,1900-01-01 23:45:00,Warmwasser,1.17727
+Saturday,1900-01-01 00:00:00,Beleuchtung,1.17727
+Saturday,1900-01-01 00:00:00,IKT,1.17727
+Saturday,1900-01-01 00:00:00,Klimakälte,1.17727
+Saturday,1900-01-01 00:00:00,mechanische Antriebe,1.08863
+Saturday,1900-01-01 00:00:00,Prozesskälte,1
+Saturday,1900-01-01 00:00:00,Prozesswärme,1.08863
+Saturday,1900-01-01 00:00:00,Raumwärme,1.17727
+Saturday,1900-01-01 00:00:00,Warmwasser,1.17727
+Saturday,1900-01-01 00:15:00,Beleuchtung,1.17727
+Saturday,1900-01-01 00:15:00,IKT,1.17727
+Saturday,1900-01-01 00:15:00,Klimakälte,1.17727
+Saturday,1900-01-01 00:15:00,mechanische Antriebe,1.08863
+Saturday,1900-01-01 00:15:00,Prozesskälte,1
+Saturday,1900-01-01 00:15:00,Prozesswärme,1.08863
+Saturday,1900-01-01 00:15:00,Raumwärme,1.17727
+Saturday,1900-01-01 00:15:00,Warmwasser,1.17727
+Saturday,1900-01-01 00:30:00,Beleuchtung,1.17727
+Saturday,1900-01-01 00:30:00,IKT,1.17727
+Saturday,1900-01-01 00:30:00,Klimakälte,1.17727
+Saturday,1900-01-01 00:30:00,mechanische Antriebe,1.08863
+Saturday,1900-01-01 00:30:00,Prozesskälte,1
+Saturday,1900-01-01 00:30:00,Prozesswärme,1.08863
+Saturday,1900-01-01 00:30:00,Raumwärme,1.17727
+Saturday,1900-01-01 00:30:00,Warmwasser,1.17727
+Saturday,1900-01-01 00:45:00,Beleuchtung,1.17727
+Saturday,1900-01-01 00:45:00,IKT,1.17727
+Saturday,1900-01-01 00:45:00,Klimakälte,1.17727
+Saturday,1900-01-01 00:45:00,mechanische Antriebe,1.08863
+Saturday,1900-01-01 00:45:00,Prozesskälte,1
+Saturday,1900-01-01 00:45:00,Prozesswärme,1.08863
+Saturday,1900-01-01 00:45:00,Raumwärme,1.17727
+Saturday,1900-01-01 00:45:00,Warmwasser,1.17727
+Saturday,1900-01-01 01:00:00,Beleuchtung,1.17727
+Saturday,1900-01-01 01:00:00,IKT,1.17727
+Saturday,1900-01-01 01:00:00,Klimakälte,1.17727
+Saturday,1900-01-01 01:00:00,mechanische Antriebe,1.08863
+Saturday,1900-01-01 01:00:00,Prozesskälte,1
+Saturday,1900-01-01 01:00:00,Prozesswärme,1.08863
+Saturday,1900-01-01 01:00:00,Raumwärme,1.17727
+Saturday,1900-01-01 01:00:00,Warmwasser,1.17727
+Saturday,1900-01-01 01:15:00,Beleuchtung,1.15151
+Saturday,1900-01-01 01:15:00,IKT,1.15151
+Saturday,1900-01-01 01:15:00,Klimakälte,1.15151
+Saturday,1900-01-01 01:15:00,mechanische Antriebe,1.07576
+Saturday,1900-01-01 01:15:00,Prozesskälte,1
+Saturday,1900-01-01 01:15:00,Prozesswärme,1.07576
+Saturday,1900-01-01 01:15:00,Raumwärme,1.15151
+Saturday,1900-01-01 01:15:00,Warmwasser,1.15151
+Saturday,1900-01-01 01:30:00,Beleuchtung,1.122
+Saturday,1900-01-01 01:30:00,IKT,1.122
+Saturday,1900-01-01 01:30:00,Klimakälte,1.122
+Saturday,1900-01-01 01:30:00,mechanische Antriebe,1.061
+Saturday,1900-01-01 01:30:00,Prozesskälte,1
+Saturday,1900-01-01 01:30:00,Prozesswärme,1.061
+Saturday,1900-01-01 01:30:00,Raumwärme,1.122
+Saturday,1900-01-01 01:30:00,Warmwasser,1.122
+Saturday,1900-01-01 01:45:00,Beleuchtung,1.09199
+Saturday,1900-01-01 01:45:00,IKT,1.09199
+Saturday,1900-01-01 01:45:00,Klimakälte,1.09199
+Saturday,1900-01-01 01:45:00,mechanische Antriebe,1.04599
+Saturday,1900-01-01 01:45:00,Prozesskälte,1
+Saturday,1900-01-01 01:45:00,Prozesswärme,1.04599
+Saturday,1900-01-01 01:45:00,Raumwärme,1.09199
+Saturday,1900-01-01 01:45:00,Warmwasser,1.09199
+Saturday,1900-01-01 02:00:00,Beleuchtung,1.06475
+Saturday,1900-01-01 02:00:00,IKT,1.06475
+Saturday,1900-01-01 02:00:00,Klimakälte,1.06475
+Saturday,1900-01-01 02:00:00,mechanische Antriebe,1.03238
+Saturday,1900-01-01 02:00:00,Prozesskälte,1
+Saturday,1900-01-01 02:00:00,Prozesswärme,1.03238
+Saturday,1900-01-01 02:00:00,Raumwärme,1.06475
+Saturday,1900-01-01 02:00:00,Warmwasser,1.06475
+Saturday,1900-01-01 02:15:00,Beleuchtung,1.04283
+Saturday,1900-01-01 02:15:00,IKT,1.04283
+Saturday,1900-01-01 02:15:00,Klimakälte,1.04283
+Saturday,1900-01-01 02:15:00,mechanische Antriebe,1.02141
+Saturday,1900-01-01 02:15:00,Prozesskälte,1
+Saturday,1900-01-01 02:15:00,Prozesswärme,1.02141
+Saturday,1900-01-01 02:15:00,Raumwärme,1.04283
+Saturday,1900-01-01 02:15:00,Warmwasser,1.04283
+Saturday,1900-01-01 02:30:00,Beleuchtung,1.02585
+Saturday,1900-01-01 02:30:00,IKT,1.02585
+Saturday,1900-01-01 02:30:00,Klimakälte,1.02585
+Saturday,1900-01-01 02:30:00,mechanische Antriebe,1.01292
+Saturday,1900-01-01 02:30:00,Prozesskälte,1
+Saturday,1900-01-01 02:30:00,Prozesswärme,1.01292
+Saturday,1900-01-01 02:30:00,Raumwärme,1.02585
+Saturday,1900-01-01 02:30:00,Warmwasser,1.02585
+Saturday,1900-01-01 02:45:00,Beleuchtung,1.0127
+Saturday,1900-01-01 02:45:00,IKT,1.0127
+Saturday,1900-01-01 02:45:00,Klimakälte,1.0127
+Saturday,1900-01-01 02:45:00,mechanische Antriebe,1.00635
+Saturday,1900-01-01 02:45:00,Prozesskälte,1
+Saturday,1900-01-01 02:45:00,Prozesswärme,1.00635
+Saturday,1900-01-01 02:45:00,Raumwärme,1.0127
+Saturday,1900-01-01 02:45:00,Warmwasser,1.0127
+Saturday,1900-01-01 03:00:00,Beleuchtung,1.00228
+Saturday,1900-01-01 03:00:00,IKT,1.00228
+Saturday,1900-01-01 03:00:00,Klimakälte,1.00228
+Saturday,1900-01-01 03:00:00,mechanische Antriebe,1.00114
+Saturday,1900-01-01 03:00:00,Prozesskälte,1
+Saturday,1900-01-01 03:00:00,Prozesswärme,1.00114
+Saturday,1900-01-01 03:00:00,Raumwärme,1.00228
+Saturday,1900-01-01 03:00:00,Warmwasser,1.00228
+Saturday,1900-01-01 03:15:00,Beleuchtung,0.993676
+Saturday,1900-01-01 03:15:00,IKT,0.993676
+Saturday,1900-01-01 03:15:00,Klimakälte,0.993676
+Saturday,1900-01-01 03:15:00,mechanische Antriebe,0.996838
+Saturday,1900-01-01 03:15:00,Prozesskälte,1
+Saturday,1900-01-01 03:15:00,Prozesswärme,0.996838
+Saturday,1900-01-01 03:15:00,Raumwärme,0.993676
+Saturday,1900-01-01 03:15:00,Warmwasser,0.993676
+Saturday,1900-01-01 03:30:00,Beleuchtung,0.986714
+Saturday,1900-01-01 03:30:00,IKT,0.986714
+Saturday,1900-01-01 03:30:00,Klimakälte,0.986714
+Saturday,1900-01-01 03:30:00,mechanische Antriebe,0.993357
+Saturday,1900-01-01 03:30:00,Prozesskälte,1
+Saturday,1900-01-01 03:30:00,Prozesswärme,0.993357
+Saturday,1900-01-01 03:30:00,Raumwärme,0.986714
+Saturday,1900-01-01 03:30:00,Warmwasser,0.986714
+Saturday,1900-01-01 03:45:00,Beleuchtung,0.981418
+Saturday,1900-01-01 03:45:00,IKT,0.981418
+Saturday,1900-01-01 03:45:00,Klimakälte,0.981418
+Saturday,1900-01-01 03:45:00,mechanische Antriebe,0.990709
+Saturday,1900-01-01 03:45:00,Prozesskälte,1
+Saturday,1900-01-01 03:45:00,Prozesswärme,0.990709
+Saturday,1900-01-01 03:45:00,Raumwärme,0.981418
+Saturday,1900-01-01 03:45:00,Warmwasser,0.981418
+Saturday,1900-01-01 04:00:00,Beleuchtung,0.977806
+Saturday,1900-01-01 04:00:00,IKT,0.977806
+Saturday,1900-01-01 04:00:00,Klimakälte,0.977806
+Saturday,1900-01-01 04:00:00,mechanische Antriebe,0.988903
+Saturday,1900-01-01 04:00:00,Prozesskälte,1
+Saturday,1900-01-01 04:00:00,Prozesswärme,0.988903
+Saturday,1900-01-01 04:00:00,Raumwärme,0.977806
+Saturday,1900-01-01 04:00:00,Warmwasser,0.977806
+Saturday,1900-01-01 04:15:00,Beleuchtung,0.975844
+Saturday,1900-01-01 04:15:00,IKT,0.975844
+Saturday,1900-01-01 04:15:00,Klimakälte,0.975844
+Saturday,1900-01-01 04:15:00,mechanische Antriebe,0.987922
+Saturday,1900-01-01 04:15:00,Prozesskälte,1
+Saturday,1900-01-01 04:15:00,Prozesswärme,0.987922
+Saturday,1900-01-01 04:15:00,Raumwärme,0.975844
+Saturday,1900-01-01 04:15:00,Warmwasser,0.975844
+Saturday,1900-01-01 04:30:00,Beleuchtung,0.975275
+Saturday,1900-01-01 04:30:00,IKT,0.975275
+Saturday,1900-01-01 04:30:00,Klimakälte,0.975275
+Saturday,1900-01-01 04:30:00,mechanische Antriebe,0.987637
+Saturday,1900-01-01 04:30:00,Prozesskälte,1
+Saturday,1900-01-01 04:30:00,Prozesswärme,0.987637
+Saturday,1900-01-01 04:30:00,Raumwärme,0.975275
+Saturday,1900-01-01 04:30:00,Warmwasser,0.975275
+Saturday,1900-01-01 04:45:00,Beleuchtung,0.975789
+Saturday,1900-01-01 04:45:00,IKT,0.975789
+Saturday,1900-01-01 04:45:00,Klimakälte,0.975789
+Saturday,1900-01-01 04:45:00,mechanische Antriebe,0.987895
+Saturday,1900-01-01 04:45:00,Prozesskälte,1
+Saturday,1900-01-01 04:45:00,Prozesswärme,0.987895
+Saturday,1900-01-01 04:45:00,Raumwärme,0.975789
+Saturday,1900-01-01 04:45:00,Warmwasser,0.975789
+Saturday,1900-01-01 05:00:00,Beleuchtung,0.977075
+Saturday,1900-01-01 05:00:00,IKT,0.977075
+Saturday,1900-01-01 05:00:00,Klimakälte,0.977075
+Saturday,1900-01-01 05:00:00,mechanische Antriebe,0.988538
+Saturday,1900-01-01 05:00:00,Prozesskälte,1
+Saturday,1900-01-01 05:00:00,Prozesswärme,0.988538
+Saturday,1900-01-01 05:00:00,Raumwärme,0.977075
+Saturday,1900-01-01 05:00:00,Warmwasser,0.977075
+Saturday,1900-01-01 05:15:00,Beleuchtung,0.97885
+Saturday,1900-01-01 05:15:00,IKT,0.97885
+Saturday,1900-01-01 05:15:00,Klimakälte,0.97885
+Saturday,1900-01-01 05:15:00,mechanische Antriebe,0.989425
+Saturday,1900-01-01 05:15:00,Prozesskälte,1
+Saturday,1900-01-01 05:15:00,Prozesswärme,0.989425
+Saturday,1900-01-01 05:15:00,Raumwärme,0.97885
+Saturday,1900-01-01 05:15:00,Warmwasser,0.97885
+Saturday,1900-01-01 05:30:00,Beleuchtung,0.980939
+Saturday,1900-01-01 05:30:00,IKT,0.980939
+Saturday,1900-01-01 05:30:00,Klimakälte,0.980939
+Saturday,1900-01-01 05:30:00,mechanische Antriebe,0.990469
+Saturday,1900-01-01 05:30:00,Prozesskälte,1
+Saturday,1900-01-01 05:30:00,Prozesswärme,0.990469
+Saturday,1900-01-01 05:30:00,Raumwärme,0.980939
+Saturday,1900-01-01 05:30:00,Warmwasser,0.980939
+Saturday,1900-01-01 05:45:00,Beleuchtung,0.983197
+Saturday,1900-01-01 05:45:00,IKT,0.983197
+Saturday,1900-01-01 05:45:00,Klimakälte,0.983197
+Saturday,1900-01-01 05:45:00,mechanische Antriebe,0.991598
+Saturday,1900-01-01 05:45:00,Prozesskälte,1
+Saturday,1900-01-01 05:45:00,Prozesswärme,0.991598
+Saturday,1900-01-01 05:45:00,Raumwärme,0.983197
+Saturday,1900-01-01 05:45:00,Warmwasser,0.983197
+Saturday,1900-01-01 06:00:00,Beleuchtung,0.985477
+Saturday,1900-01-01 06:00:00,IKT,0.985477
+Saturday,1900-01-01 06:00:00,Klimakälte,0.985477
+Saturday,1900-01-01 06:00:00,mechanische Antriebe,0.992739
+Saturday,1900-01-01 06:00:00,Prozesskälte,1
+Saturday,1900-01-01 06:00:00,Prozesswärme,0.992739
+Saturday,1900-01-01 06:00:00,Raumwärme,0.985477
+Saturday,1900-01-01 06:00:00,Warmwasser,0.985477
+Saturday,1900-01-01 06:15:00,Beleuchtung,0.987655
+Saturday,1900-01-01 06:15:00,IKT,0.987655
+Saturday,1900-01-01 06:15:00,Klimakälte,0.987655
+Saturday,1900-01-01 06:15:00,mechanische Antriebe,0.993827
+Saturday,1900-01-01 06:15:00,Prozesskälte,1
+Saturday,1900-01-01 06:15:00,Prozesswärme,0.993827
+Saturday,1900-01-01 06:15:00,Raumwärme,0.987655
+Saturday,1900-01-01 06:15:00,Warmwasser,0.987655
+Saturday,1900-01-01 06:30:00,Beleuchtung,0.989679
+Saturday,1900-01-01 06:30:00,IKT,0.989679
+Saturday,1900-01-01 06:30:00,Klimakälte,0.989679
+Saturday,1900-01-01 06:30:00,mechanische Antriebe,0.994839
+Saturday,1900-01-01 06:30:00,Prozesskälte,1
+Saturday,1900-01-01 06:30:00,Prozesswärme,0.994839
+Saturday,1900-01-01 06:30:00,Raumwärme,0.989679
+Saturday,1900-01-01 06:30:00,Warmwasser,0.989679
+Saturday,1900-01-01 06:45:00,Beleuchtung,0.99152
+Saturday,1900-01-01 06:45:00,IKT,0.99152
+Saturday,1900-01-01 06:45:00,Klimakälte,0.99152
+Saturday,1900-01-01 06:45:00,mechanische Antriebe,0.99576
+Saturday,1900-01-01 06:45:00,Prozesskälte,1
+Saturday,1900-01-01 06:45:00,Prozesswärme,0.99576
+Saturday,1900-01-01 06:45:00,Raumwärme,0.99152
+Saturday,1900-01-01 06:45:00,Warmwasser,0.99152
+Saturday,1900-01-01 07:00:00,Beleuchtung,0.993149
+Saturday,1900-01-01 07:00:00,IKT,0.993149
+Saturday,1900-01-01 07:00:00,Klimakälte,0.993149
+Saturday,1900-01-01 07:00:00,mechanische Antriebe,0.996575
+Saturday,1900-01-01 07:00:00,Prozesskälte,1
+Saturday,1900-01-01 07:00:00,Prozesswärme,0.996575
+Saturday,1900-01-01 07:00:00,Raumwärme,0.993149
+Saturday,1900-01-01 07:00:00,Warmwasser,0.993149
+Saturday,1900-01-01 07:15:00,Beleuchtung,0.994551
+Saturday,1900-01-01 07:15:00,IKT,0.994551
+Saturday,1900-01-01 07:15:00,Klimakälte,0.994551
+Saturday,1900-01-01 07:15:00,mechanische Antriebe,0.997275
+Saturday,1900-01-01 07:15:00,Prozesskälte,1
+Saturday,1900-01-01 07:15:00,Prozesswärme,0.997275
+Saturday,1900-01-01 07:15:00,Raumwärme,0.994551
+Saturday,1900-01-01 07:15:00,Warmwasser,0.994551
+Saturday,1900-01-01 07:30:00,Beleuchtung,0.995769
+Saturday,1900-01-01 07:30:00,IKT,0.995769
+Saturday,1900-01-01 07:30:00,Klimakälte,0.995769
+Saturday,1900-01-01 07:30:00,mechanische Antriebe,0.997885
+Saturday,1900-01-01 07:30:00,Prozesskälte,1
+Saturday,1900-01-01 07:30:00,Prozesswärme,0.997885
+Saturday,1900-01-01 07:30:00,Raumwärme,0.995769
+Saturday,1900-01-01 07:30:00,Warmwasser,0.995769
+Saturday,1900-01-01 07:45:00,Beleuchtung,0.996865
+Saturday,1900-01-01 07:45:00,IKT,0.996865
+Saturday,1900-01-01 07:45:00,Klimakälte,0.996865
+Saturday,1900-01-01 07:45:00,mechanische Antriebe,0.998433
+Saturday,1900-01-01 07:45:00,Prozesskälte,1
+Saturday,1900-01-01 07:45:00,Prozesswärme,0.998433
+Saturday,1900-01-01 07:45:00,Raumwärme,0.996865
+Saturday,1900-01-01 07:45:00,Warmwasser,0.996865
+Saturday,1900-01-01 08:00:00,Beleuchtung,0.997898
+Saturday,1900-01-01 08:00:00,IKT,0.997898
+Saturday,1900-01-01 08:00:00,Klimakälte,0.997898
+Saturday,1900-01-01 08:00:00,mechanische Antriebe,0.998949
+Saturday,1900-01-01 08:00:00,Prozesskälte,1
+Saturday,1900-01-01 08:00:00,Prozesswärme,0.998949
+Saturday,1900-01-01 08:00:00,Raumwärme,0.997898
+Saturday,1900-01-01 08:00:00,Warmwasser,0.997898
+Saturday,1900-01-01 08:15:00,Beleuchtung,0.998917
+Saturday,1900-01-01 08:15:00,IKT,0.998917
+Saturday,1900-01-01 08:15:00,Klimakälte,0.998917
+Saturday,1900-01-01 08:15:00,mechanische Antriebe,0.999458
+Saturday,1900-01-01 08:15:00,Prozesskälte,1
+Saturday,1900-01-01 08:15:00,Prozesswärme,0.999458
+Saturday,1900-01-01 08:15:00,Raumwärme,0.998917
+Saturday,1900-01-01 08:15:00,Warmwasser,0.998917
+Saturday,1900-01-01 08:30:00,Beleuchtung,0.999928
+Saturday,1900-01-01 08:30:00,IKT,0.999928
+Saturday,1900-01-01 08:30:00,Klimakälte,0.999928
+Saturday,1900-01-01 08:30:00,mechanische Antriebe,0.999964
+Saturday,1900-01-01 08:30:00,Prozesskälte,1
+Saturday,1900-01-01 08:30:00,Prozesswärme,0.999964
+Saturday,1900-01-01 08:30:00,Raumwärme,0.999928
+Saturday,1900-01-01 08:30:00,Warmwasser,0.999928
+Saturday,1900-01-01 08:45:00,Beleuchtung,1.00093
+Saturday,1900-01-01 08:45:00,IKT,1.00093
+Saturday,1900-01-01 08:45:00,Klimakälte,1.00093
+Saturday,1900-01-01 08:45:00,mechanische Antriebe,1.00046
+Saturday,1900-01-01 08:45:00,Prozesskälte,1
+Saturday,1900-01-01 08:45:00,Prozesswärme,1.00046
+Saturday,1900-01-01 08:45:00,Raumwärme,1.00093
+Saturday,1900-01-01 08:45:00,Warmwasser,1.00093
+Saturday,1900-01-01 09:00:00,Beleuchtung,1.00192
+Saturday,1900-01-01 09:00:00,IKT,1.00192
+Saturday,1900-01-01 09:00:00,Klimakälte,1.00192
+Saturday,1900-01-01 09:00:00,mechanische Antriebe,1.00096
+Saturday,1900-01-01 09:00:00,Prozesskälte,1
+Saturday,1900-01-01 09:00:00,Prozesswärme,1.00096
+Saturday,1900-01-01 09:00:00,Raumwärme,1.00192
+Saturday,1900-01-01 09:00:00,Warmwasser,1.00192
+Saturday,1900-01-01 09:15:00,Beleuchtung,1.00288
+Saturday,1900-01-01 09:15:00,IKT,1.00288
+Saturday,1900-01-01 09:15:00,Klimakälte,1.00288
+Saturday,1900-01-01 09:15:00,mechanische Antriebe,1.00144
+Saturday,1900-01-01 09:15:00,Prozesskälte,1
+Saturday,1900-01-01 09:15:00,Prozesswärme,1.00144
+Saturday,1900-01-01 09:15:00,Raumwärme,1.00288
+Saturday,1900-01-01 09:15:00,Warmwasser,1.00288
+Saturday,1900-01-01 09:30:00,Beleuchtung,1.00378
+Saturday,1900-01-01 09:30:00,IKT,1.00378
+Saturday,1900-01-01 09:30:00,Klimakälte,1.00378
+Saturday,1900-01-01 09:30:00,mechanische Antriebe,1.00189
+Saturday,1900-01-01 09:30:00,Prozesskälte,1
+Saturday,1900-01-01 09:30:00,Prozesswärme,1.00189
+Saturday,1900-01-01 09:30:00,Raumwärme,1.00378
+Saturday,1900-01-01 09:30:00,Warmwasser,1.00378
+Saturday,1900-01-01 09:45:00,Beleuchtung,1.00457
+Saturday,1900-01-01 09:45:00,IKT,1.00457
+Saturday,1900-01-01 09:45:00,Klimakälte,1.00457
+Saturday,1900-01-01 09:45:00,mechanische Antriebe,1.00228
+Saturday,1900-01-01 09:45:00,Prozesskälte,1
+Saturday,1900-01-01 09:45:00,Prozesswärme,1.00228
+Saturday,1900-01-01 09:45:00,Raumwärme,1.00457
+Saturday,1900-01-01 09:45:00,Warmwasser,1.00457
+Saturday,1900-01-01 10:00:00,Beleuchtung,1.0052
+Saturday,1900-01-01 10:00:00,IKT,1.0052
+Saturday,1900-01-01 10:00:00,Klimakälte,1.0052
+Saturday,1900-01-01 10:00:00,mechanische Antriebe,1.0026
+Saturday,1900-01-01 10:00:00,Prozesskälte,1
+Saturday,1900-01-01 10:00:00,Prozesswärme,1.0026
+Saturday,1900-01-01 10:00:00,Raumwärme,1.0052
+Saturday,1900-01-01 10:00:00,Warmwasser,1.0052
+Saturday,1900-01-01 10:15:00,Beleuchtung,1.00565
+Saturday,1900-01-01 10:15:00,IKT,1.00565
+Saturday,1900-01-01 10:15:00,Klimakälte,1.00565
+Saturday,1900-01-01 10:15:00,mechanische Antriebe,1.00282
+Saturday,1900-01-01 10:15:00,Prozesskälte,1
+Saturday,1900-01-01 10:15:00,Prozesswärme,1.00282
+Saturday,1900-01-01 10:15:00,Raumwärme,1.00565
+Saturday,1900-01-01 10:15:00,Warmwasser,1.00565
+Saturday,1900-01-01 10:30:00,Beleuchtung,1.00591
+Saturday,1900-01-01 10:30:00,IKT,1.00591
+Saturday,1900-01-01 10:30:00,Klimakälte,1.00591
+Saturday,1900-01-01 10:30:00,mechanische Antriebe,1.00295
+Saturday,1900-01-01 10:30:00,Prozesskälte,1
+Saturday,1900-01-01 10:30:00,Prozesswärme,1.00295
+Saturday,1900-01-01 10:30:00,Raumwärme,1.00591
+Saturday,1900-01-01 10:30:00,Warmwasser,1.00591
+Saturday,1900-01-01 10:45:00,Beleuchtung,1.006
+Saturday,1900-01-01 10:45:00,IKT,1.006
+Saturday,1900-01-01 10:45:00,Klimakälte,1.006
+Saturday,1900-01-01 10:45:00,mechanische Antriebe,1.003
+Saturday,1900-01-01 10:45:00,Prozesskälte,1
+Saturday,1900-01-01 10:45:00,Prozesswärme,1.003
+Saturday,1900-01-01 10:45:00,Raumwärme,1.006
+Saturday,1900-01-01 10:45:00,Warmwasser,1.006
+Saturday,1900-01-01 11:00:00,Beleuchtung,1.00593
+Saturday,1900-01-01 11:00:00,IKT,1.00593
+Saturday,1900-01-01 11:00:00,Klimakälte,1.00593
+Saturday,1900-01-01 11:00:00,mechanische Antriebe,1.00297
+Saturday,1900-01-01 11:00:00,Prozesskälte,1
+Saturday,1900-01-01 11:00:00,Prozesswärme,1.00297
+Saturday,1900-01-01 11:00:00,Raumwärme,1.00593
+Saturday,1900-01-01 11:00:00,Warmwasser,1.00593
+Saturday,1900-01-01 11:15:00,Beleuchtung,1.00573
+Saturday,1900-01-01 11:15:00,IKT,1.00573
+Saturday,1900-01-01 11:15:00,Klimakälte,1.00573
+Saturday,1900-01-01 11:15:00,mechanische Antriebe,1.00286
+Saturday,1900-01-01 11:15:00,Prozesskälte,1
+Saturday,1900-01-01 11:15:00,Prozesswärme,1.00286
+Saturday,1900-01-01 11:15:00,Raumwärme,1.00573
+Saturday,1900-01-01 11:15:00,Warmwasser,1.00573
+Saturday,1900-01-01 11:30:00,Beleuchtung,1.00536
+Saturday,1900-01-01 11:30:00,IKT,1.00536
+Saturday,1900-01-01 11:30:00,Klimakälte,1.00536
+Saturday,1900-01-01 11:30:00,mechanische Antriebe,1.00268
+Saturday,1900-01-01 11:30:00,Prozesskälte,1
+Saturday,1900-01-01 11:30:00,Prozesswärme,1.00268
+Saturday,1900-01-01 11:30:00,Raumwärme,1.00536
+Saturday,1900-01-01 11:30:00,Warmwasser,1.00536
+Saturday,1900-01-01 11:45:00,Beleuchtung,1.00483
+Saturday,1900-01-01 11:45:00,IKT,1.00483
+Saturday,1900-01-01 11:45:00,Klimakälte,1.00483
+Saturday,1900-01-01 11:45:00,mechanische Antriebe,1.00241
+Saturday,1900-01-01 11:45:00,Prozesskälte,1
+Saturday,1900-01-01 11:45:00,Prozesswärme,1.00241
+Saturday,1900-01-01 11:45:00,Raumwärme,1.00483
+Saturday,1900-01-01 11:45:00,Warmwasser,1.00483
+Saturday,1900-01-01 12:00:00,Beleuchtung,1.00411
+Saturday,1900-01-01 12:00:00,IKT,1.00411
+Saturday,1900-01-01 12:00:00,Klimakälte,1.00411
+Saturday,1900-01-01 12:00:00,mechanische Antriebe,1.00205
+Saturday,1900-01-01 12:00:00,Prozesskälte,1
+Saturday,1900-01-01 12:00:00,Prozesswärme,1.00205
+Saturday,1900-01-01 12:00:00,Raumwärme,1.00411
+Saturday,1900-01-01 12:00:00,Warmwasser,1.00411
+Saturday,1900-01-01 12:15:00,Beleuchtung,1.00318
+Saturday,1900-01-01 12:15:00,IKT,1.00318
+Saturday,1900-01-01 12:15:00,Klimakälte,1.00318
+Saturday,1900-01-01 12:15:00,mechanische Antriebe,1.00159
+Saturday,1900-01-01 12:15:00,Prozesskälte,1
+Saturday,1900-01-01 12:15:00,Prozesswärme,1.00159
+Saturday,1900-01-01 12:15:00,Raumwärme,1.00318
+Saturday,1900-01-01 12:15:00,Warmwasser,1.00318
+Saturday,1900-01-01 12:30:00,Beleuchtung,1.002
+Saturday,1900-01-01 12:30:00,IKT,1.002
+Saturday,1900-01-01 12:30:00,Klimakälte,1.002
+Saturday,1900-01-01 12:30:00,mechanische Antriebe,1.001
+Saturday,1900-01-01 12:30:00,Prozesskälte,1
+Saturday,1900-01-01 12:30:00,Prozesswärme,1.001
+Saturday,1900-01-01 12:30:00,Raumwärme,1.002
+Saturday,1900-01-01 12:30:00,Warmwasser,1.002
+Saturday,1900-01-01 12:45:00,Beleuchtung,1.0005
+Saturday,1900-01-01 12:45:00,IKT,1.0005
+Saturday,1900-01-01 12:45:00,Klimakälte,1.0005
+Saturday,1900-01-01 12:45:00,mechanische Antriebe,1.00025
+Saturday,1900-01-01 12:45:00,Prozesskälte,1
+Saturday,1900-01-01 12:45:00,Prozesswärme,1.00025
+Saturday,1900-01-01 12:45:00,Raumwärme,1.0005
+Saturday,1900-01-01 12:45:00,Warmwasser,1.0005
+Saturday,1900-01-01 13:00:00,Beleuchtung,0.998629
+Saturday,1900-01-01 13:00:00,IKT,0.998629
+Saturday,1900-01-01 13:00:00,Klimakälte,0.998629
+Saturday,1900-01-01 13:00:00,mechanische Antriebe,0.999314
+Saturday,1900-01-01 13:00:00,Prozesskälte,1
+Saturday,1900-01-01 13:00:00,Prozesswärme,0.999314
+Saturday,1900-01-01 13:00:00,Raumwärme,0.998629
+Saturday,1900-01-01 13:00:00,Warmwasser,0.998629
+Saturday,1900-01-01 13:15:00,Beleuchtung,0.996323
+Saturday,1900-01-01 13:15:00,IKT,0.996323
+Saturday,1900-01-01 13:15:00,Klimakälte,0.996323
+Saturday,1900-01-01 13:15:00,mechanische Antriebe,0.998161
+Saturday,1900-01-01 13:15:00,Prozesskälte,1
+Saturday,1900-01-01 13:15:00,Prozesswärme,0.998161
+Saturday,1900-01-01 13:15:00,Raumwärme,0.996323
+Saturday,1900-01-01 13:15:00,Warmwasser,0.996323
+Saturday,1900-01-01 13:30:00,Beleuchtung,0.993524
+Saturday,1900-01-01 13:30:00,IKT,0.993524
+Saturday,1900-01-01 13:30:00,Klimakälte,0.993524
+Saturday,1900-01-01 13:30:00,mechanische Antriebe,0.996762
+Saturday,1900-01-01 13:30:00,Prozesskälte,1
+Saturday,1900-01-01 13:30:00,Prozesswärme,0.996762
+Saturday,1900-01-01 13:30:00,Raumwärme,0.993524
+Saturday,1900-01-01 13:30:00,Warmwasser,0.993524
+Saturday,1900-01-01 13:45:00,Beleuchtung,0.990173
+Saturday,1900-01-01 13:45:00,IKT,0.990173
+Saturday,1900-01-01 13:45:00,Klimakälte,0.990173
+Saturday,1900-01-01 13:45:00,mechanische Antriebe,0.995086
+Saturday,1900-01-01 13:45:00,Prozesskälte,1
+Saturday,1900-01-01 13:45:00,Prozesswärme,0.995086
+Saturday,1900-01-01 13:45:00,Raumwärme,0.990173
+Saturday,1900-01-01 13:45:00,Warmwasser,0.990173
+Saturday,1900-01-01 14:00:00,Beleuchtung,0.986208
+Saturday,1900-01-01 14:00:00,IKT,0.986208
+Saturday,1900-01-01 14:00:00,Klimakälte,0.986208
+Saturday,1900-01-01 14:00:00,mechanische Antriebe,0.993104
+Saturday,1900-01-01 14:00:00,Prozesskälte,1
+Saturday,1900-01-01 14:00:00,Prozesswärme,0.993104
+Saturday,1900-01-01 14:00:00,Raumwärme,0.986208
+Saturday,1900-01-01 14:00:00,Warmwasser,0.986208
+Saturday,1900-01-01 14:15:00,Beleuchtung,0.981607
+Saturday,1900-01-01 14:15:00,IKT,0.981607
+Saturday,1900-01-01 14:15:00,Klimakälte,0.981607
+Saturday,1900-01-01 14:15:00,mechanische Antriebe,0.990804
+Saturday,1900-01-01 14:15:00,Prozesskälte,1
+Saturday,1900-01-01 14:15:00,Prozesswärme,0.990804
+Saturday,1900-01-01 14:15:00,Raumwärme,0.981607
+Saturday,1900-01-01 14:15:00,Warmwasser,0.981607
+Saturday,1900-01-01 14:30:00,Beleuchtung,0.976495
+Saturday,1900-01-01 14:30:00,IKT,0.976495
+Saturday,1900-01-01 14:30:00,Klimakälte,0.976495
+Saturday,1900-01-01 14:30:00,mechanische Antriebe,0.988248
+Saturday,1900-01-01 14:30:00,Prozesskälte,1
+Saturday,1900-01-01 14:30:00,Prozesswärme,0.988248
+Saturday,1900-01-01 14:30:00,Raumwärme,0.976495
+Saturday,1900-01-01 14:30:00,Warmwasser,0.976495
+Saturday,1900-01-01 14:45:00,Beleuchtung,0.971034
+Saturday,1900-01-01 14:45:00,IKT,0.971034
+Saturday,1900-01-01 14:45:00,Klimakälte,0.971034
+Saturday,1900-01-01 14:45:00,mechanische Antriebe,0.985517
+Saturday,1900-01-01 14:45:00,Prozesskälte,1
+Saturday,1900-01-01 14:45:00,Prozesswärme,0.985517
+Saturday,1900-01-01 14:45:00,Raumwärme,0.971034
+Saturday,1900-01-01 14:45:00,Warmwasser,0.971034
+Saturday,1900-01-01 15:00:00,Beleuchtung,0.965385
+Saturday,1900-01-01 15:00:00,IKT,0.965385
+Saturday,1900-01-01 15:00:00,Klimakälte,0.965385
+Saturday,1900-01-01 15:00:00,mechanische Antriebe,0.982693
+Saturday,1900-01-01 15:00:00,Prozesskälte,1
+Saturday,1900-01-01 15:00:00,Prozesswärme,0.982693
+Saturday,1900-01-01 15:00:00,Raumwärme,0.965385
+Saturday,1900-01-01 15:00:00,Warmwasser,0.965385
+Saturday,1900-01-01 15:15:00,Beleuchtung,0.959712
+Saturday,1900-01-01 15:15:00,IKT,0.959712
+Saturday,1900-01-01 15:15:00,Klimakälte,0.959712
+Saturday,1900-01-01 15:15:00,mechanische Antriebe,0.979856
+Saturday,1900-01-01 15:15:00,Prozesskälte,1
+Saturday,1900-01-01 15:15:00,Prozesswärme,0.979856
+Saturday,1900-01-01 15:15:00,Raumwärme,0.959712
+Saturday,1900-01-01 15:15:00,Warmwasser,0.959712
+Saturday,1900-01-01 15:30:00,Beleuchtung,0.954179
+Saturday,1900-01-01 15:30:00,IKT,0.954179
+Saturday,1900-01-01 15:30:00,Klimakälte,0.954179
+Saturday,1900-01-01 15:30:00,mechanische Antriebe,0.97709
+Saturday,1900-01-01 15:30:00,Prozesskälte,1
+Saturday,1900-01-01 15:30:00,Prozesswärme,0.97709
+Saturday,1900-01-01 15:30:00,Raumwärme,0.954179
+Saturday,1900-01-01 15:30:00,Warmwasser,0.954179
+Saturday,1900-01-01 15:45:00,Beleuchtung,0.948952
+Saturday,1900-01-01 15:45:00,IKT,0.948952
+Saturday,1900-01-01 15:45:00,Klimakälte,0.948952
+Saturday,1900-01-01 15:45:00,mechanische Antriebe,0.974476
+Saturday,1900-01-01 15:45:00,Prozesskälte,1
+Saturday,1900-01-01 15:45:00,Prozesswärme,0.974476
+Saturday,1900-01-01 15:45:00,Raumwärme,0.948952
+Saturday,1900-01-01 15:45:00,Warmwasser,0.948952
+Saturday,1900-01-01 16:00:00,Beleuchtung,0.944197
+Saturday,1900-01-01 16:00:00,IKT,0.944197
+Saturday,1900-01-01 16:00:00,Klimakälte,0.944197
+Saturday,1900-01-01 16:00:00,mechanische Antriebe,0.972099
+Saturday,1900-01-01 16:00:00,Prozesskälte,1
+Saturday,1900-01-01 16:00:00,Prozesswärme,0.972099
+Saturday,1900-01-01 16:00:00,Raumwärme,0.944197
+Saturday,1900-01-01 16:00:00,Warmwasser,0.944197
+Saturday,1900-01-01 16:15:00,Beleuchtung,0.940051
+Saturday,1900-01-01 16:15:00,IKT,0.940051
+Saturday,1900-01-01 16:15:00,Klimakälte,0.940051
+Saturday,1900-01-01 16:15:00,mechanische Antriebe,0.970026
+Saturday,1900-01-01 16:15:00,Prozesskälte,1
+Saturday,1900-01-01 16:15:00,Prozesswärme,0.970026
+Saturday,1900-01-01 16:15:00,Raumwärme,0.940051
+Saturday,1900-01-01 16:15:00,Warmwasser,0.940051
+Saturday,1900-01-01 16:30:00,Beleuchtung,0.93654
+Saturday,1900-01-01 16:30:00,IKT,0.93654
+Saturday,1900-01-01 16:30:00,Klimakälte,0.93654
+Saturday,1900-01-01 16:30:00,mechanische Antriebe,0.96827
+Saturday,1900-01-01 16:30:00,Prozesskälte,1
+Saturday,1900-01-01 16:30:00,Prozesswärme,0.96827
+Saturday,1900-01-01 16:30:00,Raumwärme,0.93654
+Saturday,1900-01-01 16:30:00,Warmwasser,0.93654
+Saturday,1900-01-01 16:45:00,Beleuchtung,0.933661
+Saturday,1900-01-01 16:45:00,IKT,0.933661
+Saturday,1900-01-01 16:45:00,Klimakälte,0.933661
+Saturday,1900-01-01 16:45:00,mechanische Antriebe,0.96683
+Saturday,1900-01-01 16:45:00,Prozesskälte,1
+Saturday,1900-01-01 16:45:00,Prozesswärme,0.96683
+Saturday,1900-01-01 16:45:00,Raumwärme,0.933661
+Saturday,1900-01-01 16:45:00,Warmwasser,0.933661
+Saturday,1900-01-01 17:00:00,Beleuchtung,0.931411
+Saturday,1900-01-01 17:00:00,IKT,0.931411
+Saturday,1900-01-01 17:00:00,Klimakälte,0.931411
+Saturday,1900-01-01 17:00:00,mechanische Antriebe,0.965706
+Saturday,1900-01-01 17:00:00,Prozesskälte,1
+Saturday,1900-01-01 17:00:00,Prozesswärme,0.965706
+Saturday,1900-01-01 17:00:00,Raumwärme,0.931411
+Saturday,1900-01-01 17:00:00,Warmwasser,0.931411
+Saturday,1900-01-01 17:15:00,Beleuchtung,0.929762
+Saturday,1900-01-01 17:15:00,IKT,0.929762
+Saturday,1900-01-01 17:15:00,Klimakälte,0.929762
+Saturday,1900-01-01 17:15:00,mechanische Antriebe,0.964881
+Saturday,1900-01-01 17:15:00,Prozesskälte,1
+Saturday,1900-01-01 17:15:00,Prozesswärme,0.964881
+Saturday,1900-01-01 17:15:00,Raumwärme,0.929762
+Saturday,1900-01-01 17:15:00,Warmwasser,0.929762
+Saturday,1900-01-01 17:30:00,Beleuchtung,0.928585
+Saturday,1900-01-01 17:30:00,IKT,0.928585
+Saturday,1900-01-01 17:30:00,Klimakälte,0.928585
+Saturday,1900-01-01 17:30:00,mechanische Antriebe,0.964293
+Saturday,1900-01-01 17:30:00,Prozesskälte,1
+Saturday,1900-01-01 17:30:00,Prozesswärme,0.964293
+Saturday,1900-01-01 17:30:00,Raumwärme,0.928585
+Saturday,1900-01-01 17:30:00,Warmwasser,0.928585
+Saturday,1900-01-01 17:45:00,Beleuchtung,0.927725
+Saturday,1900-01-01 17:45:00,IKT,0.927725
+Saturday,1900-01-01 17:45:00,Klimakälte,0.927725
+Saturday,1900-01-01 17:45:00,mechanische Antriebe,0.963863
+Saturday,1900-01-01 17:45:00,Prozesskälte,1
+Saturday,1900-01-01 17:45:00,Prozesswärme,0.963863
+Saturday,1900-01-01 17:45:00,Raumwärme,0.927725
+Saturday,1900-01-01 17:45:00,Warmwasser,0.927725
+Saturday,1900-01-01 18:00:00,Beleuchtung,0.927027
+Saturday,1900-01-01 18:00:00,IKT,0.927027
+Saturday,1900-01-01 18:00:00,Klimakälte,0.927027
+Saturday,1900-01-01 18:00:00,mechanische Antriebe,0.963514
+Saturday,1900-01-01 18:00:00,Prozesskälte,1
+Saturday,1900-01-01 18:00:00,Prozesswärme,0.963514
+Saturday,1900-01-01 18:00:00,Raumwärme,0.927027
+Saturday,1900-01-01 18:00:00,Warmwasser,0.927027
+Saturday,1900-01-01 18:15:00,Beleuchtung,0.926363
+Saturday,1900-01-01 18:15:00,IKT,0.926363
+Saturday,1900-01-01 18:15:00,Klimakälte,0.926363
+Saturday,1900-01-01 18:15:00,mechanische Antriebe,0.963182
+Saturday,1900-01-01 18:15:00,Prozesskälte,1
+Saturday,1900-01-01 18:15:00,Prozesswärme,0.963182
+Saturday,1900-01-01 18:15:00,Raumwärme,0.926363
+Saturday,1900-01-01 18:15:00,Warmwasser,0.926363
+Saturday,1900-01-01 18:30:00,Beleuchtung,0.925712
+Saturday,1900-01-01 18:30:00,IKT,0.925712
+Saturday,1900-01-01 18:30:00,Klimakälte,0.925712
+Saturday,1900-01-01 18:30:00,mechanische Antriebe,0.962856
+Saturday,1900-01-01 18:30:00,Prozesskälte,1
+Saturday,1900-01-01 18:30:00,Prozesswärme,0.962856
+Saturday,1900-01-01 18:30:00,Raumwärme,0.925712
+Saturday,1900-01-01 18:30:00,Warmwasser,0.925712
+Saturday,1900-01-01 18:45:00,Beleuchtung,0.925079
+Saturday,1900-01-01 18:45:00,IKT,0.925079
+Saturday,1900-01-01 18:45:00,Klimakälte,0.925079
+Saturday,1900-01-01 18:45:00,mechanische Antriebe,0.96254
+Saturday,1900-01-01 18:45:00,Prozesskälte,1
+Saturday,1900-01-01 18:45:00,Prozesswärme,0.96254
+Saturday,1900-01-01 18:45:00,Raumwärme,0.925079
+Saturday,1900-01-01 18:45:00,Warmwasser,0.925079
+Saturday,1900-01-01 19:00:00,Beleuchtung,0.92447
+Saturday,1900-01-01 19:00:00,IKT,0.92447
+Saturday,1900-01-01 19:00:00,Klimakälte,0.92447
+Saturday,1900-01-01 19:00:00,mechanische Antriebe,0.962235
+Saturday,1900-01-01 19:00:00,Prozesskälte,1
+Saturday,1900-01-01 19:00:00,Prozesswärme,0.962235
+Saturday,1900-01-01 19:00:00,Raumwärme,0.92447
+Saturday,1900-01-01 19:00:00,Warmwasser,0.92447
+Saturday,1900-01-01 19:15:00,Beleuchtung,0.923923
+Saturday,1900-01-01 19:15:00,IKT,0.923923
+Saturday,1900-01-01 19:15:00,Klimakälte,0.923923
+Saturday,1900-01-01 19:15:00,mechanische Antriebe,0.961962
+Saturday,1900-01-01 19:15:00,Prozesskälte,1
+Saturday,1900-01-01 19:15:00,Prozesswärme,0.961962
+Saturday,1900-01-01 19:15:00,Raumwärme,0.923923
+Saturday,1900-01-01 19:15:00,Warmwasser,0.923923
+Saturday,1900-01-01 19:30:00,Beleuchtung,0.923607
+Saturday,1900-01-01 19:30:00,IKT,0.923607
+Saturday,1900-01-01 19:30:00,Klimakälte,0.923607
+Saturday,1900-01-01 19:30:00,mechanische Antriebe,0.961803
+Saturday,1900-01-01 19:30:00,Prozesskälte,1
+Saturday,1900-01-01 19:30:00,Prozesswärme,0.961803
+Saturday,1900-01-01 19:30:00,Raumwärme,0.923607
+Saturday,1900-01-01 19:30:00,Warmwasser,0.923607
+Saturday,1900-01-01 19:45:00,Beleuchtung,0.923722
+Saturday,1900-01-01 19:45:00,IKT,0.923722
+Saturday,1900-01-01 19:45:00,Klimakälte,0.923722
+Saturday,1900-01-01 19:45:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 19:45:00,Prozesskälte,1
+Saturday,1900-01-01 19:45:00,Prozesswärme,0.961861
+Saturday,1900-01-01 19:45:00,Raumwärme,0.923722
+Saturday,1900-01-01 19:45:00,Warmwasser,0.923722
+Saturday,1900-01-01 20:00:00,Beleuchtung,0.923722
+Saturday,1900-01-01 20:00:00,IKT,0.923722
+Saturday,1900-01-01 20:00:00,Klimakälte,0.923722
+Saturday,1900-01-01 20:00:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 20:00:00,Prozesskälte,1
+Saturday,1900-01-01 20:00:00,Prozesswärme,0.961861
+Saturday,1900-01-01 20:00:00,Raumwärme,0.923722
+Saturday,1900-01-01 20:00:00,Warmwasser,0.923722
+Saturday,1900-01-01 20:15:00,Beleuchtung,0.923722
+Saturday,1900-01-01 20:15:00,IKT,0.923722
+Saturday,1900-01-01 20:15:00,Klimakälte,0.923722
+Saturday,1900-01-01 20:15:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 20:15:00,Prozesskälte,1
+Saturday,1900-01-01 20:15:00,Prozesswärme,0.961861
+Saturday,1900-01-01 20:15:00,Raumwärme,0.923722
+Saturday,1900-01-01 20:15:00,Warmwasser,0.923722
+Saturday,1900-01-01 20:30:00,Beleuchtung,0.923722
+Saturday,1900-01-01 20:30:00,IKT,0.923722
+Saturday,1900-01-01 20:30:00,Klimakälte,0.923722
+Saturday,1900-01-01 20:30:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 20:30:00,Prozesskälte,1
+Saturday,1900-01-01 20:30:00,Prozesswärme,0.961861
+Saturday,1900-01-01 20:30:00,Raumwärme,0.923722
+Saturday,1900-01-01 20:30:00,Warmwasser,0.923722
+Saturday,1900-01-01 20:45:00,Beleuchtung,0.923722
+Saturday,1900-01-01 20:45:00,IKT,0.923722
+Saturday,1900-01-01 20:45:00,Klimakälte,0.923722
+Saturday,1900-01-01 20:45:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 20:45:00,Prozesskälte,1
+Saturday,1900-01-01 20:45:00,Prozesswärme,0.961861
+Saturday,1900-01-01 20:45:00,Raumwärme,0.923722
+Saturday,1900-01-01 20:45:00,Warmwasser,0.923722
+Saturday,1900-01-01 21:00:00,Beleuchtung,0.923722
+Saturday,1900-01-01 21:00:00,IKT,0.923722
+Saturday,1900-01-01 21:00:00,Klimakälte,0.923722
+Saturday,1900-01-01 21:00:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 21:00:00,Prozesskälte,1
+Saturday,1900-01-01 21:00:00,Prozesswärme,0.961861
+Saturday,1900-01-01 21:00:00,Raumwärme,0.923722
+Saturday,1900-01-01 21:00:00,Warmwasser,0.923722
+Saturday,1900-01-01 21:15:00,Beleuchtung,0.923722
+Saturday,1900-01-01 21:15:00,IKT,0.923722
+Saturday,1900-01-01 21:15:00,Klimakälte,0.923722
+Saturday,1900-01-01 21:15:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 21:15:00,Prozesskälte,1
+Saturday,1900-01-01 21:15:00,Prozesswärme,0.961861
+Saturday,1900-01-01 21:15:00,Raumwärme,0.923722
+Saturday,1900-01-01 21:15:00,Warmwasser,0.923722
+Saturday,1900-01-01 21:30:00,Beleuchtung,0.923722
+Saturday,1900-01-01 21:30:00,IKT,0.923722
+Saturday,1900-01-01 21:30:00,Klimakälte,0.923722
+Saturday,1900-01-01 21:30:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 21:30:00,Prozesskälte,1
+Saturday,1900-01-01 21:30:00,Prozesswärme,0.961861
+Saturday,1900-01-01 21:30:00,Raumwärme,0.923722
+Saturday,1900-01-01 21:30:00,Warmwasser,0.923722
+Saturday,1900-01-01 21:45:00,Beleuchtung,0.923722
+Saturday,1900-01-01 21:45:00,IKT,0.923722
+Saturday,1900-01-01 21:45:00,Klimakälte,0.923722
+Saturday,1900-01-01 21:45:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 21:45:00,Prozesskälte,1
+Saturday,1900-01-01 21:45:00,Prozesswärme,0.961861
+Saturday,1900-01-01 21:45:00,Raumwärme,0.923722
+Saturday,1900-01-01 21:45:00,Warmwasser,0.923722
+Saturday,1900-01-01 22:00:00,Beleuchtung,0.923722
+Saturday,1900-01-01 22:00:00,IKT,0.923722
+Saturday,1900-01-01 22:00:00,Klimakälte,0.923722
+Saturday,1900-01-01 22:00:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 22:00:00,Prozesskälte,1
+Saturday,1900-01-01 22:00:00,Prozesswärme,0.961861
+Saturday,1900-01-01 22:00:00,Raumwärme,0.923722
+Saturday,1900-01-01 22:00:00,Warmwasser,0.923722
+Saturday,1900-01-01 22:15:00,Beleuchtung,0.923722
+Saturday,1900-01-01 22:15:00,IKT,0.923722
+Saturday,1900-01-01 22:15:00,Klimakälte,0.923722
+Saturday,1900-01-01 22:15:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 22:15:00,Prozesskälte,1
+Saturday,1900-01-01 22:15:00,Prozesswärme,0.961861
+Saturday,1900-01-01 22:15:00,Raumwärme,0.923722
+Saturday,1900-01-01 22:15:00,Warmwasser,0.923722
+Saturday,1900-01-01 22:30:00,Beleuchtung,0.923722
+Saturday,1900-01-01 22:30:00,IKT,0.923722
+Saturday,1900-01-01 22:30:00,Klimakälte,0.923722
+Saturday,1900-01-01 22:30:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 22:30:00,Prozesskälte,1
+Saturday,1900-01-01 22:30:00,Prozesswärme,0.961861
+Saturday,1900-01-01 22:30:00,Raumwärme,0.923722
+Saturday,1900-01-01 22:30:00,Warmwasser,0.923722
+Saturday,1900-01-01 22:45:00,Beleuchtung,0.923722
+Saturday,1900-01-01 22:45:00,IKT,0.923722
+Saturday,1900-01-01 22:45:00,Klimakälte,0.923722
+Saturday,1900-01-01 22:45:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 22:45:00,Prozesskälte,1
+Saturday,1900-01-01 22:45:00,Prozesswärme,0.961861
+Saturday,1900-01-01 22:45:00,Raumwärme,0.923722
+Saturday,1900-01-01 22:45:00,Warmwasser,0.923722
+Saturday,1900-01-01 23:00:00,Beleuchtung,0.923722
+Saturday,1900-01-01 23:00:00,IKT,0.923722
+Saturday,1900-01-01 23:00:00,Klimakälte,0.923722
+Saturday,1900-01-01 23:00:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 23:00:00,Prozesskälte,1
+Saturday,1900-01-01 23:00:00,Prozesswärme,0.961861
+Saturday,1900-01-01 23:00:00,Raumwärme,0.923722
+Saturday,1900-01-01 23:00:00,Warmwasser,0.923722
+Saturday,1900-01-01 23:15:00,Beleuchtung,0.923722
+Saturday,1900-01-01 23:15:00,IKT,0.923722
+Saturday,1900-01-01 23:15:00,Klimakälte,0.923722
+Saturday,1900-01-01 23:15:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 23:15:00,Prozesskälte,1
+Saturday,1900-01-01 23:15:00,Prozesswärme,0.961861
+Saturday,1900-01-01 23:15:00,Raumwärme,0.923722
+Saturday,1900-01-01 23:15:00,Warmwasser,0.923722
+Saturday,1900-01-01 23:30:00,Beleuchtung,0.923722
+Saturday,1900-01-01 23:30:00,IKT,0.923722
+Saturday,1900-01-01 23:30:00,Klimakälte,0.923722
+Saturday,1900-01-01 23:30:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 23:30:00,Prozesskälte,1
+Saturday,1900-01-01 23:30:00,Prozesswärme,0.961861
+Saturday,1900-01-01 23:30:00,Raumwärme,0.923722
+Saturday,1900-01-01 23:30:00,Warmwasser,0.923722
+Saturday,1900-01-01 23:45:00,Beleuchtung,0.923722
+Saturday,1900-01-01 23:45:00,IKT,0.923722
+Saturday,1900-01-01 23:45:00,Klimakälte,0.923722
+Saturday,1900-01-01 23:45:00,mechanische Antriebe,0.961861
+Saturday,1900-01-01 23:45:00,Prozesskälte,1
+Saturday,1900-01-01 23:45:00,Prozesswärme,0.961861
+Saturday,1900-01-01 23:45:00,Raumwärme,0.923722
+Saturday,1900-01-01 23:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 00:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 00:00:00,IKT,0.923722
+Sunday,1900-01-01 00:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 00:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 00:00:00,Prozesskälte,1
+Sunday,1900-01-01 00:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 00:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 00:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 00:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 00:15:00,IKT,0.923722
+Sunday,1900-01-01 00:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 00:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 00:15:00,Prozesskälte,1
+Sunday,1900-01-01 00:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 00:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 00:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 00:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 00:30:00,IKT,0.923722
+Sunday,1900-01-01 00:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 00:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 00:30:00,Prozesskälte,1
+Sunday,1900-01-01 00:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 00:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 00:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 00:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 00:45:00,IKT,0.923722
+Sunday,1900-01-01 00:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 00:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 00:45:00,Prozesskälte,1
+Sunday,1900-01-01 00:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 00:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 00:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 01:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 01:00:00,IKT,0.923722
+Sunday,1900-01-01 01:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 01:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 01:00:00,Prozesskälte,1
+Sunday,1900-01-01 01:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 01:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 01:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 01:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 01:15:00,IKT,0.923722
+Sunday,1900-01-01 01:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 01:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 01:15:00,Prozesskälte,1
+Sunday,1900-01-01 01:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 01:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 01:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 01:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 01:30:00,IKT,0.923722
+Sunday,1900-01-01 01:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 01:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 01:30:00,Prozesskälte,1
+Sunday,1900-01-01 01:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 01:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 01:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 01:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 01:45:00,IKT,0.923722
+Sunday,1900-01-01 01:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 01:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 01:45:00,Prozesskälte,1
+Sunday,1900-01-01 01:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 01:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 01:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 02:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 02:00:00,IKT,0.923722
+Sunday,1900-01-01 02:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 02:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 02:00:00,Prozesskälte,1
+Sunday,1900-01-01 02:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 02:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 02:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 02:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 02:15:00,IKT,0.923722
+Sunday,1900-01-01 02:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 02:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 02:15:00,Prozesskälte,1
+Sunday,1900-01-01 02:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 02:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 02:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 02:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 02:30:00,IKT,0.923722
+Sunday,1900-01-01 02:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 02:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 02:30:00,Prozesskälte,1
+Sunday,1900-01-01 02:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 02:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 02:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 02:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 02:45:00,IKT,0.923722
+Sunday,1900-01-01 02:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 02:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 02:45:00,Prozesskälte,1
+Sunday,1900-01-01 02:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 02:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 02:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 03:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 03:00:00,IKT,0.923722
+Sunday,1900-01-01 03:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 03:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 03:00:00,Prozesskälte,1
+Sunday,1900-01-01 03:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 03:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 03:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 03:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 03:15:00,IKT,0.923722
+Sunday,1900-01-01 03:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 03:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 03:15:00,Prozesskälte,1
+Sunday,1900-01-01 03:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 03:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 03:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 03:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 03:30:00,IKT,0.923722
+Sunday,1900-01-01 03:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 03:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 03:30:00,Prozesskälte,1
+Sunday,1900-01-01 03:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 03:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 03:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 03:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 03:45:00,IKT,0.923722
+Sunday,1900-01-01 03:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 03:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 03:45:00,Prozesskälte,1
+Sunday,1900-01-01 03:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 03:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 03:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 04:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 04:00:00,IKT,0.923722
+Sunday,1900-01-01 04:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 04:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 04:00:00,Prozesskälte,1
+Sunday,1900-01-01 04:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 04:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 04:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 04:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 04:15:00,IKT,0.923722
+Sunday,1900-01-01 04:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 04:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 04:15:00,Prozesskälte,1
+Sunday,1900-01-01 04:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 04:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 04:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 04:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 04:30:00,IKT,0.923722
+Sunday,1900-01-01 04:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 04:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 04:30:00,Prozesskälte,1
+Sunday,1900-01-01 04:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 04:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 04:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 04:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 04:45:00,IKT,0.923722
+Sunday,1900-01-01 04:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 04:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 04:45:00,Prozesskälte,1
+Sunday,1900-01-01 04:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 04:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 04:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 05:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 05:00:00,IKT,0.923722
+Sunday,1900-01-01 05:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 05:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 05:00:00,Prozesskälte,1
+Sunday,1900-01-01 05:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 05:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 05:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 05:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 05:15:00,IKT,0.923722
+Sunday,1900-01-01 05:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 05:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 05:15:00,Prozesskälte,1
+Sunday,1900-01-01 05:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 05:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 05:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 05:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 05:30:00,IKT,0.923722
+Sunday,1900-01-01 05:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 05:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 05:30:00,Prozesskälte,1
+Sunday,1900-01-01 05:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 05:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 05:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 05:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 05:45:00,IKT,0.923722
+Sunday,1900-01-01 05:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 05:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 05:45:00,Prozesskälte,1
+Sunday,1900-01-01 05:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 05:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 05:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 06:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 06:00:00,IKT,0.923722
+Sunday,1900-01-01 06:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 06:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 06:00:00,Prozesskälte,1
+Sunday,1900-01-01 06:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 06:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 06:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 06:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 06:15:00,IKT,0.923722
+Sunday,1900-01-01 06:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 06:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 06:15:00,Prozesskälte,1
+Sunday,1900-01-01 06:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 06:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 06:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 06:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 06:30:00,IKT,0.923722
+Sunday,1900-01-01 06:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 06:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 06:30:00,Prozesskälte,1
+Sunday,1900-01-01 06:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 06:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 06:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 06:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 06:45:00,IKT,0.923722
+Sunday,1900-01-01 06:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 06:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 06:45:00,Prozesskälte,1
+Sunday,1900-01-01 06:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 06:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 06:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 07:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 07:00:00,IKT,0.923722
+Sunday,1900-01-01 07:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 07:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 07:00:00,Prozesskälte,1
+Sunday,1900-01-01 07:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 07:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 07:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 07:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 07:15:00,IKT,0.923722
+Sunday,1900-01-01 07:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 07:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 07:15:00,Prozesskälte,1
+Sunday,1900-01-01 07:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 07:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 07:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 07:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 07:30:00,IKT,0.923722
+Sunday,1900-01-01 07:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 07:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 07:30:00,Prozesskälte,1
+Sunday,1900-01-01 07:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 07:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 07:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 07:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 07:45:00,IKT,0.923722
+Sunday,1900-01-01 07:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 07:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 07:45:00,Prozesskälte,1
+Sunday,1900-01-01 07:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 07:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 07:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 08:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 08:00:00,IKT,0.923722
+Sunday,1900-01-01 08:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 08:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 08:00:00,Prozesskälte,1
+Sunday,1900-01-01 08:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 08:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 08:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 08:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 08:15:00,IKT,0.923722
+Sunday,1900-01-01 08:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 08:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 08:15:00,Prozesskälte,1
+Sunday,1900-01-01 08:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 08:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 08:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 08:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 08:30:00,IKT,0.923722
+Sunday,1900-01-01 08:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 08:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 08:30:00,Prozesskälte,1
+Sunday,1900-01-01 08:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 08:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 08:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 08:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 08:45:00,IKT,0.923722
+Sunday,1900-01-01 08:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 08:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 08:45:00,Prozesskälte,1
+Sunday,1900-01-01 08:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 08:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 08:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 09:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 09:00:00,IKT,0.923722
+Sunday,1900-01-01 09:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 09:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 09:00:00,Prozesskälte,1
+Sunday,1900-01-01 09:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 09:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 09:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 09:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 09:15:00,IKT,0.923722
+Sunday,1900-01-01 09:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 09:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 09:15:00,Prozesskälte,1
+Sunday,1900-01-01 09:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 09:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 09:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 09:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 09:30:00,IKT,0.923722
+Sunday,1900-01-01 09:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 09:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 09:30:00,Prozesskälte,1
+Sunday,1900-01-01 09:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 09:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 09:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 09:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 09:45:00,IKT,0.923722
+Sunday,1900-01-01 09:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 09:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 09:45:00,Prozesskälte,1
+Sunday,1900-01-01 09:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 09:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 09:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 10:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 10:00:00,IKT,0.923722
+Sunday,1900-01-01 10:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 10:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 10:00:00,Prozesskälte,1
+Sunday,1900-01-01 10:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 10:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 10:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 10:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 10:15:00,IKT,0.923722
+Sunday,1900-01-01 10:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 10:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 10:15:00,Prozesskälte,1
+Sunday,1900-01-01 10:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 10:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 10:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 10:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 10:30:00,IKT,0.923722
+Sunday,1900-01-01 10:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 10:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 10:30:00,Prozesskälte,1
+Sunday,1900-01-01 10:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 10:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 10:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 10:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 10:45:00,IKT,0.923722
+Sunday,1900-01-01 10:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 10:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 10:45:00,Prozesskälte,1
+Sunday,1900-01-01 10:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 10:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 10:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 11:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 11:00:00,IKT,0.923722
+Sunday,1900-01-01 11:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 11:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 11:00:00,Prozesskälte,1
+Sunday,1900-01-01 11:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 11:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 11:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 11:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 11:15:00,IKT,0.923722
+Sunday,1900-01-01 11:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 11:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 11:15:00,Prozesskälte,1
+Sunday,1900-01-01 11:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 11:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 11:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 11:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 11:30:00,IKT,0.923722
+Sunday,1900-01-01 11:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 11:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 11:30:00,Prozesskälte,1
+Sunday,1900-01-01 11:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 11:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 11:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 11:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 11:45:00,IKT,0.923722
+Sunday,1900-01-01 11:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 11:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 11:45:00,Prozesskälte,1
+Sunday,1900-01-01 11:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 11:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 11:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 12:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 12:00:00,IKT,0.923722
+Sunday,1900-01-01 12:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 12:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 12:00:00,Prozesskälte,1
+Sunday,1900-01-01 12:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 12:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 12:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 12:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 12:15:00,IKT,0.923722
+Sunday,1900-01-01 12:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 12:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 12:15:00,Prozesskälte,1
+Sunday,1900-01-01 12:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 12:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 12:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 12:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 12:30:00,IKT,0.923722
+Sunday,1900-01-01 12:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 12:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 12:30:00,Prozesskälte,1
+Sunday,1900-01-01 12:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 12:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 12:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 12:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 12:45:00,IKT,0.923722
+Sunday,1900-01-01 12:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 12:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 12:45:00,Prozesskälte,1
+Sunday,1900-01-01 12:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 12:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 12:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 13:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 13:00:00,IKT,0.923722
+Sunday,1900-01-01 13:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 13:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 13:00:00,Prozesskälte,1
+Sunday,1900-01-01 13:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 13:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 13:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 13:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 13:15:00,IKT,0.923722
+Sunday,1900-01-01 13:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 13:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 13:15:00,Prozesskälte,1
+Sunday,1900-01-01 13:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 13:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 13:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 13:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 13:30:00,IKT,0.923722
+Sunday,1900-01-01 13:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 13:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 13:30:00,Prozesskälte,1
+Sunday,1900-01-01 13:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 13:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 13:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 13:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 13:45:00,IKT,0.923722
+Sunday,1900-01-01 13:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 13:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 13:45:00,Prozesskälte,1
+Sunday,1900-01-01 13:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 13:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 13:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 14:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 14:00:00,IKT,0.923722
+Sunday,1900-01-01 14:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 14:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 14:00:00,Prozesskälte,1
+Sunday,1900-01-01 14:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 14:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 14:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 14:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 14:15:00,IKT,0.923722
+Sunday,1900-01-01 14:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 14:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 14:15:00,Prozesskälte,1
+Sunday,1900-01-01 14:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 14:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 14:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 14:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 14:30:00,IKT,0.923722
+Sunday,1900-01-01 14:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 14:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 14:30:00,Prozesskälte,1
+Sunday,1900-01-01 14:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 14:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 14:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 14:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 14:45:00,IKT,0.923722
+Sunday,1900-01-01 14:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 14:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 14:45:00,Prozesskälte,1
+Sunday,1900-01-01 14:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 14:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 14:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 15:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 15:00:00,IKT,0.923722
+Sunday,1900-01-01 15:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 15:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 15:00:00,Prozesskälte,1
+Sunday,1900-01-01 15:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 15:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 15:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 15:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 15:15:00,IKT,0.923722
+Sunday,1900-01-01 15:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 15:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 15:15:00,Prozesskälte,1
+Sunday,1900-01-01 15:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 15:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 15:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 15:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 15:30:00,IKT,0.923722
+Sunday,1900-01-01 15:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 15:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 15:30:00,Prozesskälte,1
+Sunday,1900-01-01 15:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 15:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 15:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 15:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 15:45:00,IKT,0.923722
+Sunday,1900-01-01 15:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 15:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 15:45:00,Prozesskälte,1
+Sunday,1900-01-01 15:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 15:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 15:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 16:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 16:00:00,IKT,0.923722
+Sunday,1900-01-01 16:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 16:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 16:00:00,Prozesskälte,1
+Sunday,1900-01-01 16:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 16:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 16:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 16:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 16:15:00,IKT,0.923722
+Sunday,1900-01-01 16:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 16:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 16:15:00,Prozesskälte,1
+Sunday,1900-01-01 16:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 16:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 16:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 16:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 16:30:00,IKT,0.923722
+Sunday,1900-01-01 16:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 16:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 16:30:00,Prozesskälte,1
+Sunday,1900-01-01 16:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 16:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 16:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 16:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 16:45:00,IKT,0.923722
+Sunday,1900-01-01 16:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 16:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 16:45:00,Prozesskälte,1
+Sunday,1900-01-01 16:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 16:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 16:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 17:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 17:00:00,IKT,0.923722
+Sunday,1900-01-01 17:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 17:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 17:00:00,Prozesskälte,1
+Sunday,1900-01-01 17:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 17:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 17:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 17:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 17:15:00,IKT,0.923722
+Sunday,1900-01-01 17:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 17:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 17:15:00,Prozesskälte,1
+Sunday,1900-01-01 17:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 17:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 17:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 17:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 17:30:00,IKT,0.923722
+Sunday,1900-01-01 17:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 17:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 17:30:00,Prozesskälte,1
+Sunday,1900-01-01 17:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 17:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 17:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 17:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 17:45:00,IKT,0.923722
+Sunday,1900-01-01 17:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 17:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 17:45:00,Prozesskälte,1
+Sunday,1900-01-01 17:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 17:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 17:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 18:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 18:00:00,IKT,0.923722
+Sunday,1900-01-01 18:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 18:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 18:00:00,Prozesskälte,1
+Sunday,1900-01-01 18:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 18:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 18:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 18:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 18:15:00,IKT,0.923722
+Sunday,1900-01-01 18:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 18:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 18:15:00,Prozesskälte,1
+Sunday,1900-01-01 18:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 18:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 18:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 18:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 18:30:00,IKT,0.923722
+Sunday,1900-01-01 18:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 18:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 18:30:00,Prozesskälte,1
+Sunday,1900-01-01 18:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 18:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 18:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 18:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 18:45:00,IKT,0.923722
+Sunday,1900-01-01 18:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 18:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 18:45:00,Prozesskälte,1
+Sunday,1900-01-01 18:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 18:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 18:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 19:00:00,Beleuchtung,0.923722
+Sunday,1900-01-01 19:00:00,IKT,0.923722
+Sunday,1900-01-01 19:00:00,Klimakälte,0.923722
+Sunday,1900-01-01 19:00:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 19:00:00,Prozesskälte,1
+Sunday,1900-01-01 19:00:00,Prozesswärme,0.961861
+Sunday,1900-01-01 19:00:00,Raumwärme,0.923722
+Sunday,1900-01-01 19:00:00,Warmwasser,0.923722
+Sunday,1900-01-01 19:15:00,Beleuchtung,0.923722
+Sunday,1900-01-01 19:15:00,IKT,0.923722
+Sunday,1900-01-01 19:15:00,Klimakälte,0.923722
+Sunday,1900-01-01 19:15:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 19:15:00,Prozesskälte,1
+Sunday,1900-01-01 19:15:00,Prozesswärme,0.961861
+Sunday,1900-01-01 19:15:00,Raumwärme,0.923722
+Sunday,1900-01-01 19:15:00,Warmwasser,0.923722
+Sunday,1900-01-01 19:30:00,Beleuchtung,0.923722
+Sunday,1900-01-01 19:30:00,IKT,0.923722
+Sunday,1900-01-01 19:30:00,Klimakälte,0.923722
+Sunday,1900-01-01 19:30:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 19:30:00,Prozesskälte,1
+Sunday,1900-01-01 19:30:00,Prozesswärme,0.961861
+Sunday,1900-01-01 19:30:00,Raumwärme,0.923722
+Sunday,1900-01-01 19:30:00,Warmwasser,0.923722
+Sunday,1900-01-01 19:45:00,Beleuchtung,0.923722
+Sunday,1900-01-01 19:45:00,IKT,0.923722
+Sunday,1900-01-01 19:45:00,Klimakälte,0.923722
+Sunday,1900-01-01 19:45:00,mechanische Antriebe,0.961861
+Sunday,1900-01-01 19:45:00,Prozesskälte,1
+Sunday,1900-01-01 19:45:00,Prozesswärme,0.961861
+Sunday,1900-01-01 19:45:00,Raumwärme,0.923722
+Sunday,1900-01-01 19:45:00,Warmwasser,0.923722
+Sunday,1900-01-01 20:00:00,Beleuchtung,0.92447
+Sunday,1900-01-01 20:00:00,IKT,0.92447
+Sunday,1900-01-01 20:00:00,Klimakälte,0.92447
+Sunday,1900-01-01 20:00:00,mechanische Antriebe,0.962235
+Sunday,1900-01-01 20:00:00,Prozesskälte,1
+Sunday,1900-01-01 20:00:00,Prozesswärme,0.962235
+Sunday,1900-01-01 20:00:00,Raumwärme,0.92447
+Sunday,1900-01-01 20:00:00,Warmwasser,0.92447
+Sunday,1900-01-01 20:15:00,Beleuchtung,0.926072
+Sunday,1900-01-01 20:15:00,IKT,0.926072
+Sunday,1900-01-01 20:15:00,Klimakälte,0.926072
+Sunday,1900-01-01 20:15:00,mechanische Antriebe,0.963036
+Sunday,1900-01-01 20:15:00,Prozesskälte,1
+Sunday,1900-01-01 20:15:00,Prozesswärme,0.963036
+Sunday,1900-01-01 20:15:00,Raumwärme,0.926072
+Sunday,1900-01-01 20:15:00,Warmwasser,0.926072
+Sunday,1900-01-01 20:30:00,Beleuchtung,0.928828
+Sunday,1900-01-01 20:30:00,IKT,0.928828
+Sunday,1900-01-01 20:30:00,Klimakälte,0.928828
+Sunday,1900-01-01 20:30:00,mechanische Antriebe,0.964414
+Sunday,1900-01-01 20:30:00,Prozesskälte,1
+Sunday,1900-01-01 20:30:00,Prozesswärme,0.964414
+Sunday,1900-01-01 20:30:00,Raumwärme,0.928828
+Sunday,1900-01-01 20:30:00,Warmwasser,0.928828
+Sunday,1900-01-01 20:45:00,Beleuchtung,0.933058
+Sunday,1900-01-01 20:45:00,IKT,0.933058
+Sunday,1900-01-01 20:45:00,Klimakälte,0.933058
+Sunday,1900-01-01 20:45:00,mechanische Antriebe,0.966529
+Sunday,1900-01-01 20:45:00,Prozesskälte,1
+Sunday,1900-01-01 20:45:00,Prozesswärme,0.966529
+Sunday,1900-01-01 20:45:00,Raumwärme,0.933058
+Sunday,1900-01-01 20:45:00,Warmwasser,0.933058
+Sunday,1900-01-01 21:00:00,Beleuchtung,0.939083
+Sunday,1900-01-01 21:00:00,IKT,0.939083
+Sunday,1900-01-01 21:00:00,Klimakälte,0.939083
+Sunday,1900-01-01 21:00:00,mechanische Antriebe,0.969541
+Sunday,1900-01-01 21:00:00,Prozesskälte,1
+Sunday,1900-01-01 21:00:00,Prozesswärme,0.969541
+Sunday,1900-01-01 21:00:00,Raumwärme,0.939083
+Sunday,1900-01-01 21:00:00,Warmwasser,0.939083
+Sunday,1900-01-01 21:15:00,Beleuchtung,0.947241
+Sunday,1900-01-01 21:15:00,IKT,0.947241
+Sunday,1900-01-01 21:15:00,Klimakälte,0.947241
+Sunday,1900-01-01 21:15:00,mechanische Antriebe,0.973621
+Sunday,1900-01-01 21:15:00,Prozesskälte,1
+Sunday,1900-01-01 21:15:00,Prozesswärme,0.973621
+Sunday,1900-01-01 21:15:00,Raumwärme,0.947241
+Sunday,1900-01-01 21:15:00,Warmwasser,0.947241
+Sunday,1900-01-01 21:30:00,Beleuchtung,0.957951
+Sunday,1900-01-01 21:30:00,IKT,0.957951
+Sunday,1900-01-01 21:30:00,Klimakälte,0.957951
+Sunday,1900-01-01 21:30:00,mechanische Antriebe,0.978975
+Sunday,1900-01-01 21:30:00,Prozesskälte,1
+Sunday,1900-01-01 21:30:00,Prozesswärme,0.978975
+Sunday,1900-01-01 21:30:00,Raumwärme,0.957951
+Sunday,1900-01-01 21:30:00,Warmwasser,0.957951
+Sunday,1900-01-01 21:45:00,Beleuchtung,0.971647
+Sunday,1900-01-01 21:45:00,IKT,0.971647
+Sunday,1900-01-01 21:45:00,Klimakälte,0.971647
+Sunday,1900-01-01 21:45:00,mechanische Antriebe,0.985823
+Sunday,1900-01-01 21:45:00,Prozesskälte,1
+Sunday,1900-01-01 21:45:00,Prozesswärme,0.985823
+Sunday,1900-01-01 21:45:00,Raumwärme,0.971647
+Sunday,1900-01-01 21:45:00,Warmwasser,0.971647
+Sunday,1900-01-01 22:00:00,Beleuchtung,0.988765
+Sunday,1900-01-01 22:00:00,IKT,0.988765
+Sunday,1900-01-01 22:00:00,Klimakälte,0.988765
+Sunday,1900-01-01 22:00:00,mechanische Antriebe,0.994383
+Sunday,1900-01-01 22:00:00,Prozesskälte,1
+Sunday,1900-01-01 22:00:00,Prozesswärme,0.994383
+Sunday,1900-01-01 22:00:00,Raumwärme,0.988765
+Sunday,1900-01-01 22:00:00,Warmwasser,0.988765
+Sunday,1900-01-01 22:15:00,Beleuchtung,1.00974
+Sunday,1900-01-01 22:15:00,IKT,1.00974
+Sunday,1900-01-01 22:15:00,Klimakälte,1.00974
+Sunday,1900-01-01 22:15:00,mechanische Antriebe,1.00487
+Sunday,1900-01-01 22:15:00,Prozesskälte,1
+Sunday,1900-01-01 22:15:00,Prozesswärme,1.00487
+Sunday,1900-01-01 22:15:00,Raumwärme,1.00974
+Sunday,1900-01-01 22:15:00,Warmwasser,1.00974
+Sunday,1900-01-01 22:30:00,Beleuchtung,1.03501
+Sunday,1900-01-01 22:30:00,IKT,1.03501
+Sunday,1900-01-01 22:30:00,Klimakälte,1.03501
+Sunday,1900-01-01 22:30:00,mechanische Antriebe,1.01751
+Sunday,1900-01-01 22:30:00,Prozesskälte,1
+Sunday,1900-01-01 22:30:00,Prozesswärme,1.01751
+Sunday,1900-01-01 22:30:00,Raumwärme,1.03501
+Sunday,1900-01-01 22:30:00,Warmwasser,1.03501
+Sunday,1900-01-01 22:45:00,Beleuchtung,1.06502
+Sunday,1900-01-01 22:45:00,IKT,1.06502
+Sunday,1900-01-01 22:45:00,Klimakälte,1.06502
+Sunday,1900-01-01 22:45:00,mechanische Antriebe,1.03251
+Sunday,1900-01-01 22:45:00,Prozesskälte,1
+Sunday,1900-01-01 22:45:00,Prozesswärme,1.03251
+Sunday,1900-01-01 22:45:00,Raumwärme,1.06502
+Sunday,1900-01-01 22:45:00,Warmwasser,1.06502
+Sunday,1900-01-01 23:00:00,Beleuchtung,1.10019
+Sunday,1900-01-01 23:00:00,IKT,1.10019
+Sunday,1900-01-01 23:00:00,Klimakälte,1.10019
+Sunday,1900-01-01 23:00:00,mechanische Antriebe,1.05009
+Sunday,1900-01-01 23:00:00,Prozesskälte,1
+Sunday,1900-01-01 23:00:00,Prozesswärme,1.05009
+Sunday,1900-01-01 23:00:00,Raumwärme,1.10019
+Sunday,1900-01-01 23:00:00,Warmwasser,1.10019
+Sunday,1900-01-01 23:15:00,Beleuchtung,1.13834
+Sunday,1900-01-01 23:15:00,IKT,1.13834
+Sunday,1900-01-01 23:15:00,Klimakälte,1.13834
+Sunday,1900-01-01 23:15:00,mechanische Antriebe,1.06917
+Sunday,1900-01-01 23:15:00,Prozesskälte,1
+Sunday,1900-01-01 23:15:00,Prozesswärme,1.06917
+Sunday,1900-01-01 23:15:00,Raumwärme,1.13834
+Sunday,1900-01-01 23:15:00,Warmwasser,1.13834
+Sunday,1900-01-01 23:30:00,Beleuchtung,1.16912
+Sunday,1900-01-01 23:30:00,IKT,1.16912
+Sunday,1900-01-01 23:30:00,Klimakälte,1.16912
+Sunday,1900-01-01 23:30:00,mechanische Antriebe,1.08456
+Sunday,1900-01-01 23:30:00,Prozesskälte,1
+Sunday,1900-01-01 23:30:00,Prozesswärme,1.08456
+Sunday,1900-01-01 23:30:00,Raumwärme,1.16912
+Sunday,1900-01-01 23:30:00,Warmwasser,1.16912
+Sunday,1900-01-01 23:45:00,Beleuchtung,1.17727
+Sunday,1900-01-01 23:45:00,IKT,1.17727
+Sunday,1900-01-01 23:45:00,Klimakälte,1.17727
+Sunday,1900-01-01 23:45:00,mechanische Antriebe,1.08863
+Sunday,1900-01-01 23:45:00,Prozesskälte,1
+Sunday,1900-01-01 23:45:00,Prozesswärme,1.08863
+Sunday,1900-01-01 23:45:00,Raumwärme,1.17727
+Sunday,1900-01-01 23:45:00,Warmwasser,1.17727
+Week_day,1900-01-01 00:00:00,Beleuchtung,0.780938
+Week_day,1900-01-01 00:00:00,IKT,0.780938
+Week_day,1900-01-01 00:00:00,Klimakälte,0.780938
+Week_day,1900-01-01 00:00:00,mechanische Antriebe,0.890469
+Week_day,1900-01-01 00:00:00,Prozesskälte,1
+Week_day,1900-01-01 00:00:00,Prozesswärme,0.890469
+Week_day,1900-01-01 00:00:00,Raumwärme,0.780938
+Week_day,1900-01-01 00:00:00,Warmwasser,0.780938
+Week_day,1900-01-01 00:15:00,Beleuchtung,0.780938
+Week_day,1900-01-01 00:15:00,IKT,0.780938
+Week_day,1900-01-01 00:15:00,Klimakälte,0.780938
+Week_day,1900-01-01 00:15:00,mechanische Antriebe,0.890469
+Week_day,1900-01-01 00:15:00,Prozesskälte,1
+Week_day,1900-01-01 00:15:00,Prozesswärme,0.890469
+Week_day,1900-01-01 00:15:00,Raumwärme,0.780938
+Week_day,1900-01-01 00:15:00,Warmwasser,0.780938
+Week_day,1900-01-01 00:30:00,Beleuchtung,0.780938
+Week_day,1900-01-01 00:30:00,IKT,0.780938
+Week_day,1900-01-01 00:30:00,Klimakälte,0.780938
+Week_day,1900-01-01 00:30:00,mechanische Antriebe,0.890469
+Week_day,1900-01-01 00:30:00,Prozesskälte,1
+Week_day,1900-01-01 00:30:00,Prozesswärme,0.890469
+Week_day,1900-01-01 00:30:00,Raumwärme,0.780938
+Week_day,1900-01-01 00:30:00,Warmwasser,0.780938
+Week_day,1900-01-01 00:45:00,Beleuchtung,0.780938
+Week_day,1900-01-01 00:45:00,IKT,0.780938
+Week_day,1900-01-01 00:45:00,Klimakälte,0.780938
+Week_day,1900-01-01 00:45:00,mechanische Antriebe,0.890469
+Week_day,1900-01-01 00:45:00,Prozesskälte,1
+Week_day,1900-01-01 00:45:00,Prozesswärme,0.890469
+Week_day,1900-01-01 00:45:00,Raumwärme,0.780938
+Week_day,1900-01-01 00:45:00,Warmwasser,0.780938
+Week_day,1900-01-01 01:00:00,Beleuchtung,0.780938
+Week_day,1900-01-01 01:00:00,IKT,0.780938
+Week_day,1900-01-01 01:00:00,Klimakälte,0.780938
+Week_day,1900-01-01 01:00:00,mechanische Antriebe,0.890469
+Week_day,1900-01-01 01:00:00,Prozesskälte,1
+Week_day,1900-01-01 01:00:00,Prozesswärme,0.890469
+Week_day,1900-01-01 01:00:00,Raumwärme,0.780938
+Week_day,1900-01-01 01:00:00,Warmwasser,0.780938
+Week_day,1900-01-01 01:15:00,Beleuchtung,0.787223
+Week_day,1900-01-01 01:15:00,IKT,0.787223
+Week_day,1900-01-01 01:15:00,Klimakälte,0.787223
+Week_day,1900-01-01 01:15:00,mechanische Antriebe,0.893612
+Week_day,1900-01-01 01:15:00,Prozesskälte,1
+Week_day,1900-01-01 01:15:00,Prozesswärme,0.893612
+Week_day,1900-01-01 01:15:00,Raumwärme,0.787223
+Week_day,1900-01-01 01:15:00,Warmwasser,0.787223
+Week_day,1900-01-01 01:30:00,Beleuchtung,0.793468
+Week_day,1900-01-01 01:30:00,IKT,0.793468
+Week_day,1900-01-01 01:30:00,Klimakälte,0.793468
+Week_day,1900-01-01 01:30:00,mechanische Antriebe,0.896734
+Week_day,1900-01-01 01:30:00,Prozesskälte,1
+Week_day,1900-01-01 01:30:00,Prozesswärme,0.896734
+Week_day,1900-01-01 01:30:00,Raumwärme,0.793468
+Week_day,1900-01-01 01:30:00,Warmwasser,0.793468
+Week_day,1900-01-01 01:45:00,Beleuchtung,0.798397
+Week_day,1900-01-01 01:45:00,IKT,0.798397
+Week_day,1900-01-01 01:45:00,Klimakälte,0.798397
+Week_day,1900-01-01 01:45:00,mechanische Antriebe,0.899198
+Week_day,1900-01-01 01:45:00,Prozesskälte,1
+Week_day,1900-01-01 01:45:00,Prozesswärme,0.899198
+Week_day,1900-01-01 01:45:00,Raumwärme,0.798397
+Week_day,1900-01-01 01:45:00,Warmwasser,0.798397
+Week_day,1900-01-01 02:00:00,Beleuchtung,0.800731
+Week_day,1900-01-01 02:00:00,IKT,0.800731
+Week_day,1900-01-01 02:00:00,Klimakälte,0.800731
+Week_day,1900-01-01 02:00:00,mechanische Antriebe,0.900366
+Week_day,1900-01-01 02:00:00,Prozesskälte,1
+Week_day,1900-01-01 02:00:00,Prozesswärme,0.900366
+Week_day,1900-01-01 02:00:00,Raumwärme,0.800731
+Week_day,1900-01-01 02:00:00,Warmwasser,0.800731
+Week_day,1900-01-01 02:15:00,Beleuchtung,0.79962
+Week_day,1900-01-01 02:15:00,IKT,0.79962
+Week_day,1900-01-01 02:15:00,Klimakälte,0.79962
+Week_day,1900-01-01 02:15:00,mechanische Antriebe,0.89981
+Week_day,1900-01-01 02:15:00,Prozesskälte,1
+Week_day,1900-01-01 02:15:00,Prozesswärme,0.89981
+Week_day,1900-01-01 02:15:00,Raumwärme,0.79962
+Week_day,1900-01-01 02:15:00,Warmwasser,0.79962
+Week_day,1900-01-01 02:30:00,Beleuchtung,0.79591
+Week_day,1900-01-01 02:30:00,IKT,0.79591
+Week_day,1900-01-01 02:30:00,Klimakälte,0.79591
+Week_day,1900-01-01 02:30:00,mechanische Antriebe,0.897955
+Week_day,1900-01-01 02:30:00,Prozesskälte,1
+Week_day,1900-01-01 02:30:00,Prozesswärme,0.897955
+Week_day,1900-01-01 02:30:00,Raumwärme,0.79591
+Week_day,1900-01-01 02:30:00,Warmwasser,0.79591
+Week_day,1900-01-01 02:45:00,Beleuchtung,0.790872
+Week_day,1900-01-01 02:45:00,IKT,0.790872
+Week_day,1900-01-01 02:45:00,Klimakälte,0.790872
+Week_day,1900-01-01 02:45:00,mechanische Antriebe,0.895436
+Week_day,1900-01-01 02:45:00,Prozesskälte,1
+Week_day,1900-01-01 02:45:00,Prozesswärme,0.895436
+Week_day,1900-01-01 02:45:00,Raumwärme,0.790872
+Week_day,1900-01-01 02:45:00,Warmwasser,0.790872
+Week_day,1900-01-01 03:00:00,Beleuchtung,0.785777
+Week_day,1900-01-01 03:00:00,IKT,0.785777
+Week_day,1900-01-01 03:00:00,Klimakälte,0.785777
+Week_day,1900-01-01 03:00:00,mechanische Antriebe,0.892888
+Week_day,1900-01-01 03:00:00,Prozesskälte,1
+Week_day,1900-01-01 03:00:00,Prozesswärme,0.892888
+Week_day,1900-01-01 03:00:00,Raumwärme,0.785777
+Week_day,1900-01-01 03:00:00,Warmwasser,0.785777
+Week_day,1900-01-01 03:15:00,Beleuchtung,0.781757
+Week_day,1900-01-01 03:15:00,IKT,0.781757
+Week_day,1900-01-01 03:15:00,Klimakälte,0.781757
+Week_day,1900-01-01 03:15:00,mechanische Antriebe,0.890879
+Week_day,1900-01-01 03:15:00,Prozesskälte,1
+Week_day,1900-01-01 03:15:00,Prozesswärme,0.890879
+Week_day,1900-01-01 03:15:00,Raumwärme,0.781757
+Week_day,1900-01-01 03:15:00,Warmwasser,0.781757
+Week_day,1900-01-01 03:30:00,Beleuchtung,0.779392
+Week_day,1900-01-01 03:30:00,IKT,0.779392
+Week_day,1900-01-01 03:30:00,Klimakälte,0.779392
+Week_day,1900-01-01 03:30:00,mechanische Antriebe,0.889696
+Week_day,1900-01-01 03:30:00,Prozesskälte,1
+Week_day,1900-01-01 03:30:00,Prozesswärme,0.889696
+Week_day,1900-01-01 03:30:00,Raumwärme,0.779392
+Week_day,1900-01-01 03:30:00,Warmwasser,0.779392
+Week_day,1900-01-01 03:45:00,Beleuchtung,0.779119
+Week_day,1900-01-01 03:45:00,IKT,0.779119
+Week_day,1900-01-01 03:45:00,Klimakälte,0.779119
+Week_day,1900-01-01 03:45:00,mechanische Antriebe,0.88956
+Week_day,1900-01-01 03:45:00,Prozesskälte,1
+Week_day,1900-01-01 03:45:00,Prozesswärme,0.88956
+Week_day,1900-01-01 03:45:00,Raumwärme,0.779119
+Week_day,1900-01-01 03:45:00,Warmwasser,0.779119
+Week_day,1900-01-01 04:00:00,Beleuchtung,0.781378
+Week_day,1900-01-01 04:00:00,IKT,0.781378
+Week_day,1900-01-01 04:00:00,Klimakälte,0.781378
+Week_day,1900-01-01 04:00:00,mechanische Antriebe,0.890689
+Week_day,1900-01-01 04:00:00,Prozesskälte,1
+Week_day,1900-01-01 04:00:00,Prozesswärme,0.890689
+Week_day,1900-01-01 04:00:00,Raumwärme,0.781378
+Week_day,1900-01-01 04:00:00,Warmwasser,0.781378
+Week_day,1900-01-01 04:15:00,Beleuchtung,0.78657
+Week_day,1900-01-01 04:15:00,IKT,0.78657
+Week_day,1900-01-01 04:15:00,Klimakälte,0.78657
+Week_day,1900-01-01 04:15:00,mechanische Antriebe,0.893285
+Week_day,1900-01-01 04:15:00,Prozesskälte,1
+Week_day,1900-01-01 04:15:00,Prozesswärme,0.893285
+Week_day,1900-01-01 04:15:00,Raumwärme,0.78657
+Week_day,1900-01-01 04:15:00,Warmwasser,0.78657
+Week_day,1900-01-01 04:30:00,Beleuchtung,0.794942
+Week_day,1900-01-01 04:30:00,IKT,0.794942
+Week_day,1900-01-01 04:30:00,Klimakälte,0.794942
+Week_day,1900-01-01 04:30:00,mechanische Antriebe,0.897471
+Week_day,1900-01-01 04:30:00,Prozesskälte,1
+Week_day,1900-01-01 04:30:00,Prozesswärme,0.897471
+Week_day,1900-01-01 04:30:00,Raumwärme,0.794942
+Week_day,1900-01-01 04:30:00,Warmwasser,0.794942
+Week_day,1900-01-01 04:45:00,Beleuchtung,0.806703
+Week_day,1900-01-01 04:45:00,IKT,0.806703
+Week_day,1900-01-01 04:45:00,Klimakälte,0.806703
+Week_day,1900-01-01 04:45:00,mechanische Antriebe,0.903352
+Week_day,1900-01-01 04:45:00,Prozesskälte,1
+Week_day,1900-01-01 04:45:00,Prozesswärme,0.903352
+Week_day,1900-01-01 04:45:00,Raumwärme,0.806703
+Week_day,1900-01-01 04:45:00,Warmwasser,0.806703
+Week_day,1900-01-01 05:00:00,Beleuchtung,0.822064
+Week_day,1900-01-01 05:00:00,IKT,0.822064
+Week_day,1900-01-01 05:00:00,Klimakälte,0.822064
+Week_day,1900-01-01 05:00:00,mechanische Antriebe,0.911032
+Week_day,1900-01-01 05:00:00,Prozesskälte,1
+Week_day,1900-01-01 05:00:00,Prozesswärme,0.911032
+Week_day,1900-01-01 05:00:00,Raumwärme,0.822064
+Week_day,1900-01-01 05:00:00,Warmwasser,0.822064
+Week_day,1900-01-01 05:15:00,Beleuchtung,0.841123
+Week_day,1900-01-01 05:15:00,IKT,0.841123
+Week_day,1900-01-01 05:15:00,Klimakälte,0.841123
+Week_day,1900-01-01 05:15:00,mechanische Antriebe,0.920561
+Week_day,1900-01-01 05:15:00,Prozesskälte,1
+Week_day,1900-01-01 05:15:00,Prozesswärme,0.920561
+Week_day,1900-01-01 05:15:00,Raumwärme,0.841123
+Week_day,1900-01-01 05:15:00,Warmwasser,0.841123
+Week_day,1900-01-01 05:30:00,Beleuchtung,0.863538
+Week_day,1900-01-01 05:30:00,IKT,0.863538
+Week_day,1900-01-01 05:30:00,Klimakälte,0.863538
+Week_day,1900-01-01 05:30:00,mechanische Antriebe,0.931769
+Week_day,1900-01-01 05:30:00,Prozesskälte,1
+Week_day,1900-01-01 05:30:00,Prozesswärme,0.931769
+Week_day,1900-01-01 05:30:00,Raumwärme,0.863538
+Week_day,1900-01-01 05:30:00,Warmwasser,0.863538
+Week_day,1900-01-01 05:45:00,Beleuchtung,0.888858
+Week_day,1900-01-01 05:45:00,IKT,0.888858
+Week_day,1900-01-01 05:45:00,Klimakälte,0.888858
+Week_day,1900-01-01 05:45:00,mechanische Antriebe,0.944429
+Week_day,1900-01-01 05:45:00,Prozesskälte,1
+Week_day,1900-01-01 05:45:00,Prozesswärme,0.944429
+Week_day,1900-01-01 05:45:00,Raumwärme,0.888858
+Week_day,1900-01-01 05:45:00,Warmwasser,0.888858
+Week_day,1900-01-01 06:00:00,Beleuchtung,0.916631
+Week_day,1900-01-01 06:00:00,IKT,0.916631
+Week_day,1900-01-01 06:00:00,Klimakälte,0.916631
+Week_day,1900-01-01 06:00:00,mechanische Antriebe,0.958315
+Week_day,1900-01-01 06:00:00,Prozesskälte,1
+Week_day,1900-01-01 06:00:00,Prozesswärme,0.958315
+Week_day,1900-01-01 06:00:00,Raumwärme,0.916631
+Week_day,1900-01-01 06:00:00,Warmwasser,0.916631
+Week_day,1900-01-01 06:15:00,Beleuchtung,0.946328
+Week_day,1900-01-01 06:15:00,IKT,0.946328
+Week_day,1900-01-01 06:15:00,Klimakälte,0.946328
+Week_day,1900-01-01 06:15:00,mechanische Antriebe,0.973164
+Week_day,1900-01-01 06:15:00,Prozesskälte,1
+Week_day,1900-01-01 06:15:00,Prozesswärme,0.973164
+Week_day,1900-01-01 06:15:00,Raumwärme,0.946328
+Week_day,1900-01-01 06:15:00,Warmwasser,0.946328
+Week_day,1900-01-01 06:30:00,Beleuchtung,0.977108
+Week_day,1900-01-01 06:30:00,IKT,0.977108
+Week_day,1900-01-01 06:30:00,Klimakälte,0.977108
+Week_day,1900-01-01 06:30:00,mechanische Antriebe,0.988554
+Week_day,1900-01-01 06:30:00,Prozesskälte,1
+Week_day,1900-01-01 06:30:00,Prozesswärme,0.988554
+Week_day,1900-01-01 06:30:00,Raumwärme,0.977108
+Week_day,1900-01-01 06:30:00,Warmwasser,0.977108
+Week_day,1900-01-01 06:45:00,Beleuchtung,1.00805
+Week_day,1900-01-01 06:45:00,IKT,1.00805
+Week_day,1900-01-01 06:45:00,Klimakälte,1.00805
+Week_day,1900-01-01 06:45:00,mechanische Antriebe,1.00403
+Week_day,1900-01-01 06:45:00,Prozesskälte,1
+Week_day,1900-01-01 06:45:00,Prozesswärme,1.00403
+Week_day,1900-01-01 06:45:00,Raumwärme,1.00805
+Week_day,1900-01-01 06:45:00,Warmwasser,1.00805
+Week_day,1900-01-01 07:00:00,Beleuchtung,1.03825
+Week_day,1900-01-01 07:00:00,IKT,1.03825
+Week_day,1900-01-01 07:00:00,Klimakälte,1.03825
+Week_day,1900-01-01 07:00:00,mechanische Antriebe,1.01912
+Week_day,1900-01-01 07:00:00,Prozesskälte,1
+Week_day,1900-01-01 07:00:00,Prozesswärme,1.01912
+Week_day,1900-01-01 07:00:00,Raumwärme,1.03825
+Week_day,1900-01-01 07:00:00,Warmwasser,1.03825
+Week_day,1900-01-01 07:15:00,Beleuchtung,1.06684
+Week_day,1900-01-01 07:15:00,IKT,1.06684
+Week_day,1900-01-01 07:15:00,Klimakälte,1.06684
+Week_day,1900-01-01 07:15:00,mechanische Antriebe,1.03342
+Week_day,1900-01-01 07:15:00,Prozesskälte,1
+Week_day,1900-01-01 07:15:00,Prozesswärme,1.03342
+Week_day,1900-01-01 07:15:00,Raumwärme,1.06684
+Week_day,1900-01-01 07:15:00,Warmwasser,1.06684
+Week_day,1900-01-01 07:30:00,Beleuchtung,1.09325
+Week_day,1900-01-01 07:30:00,IKT,1.09325
+Week_day,1900-01-01 07:30:00,Klimakälte,1.09325
+Week_day,1900-01-01 07:30:00,mechanische Antriebe,1.04662
+Week_day,1900-01-01 07:30:00,Prozesskälte,1
+Week_day,1900-01-01 07:30:00,Prozesswärme,1.04662
+Week_day,1900-01-01 07:30:00,Raumwärme,1.09325
+Week_day,1900-01-01 07:30:00,Warmwasser,1.09325
+Week_day,1900-01-01 07:45:00,Beleuchtung,1.11695
+Week_day,1900-01-01 07:45:00,IKT,1.11695
+Week_day,1900-01-01 07:45:00,Klimakälte,1.11695
+Week_day,1900-01-01 07:45:00,mechanische Antriebe,1.05847
+Week_day,1900-01-01 07:45:00,Prozesskälte,1
+Week_day,1900-01-01 07:45:00,Prozesswärme,1.05847
+Week_day,1900-01-01 07:45:00,Raumwärme,1.11695
+Week_day,1900-01-01 07:45:00,Warmwasser,1.11695
+Week_day,1900-01-01 08:00:00,Beleuchtung,1.13743
+Week_day,1900-01-01 08:00:00,IKT,1.13743
+Week_day,1900-01-01 08:00:00,Klimakälte,1.13743
+Week_day,1900-01-01 08:00:00,mechanische Antriebe,1.06872
+Week_day,1900-01-01 08:00:00,Prozesskälte,1
+Week_day,1900-01-01 08:00:00,Prozesswärme,1.06872
+Week_day,1900-01-01 08:00:00,Raumwärme,1.13743
+Week_day,1900-01-01 08:00:00,Warmwasser,1.13743
+Week_day,1900-01-01 08:15:00,Beleuchtung,1.15429
+Week_day,1900-01-01 08:15:00,IKT,1.15429
+Week_day,1900-01-01 08:15:00,Klimakälte,1.15429
+Week_day,1900-01-01 08:15:00,mechanische Antriebe,1.07715
+Week_day,1900-01-01 08:15:00,Prozesskälte,1
+Week_day,1900-01-01 08:15:00,Prozesswärme,1.07715
+Week_day,1900-01-01 08:15:00,Raumwärme,1.15429
+Week_day,1900-01-01 08:15:00,Warmwasser,1.15429
+Week_day,1900-01-01 08:30:00,Beleuchtung,1.16756
+Week_day,1900-01-01 08:30:00,IKT,1.16756
+Week_day,1900-01-01 08:30:00,Klimakälte,1.16756
+Week_day,1900-01-01 08:30:00,mechanische Antriebe,1.08378
+Week_day,1900-01-01 08:30:00,Prozesskälte,1
+Week_day,1900-01-01 08:30:00,Prozesswärme,1.08378
+Week_day,1900-01-01 08:30:00,Raumwärme,1.16756
+Week_day,1900-01-01 08:30:00,Warmwasser,1.16756
+Week_day,1900-01-01 08:45:00,Beleuchtung,1.17736
+Week_day,1900-01-01 08:45:00,IKT,1.17736
+Week_day,1900-01-01 08:45:00,Klimakälte,1.17736
+Week_day,1900-01-01 08:45:00,mechanische Antriebe,1.08868
+Week_day,1900-01-01 08:45:00,Prozesskälte,1
+Week_day,1900-01-01 08:45:00,Prozesswärme,1.08868
+Week_day,1900-01-01 08:45:00,Raumwärme,1.17736
+Week_day,1900-01-01 08:45:00,Warmwasser,1.17736
+Week_day,1900-01-01 09:00:00,Beleuchtung,1.18384
+Week_day,1900-01-01 09:00:00,IKT,1.18384
+Week_day,1900-01-01 09:00:00,Klimakälte,1.18384
+Week_day,1900-01-01 09:00:00,mechanische Antriebe,1.09192
+Week_day,1900-01-01 09:00:00,Prozesskälte,1
+Week_day,1900-01-01 09:00:00,Prozesswärme,1.09192
+Week_day,1900-01-01 09:00:00,Raumwärme,1.18384
+Week_day,1900-01-01 09:00:00,Warmwasser,1.18384
+Week_day,1900-01-01 09:15:00,Beleuchtung,1.18726
+Week_day,1900-01-01 09:15:00,IKT,1.18726
+Week_day,1900-01-01 09:15:00,Klimakälte,1.18726
+Week_day,1900-01-01 09:15:00,mechanische Antriebe,1.09363
+Week_day,1900-01-01 09:15:00,Prozesskälte,1
+Week_day,1900-01-01 09:15:00,Prozesswärme,1.09363
+Week_day,1900-01-01 09:15:00,Raumwärme,1.18726
+Week_day,1900-01-01 09:15:00,Warmwasser,1.18726
+Week_day,1900-01-01 09:30:00,Beleuchtung,1.18839
+Week_day,1900-01-01 09:30:00,IKT,1.18839
+Week_day,1900-01-01 09:30:00,Klimakälte,1.18839
+Week_day,1900-01-01 09:30:00,mechanische Antriebe,1.09419
+Week_day,1900-01-01 09:30:00,Prozesskälte,1
+Week_day,1900-01-01 09:30:00,Prozesswärme,1.09419
+Week_day,1900-01-01 09:30:00,Raumwärme,1.18839
+Week_day,1900-01-01 09:30:00,Warmwasser,1.18839
+Week_day,1900-01-01 09:45:00,Beleuchtung,1.18812
+Week_day,1900-01-01 09:45:00,IKT,1.18812
+Week_day,1900-01-01 09:45:00,Klimakälte,1.18812
+Week_day,1900-01-01 09:45:00,mechanische Antriebe,1.09406
+Week_day,1900-01-01 09:45:00,Prozesskälte,1
+Week_day,1900-01-01 09:45:00,Prozesswärme,1.09406
+Week_day,1900-01-01 09:45:00,Raumwärme,1.18812
+Week_day,1900-01-01 09:45:00,Warmwasser,1.18812
+Week_day,1900-01-01 10:00:00,Beleuchtung,1.18736
+Week_day,1900-01-01 10:00:00,IKT,1.18736
+Week_day,1900-01-01 10:00:00,Klimakälte,1.18736
+Week_day,1900-01-01 10:00:00,mechanische Antriebe,1.09368
+Week_day,1900-01-01 10:00:00,Prozesskälte,1
+Week_day,1900-01-01 10:00:00,Prozesswärme,1.09368
+Week_day,1900-01-01 10:00:00,Raumwärme,1.18736
+Week_day,1900-01-01 10:00:00,Warmwasser,1.18736
+Week_day,1900-01-01 10:15:00,Beleuchtung,1.18685
+Week_day,1900-01-01 10:15:00,IKT,1.18685
+Week_day,1900-01-01 10:15:00,Klimakälte,1.18685
+Week_day,1900-01-01 10:15:00,mechanische Antriebe,1.09343
+Week_day,1900-01-01 10:15:00,Prozesskälte,1
+Week_day,1900-01-01 10:15:00,Prozesswärme,1.09343
+Week_day,1900-01-01 10:15:00,Raumwärme,1.18685
+Week_day,1900-01-01 10:15:00,Warmwasser,1.18685
+Week_day,1900-01-01 10:30:00,Beleuchtung,1.18679
+Week_day,1900-01-01 10:30:00,IKT,1.18679
+Week_day,1900-01-01 10:30:00,Klimakälte,1.18679
+Week_day,1900-01-01 10:30:00,mechanische Antriebe,1.0934
+Week_day,1900-01-01 10:30:00,Prozesskälte,1
+Week_day,1900-01-01 10:30:00,Prozesswärme,1.0934
+Week_day,1900-01-01 10:30:00,Raumwärme,1.18679
+Week_day,1900-01-01 10:30:00,Warmwasser,1.18679
+Week_day,1900-01-01 10:45:00,Beleuchtung,1.18724
+Week_day,1900-01-01 10:45:00,IKT,1.18724
+Week_day,1900-01-01 10:45:00,Klimakälte,1.18724
+Week_day,1900-01-01 10:45:00,mechanische Antriebe,1.09362
+Week_day,1900-01-01 10:45:00,Prozesskälte,1
+Week_day,1900-01-01 10:45:00,Prozesswärme,1.09362
+Week_day,1900-01-01 10:45:00,Raumwärme,1.18724
+Week_day,1900-01-01 10:45:00,Warmwasser,1.18724
+Week_day,1900-01-01 11:00:00,Beleuchtung,1.18824
+Week_day,1900-01-01 11:00:00,IKT,1.18824
+Week_day,1900-01-01 11:00:00,Klimakälte,1.18824
+Week_day,1900-01-01 11:00:00,mechanische Antriebe,1.09412
+Week_day,1900-01-01 11:00:00,Prozesskälte,1
+Week_day,1900-01-01 11:00:00,Prozesswärme,1.09412
+Week_day,1900-01-01 11:00:00,Raumwärme,1.18824
+Week_day,1900-01-01 11:00:00,Warmwasser,1.18824
+Week_day,1900-01-01 11:15:00,Beleuchtung,1.18979
+Week_day,1900-01-01 11:15:00,IKT,1.18979
+Week_day,1900-01-01 11:15:00,Klimakälte,1.18979
+Week_day,1900-01-01 11:15:00,mechanische Antriebe,1.0949
+Week_day,1900-01-01 11:15:00,Prozesskälte,1
+Week_day,1900-01-01 11:15:00,Prozesswärme,1.0949
+Week_day,1900-01-01 11:15:00,Raumwärme,1.18979
+Week_day,1900-01-01 11:15:00,Warmwasser,1.18979
+Week_day,1900-01-01 11:30:00,Beleuchtung,1.19174
+Week_day,1900-01-01 11:30:00,IKT,1.19174
+Week_day,1900-01-01 11:30:00,Klimakälte,1.19174
+Week_day,1900-01-01 11:30:00,mechanische Antriebe,1.09587
+Week_day,1900-01-01 11:30:00,Prozesskälte,1
+Week_day,1900-01-01 11:30:00,Prozesswärme,1.09587
+Week_day,1900-01-01 11:30:00,Raumwärme,1.19174
+Week_day,1900-01-01 11:30:00,Warmwasser,1.19174
+Week_day,1900-01-01 11:45:00,Beleuchtung,1.19386
+Week_day,1900-01-01 11:45:00,IKT,1.19386
+Week_day,1900-01-01 11:45:00,Klimakälte,1.19386
+Week_day,1900-01-01 11:45:00,mechanische Antriebe,1.09693
+Week_day,1900-01-01 11:45:00,Prozesskälte,1
+Week_day,1900-01-01 11:45:00,Prozesswärme,1.09693
+Week_day,1900-01-01 11:45:00,Raumwärme,1.19386
+Week_day,1900-01-01 11:45:00,Warmwasser,1.19386
+Week_day,1900-01-01 12:00:00,Beleuchtung,1.19593
+Week_day,1900-01-01 12:00:00,IKT,1.19593
+Week_day,1900-01-01 12:00:00,Klimakälte,1.19593
+Week_day,1900-01-01 12:00:00,mechanische Antriebe,1.09797
+Week_day,1900-01-01 12:00:00,Prozesskälte,1
+Week_day,1900-01-01 12:00:00,Prozesswärme,1.09797
+Week_day,1900-01-01 12:00:00,Raumwärme,1.19593
+Week_day,1900-01-01 12:00:00,Warmwasser,1.19593
+Week_day,1900-01-01 12:15:00,Beleuchtung,1.19775
+Week_day,1900-01-01 12:15:00,IKT,1.19775
+Week_day,1900-01-01 12:15:00,Klimakälte,1.19775
+Week_day,1900-01-01 12:15:00,mechanische Antriebe,1.09887
+Week_day,1900-01-01 12:15:00,Prozesskälte,1
+Week_day,1900-01-01 12:15:00,Prozesswärme,1.09887
+Week_day,1900-01-01 12:15:00,Raumwärme,1.19775
+Week_day,1900-01-01 12:15:00,Warmwasser,1.19775
+Week_day,1900-01-01 12:30:00,Beleuchtung,1.19906
+Week_day,1900-01-01 12:30:00,IKT,1.19906
+Week_day,1900-01-01 12:30:00,Klimakälte,1.19906
+Week_day,1900-01-01 12:30:00,mechanische Antriebe,1.09953
+Week_day,1900-01-01 12:30:00,Prozesskälte,1
+Week_day,1900-01-01 12:30:00,Prozesswärme,1.09953
+Week_day,1900-01-01 12:30:00,Raumwärme,1.19906
+Week_day,1900-01-01 12:30:00,Warmwasser,1.19906
+Week_day,1900-01-01 12:45:00,Beleuchtung,1.19963
+Week_day,1900-01-01 12:45:00,IKT,1.19963
+Week_day,1900-01-01 12:45:00,Klimakälte,1.19963
+Week_day,1900-01-01 12:45:00,mechanische Antriebe,1.09982
+Week_day,1900-01-01 12:45:00,Prozesskälte,1
+Week_day,1900-01-01 12:45:00,Prozesswärme,1.09982
+Week_day,1900-01-01 12:45:00,Raumwärme,1.19963
+Week_day,1900-01-01 12:45:00,Warmwasser,1.19963
+Week_day,1900-01-01 13:00:00,Beleuchtung,1.19923
+Week_day,1900-01-01 13:00:00,IKT,1.19923
+Week_day,1900-01-01 13:00:00,Klimakälte,1.19923
+Week_day,1900-01-01 13:00:00,mechanische Antriebe,1.09962
+Week_day,1900-01-01 13:00:00,Prozesskälte,1
+Week_day,1900-01-01 13:00:00,Prozesswärme,1.09962
+Week_day,1900-01-01 13:00:00,Raumwärme,1.19923
+Week_day,1900-01-01 13:00:00,Warmwasser,1.19923
+Week_day,1900-01-01 13:15:00,Beleuchtung,1.19764
+Week_day,1900-01-01 13:15:00,IKT,1.19764
+Week_day,1900-01-01 13:15:00,Klimakälte,1.19764
+Week_day,1900-01-01 13:15:00,mechanische Antriebe,1.09882
+Week_day,1900-01-01 13:15:00,Prozesskälte,1
+Week_day,1900-01-01 13:15:00,Prozesswärme,1.09882
+Week_day,1900-01-01 13:15:00,Raumwärme,1.19764
+Week_day,1900-01-01 13:15:00,Warmwasser,1.19764
+Week_day,1900-01-01 13:30:00,Beleuchtung,1.19477
+Week_day,1900-01-01 13:30:00,IKT,1.19477
+Week_day,1900-01-01 13:30:00,Klimakälte,1.19477
+Week_day,1900-01-01 13:30:00,mechanische Antriebe,1.09739
+Week_day,1900-01-01 13:30:00,Prozesskälte,1
+Week_day,1900-01-01 13:30:00,Prozesswärme,1.09739
+Week_day,1900-01-01 13:30:00,Raumwärme,1.19477
+Week_day,1900-01-01 13:30:00,Warmwasser,1.19477
+Week_day,1900-01-01 13:45:00,Beleuchtung,1.19056
+Week_day,1900-01-01 13:45:00,IKT,1.19056
+Week_day,1900-01-01 13:45:00,Klimakälte,1.19056
+Week_day,1900-01-01 13:45:00,mechanische Antriebe,1.09528
+Week_day,1900-01-01 13:45:00,Prozesskälte,1
+Week_day,1900-01-01 13:45:00,Prozesswärme,1.09528
+Week_day,1900-01-01 13:45:00,Raumwärme,1.19056
+Week_day,1900-01-01 13:45:00,Warmwasser,1.19056
+Week_day,1900-01-01 14:00:00,Beleuchtung,1.18494
+Week_day,1900-01-01 14:00:00,IKT,1.18494
+Week_day,1900-01-01 14:00:00,Klimakälte,1.18494
+Week_day,1900-01-01 14:00:00,mechanische Antriebe,1.09247
+Week_day,1900-01-01 14:00:00,Prozesskälte,1
+Week_day,1900-01-01 14:00:00,Prozesswärme,1.09247
+Week_day,1900-01-01 14:00:00,Raumwärme,1.18494
+Week_day,1900-01-01 14:00:00,Warmwasser,1.18494
+Week_day,1900-01-01 14:15:00,Beleuchtung,1.17787
+Week_day,1900-01-01 14:15:00,IKT,1.17787
+Week_day,1900-01-01 14:15:00,Klimakälte,1.17787
+Week_day,1900-01-01 14:15:00,mechanische Antriebe,1.08893
+Week_day,1900-01-01 14:15:00,Prozesskälte,1
+Week_day,1900-01-01 14:15:00,Prozesswärme,1.08893
+Week_day,1900-01-01 14:15:00,Raumwärme,1.17787
+Week_day,1900-01-01 14:15:00,Warmwasser,1.17787
+Week_day,1900-01-01 14:30:00,Beleuchtung,1.16939
+Week_day,1900-01-01 14:30:00,IKT,1.16939
+Week_day,1900-01-01 14:30:00,Klimakälte,1.16939
+Week_day,1900-01-01 14:30:00,mechanische Antriebe,1.08469
+Week_day,1900-01-01 14:30:00,Prozesskälte,1
+Week_day,1900-01-01 14:30:00,Prozesswärme,1.08469
+Week_day,1900-01-01 14:30:00,Raumwärme,1.16939
+Week_day,1900-01-01 14:30:00,Warmwasser,1.16939
+Week_day,1900-01-01 14:45:00,Beleuchtung,1.15956
+Week_day,1900-01-01 14:45:00,IKT,1.15956
+Week_day,1900-01-01 14:45:00,Klimakälte,1.15956
+Week_day,1900-01-01 14:45:00,mechanische Antriebe,1.07978
+Week_day,1900-01-01 14:45:00,Prozesskälte,1
+Week_day,1900-01-01 14:45:00,Prozesswärme,1.07978
+Week_day,1900-01-01 14:45:00,Raumwärme,1.15956
+Week_day,1900-01-01 14:45:00,Warmwasser,1.15956
+Week_day,1900-01-01 15:00:00,Beleuchtung,1.14843
+Week_day,1900-01-01 15:00:00,IKT,1.14843
+Week_day,1900-01-01 15:00:00,Klimakälte,1.14843
+Week_day,1900-01-01 15:00:00,mechanische Antriebe,1.07421
+Week_day,1900-01-01 15:00:00,Prozesskälte,1
+Week_day,1900-01-01 15:00:00,Prozesswärme,1.07421
+Week_day,1900-01-01 15:00:00,Raumwärme,1.14843
+Week_day,1900-01-01 15:00:00,Warmwasser,1.14843
+Week_day,1900-01-01 15:15:00,Beleuchtung,1.1361
+Week_day,1900-01-01 15:15:00,IKT,1.1361
+Week_day,1900-01-01 15:15:00,Klimakälte,1.1361
+Week_day,1900-01-01 15:15:00,mechanische Antriebe,1.06805
+Week_day,1900-01-01 15:15:00,Prozesskälte,1
+Week_day,1900-01-01 15:15:00,Prozesswärme,1.06805
+Week_day,1900-01-01 15:15:00,Raumwärme,1.1361
+Week_day,1900-01-01 15:15:00,Warmwasser,1.1361
+Week_day,1900-01-01 15:30:00,Beleuchtung,1.12282
+Week_day,1900-01-01 15:30:00,IKT,1.12282
+Week_day,1900-01-01 15:30:00,Klimakälte,1.12282
+Week_day,1900-01-01 15:30:00,mechanische Antriebe,1.06141
+Week_day,1900-01-01 15:30:00,Prozesskälte,1
+Week_day,1900-01-01 15:30:00,Prozesswärme,1.06141
+Week_day,1900-01-01 15:30:00,Raumwärme,1.12282
+Week_day,1900-01-01 15:30:00,Warmwasser,1.12282
+Week_day,1900-01-01 15:45:00,Beleuchtung,1.10888
+Week_day,1900-01-01 15:45:00,IKT,1.10888
+Week_day,1900-01-01 15:45:00,Klimakälte,1.10888
+Week_day,1900-01-01 15:45:00,mechanische Antriebe,1.05444
+Week_day,1900-01-01 15:45:00,Prozesskälte,1
+Week_day,1900-01-01 15:45:00,Prozesswärme,1.05444
+Week_day,1900-01-01 15:45:00,Raumwärme,1.10888
+Week_day,1900-01-01 15:45:00,Warmwasser,1.10888
+Week_day,1900-01-01 16:00:00,Beleuchtung,1.09455
+Week_day,1900-01-01 16:00:00,IKT,1.09455
+Week_day,1900-01-01 16:00:00,Klimakälte,1.09455
+Week_day,1900-01-01 16:00:00,mechanische Antriebe,1.04727
+Week_day,1900-01-01 16:00:00,Prozesskälte,1
+Week_day,1900-01-01 16:00:00,Prozesswärme,1.04727
+Week_day,1900-01-01 16:00:00,Raumwärme,1.09455
+Week_day,1900-01-01 16:00:00,Warmwasser,1.09455
+Week_day,1900-01-01 16:15:00,Beleuchtung,1.08013
+Week_day,1900-01-01 16:15:00,IKT,1.08013
+Week_day,1900-01-01 16:15:00,Klimakälte,1.08013
+Week_day,1900-01-01 16:15:00,mechanische Antriebe,1.04006
+Week_day,1900-01-01 16:15:00,Prozesskälte,1
+Week_day,1900-01-01 16:15:00,Prozesswärme,1.04006
+Week_day,1900-01-01 16:15:00,Raumwärme,1.08013
+Week_day,1900-01-01 16:15:00,Warmwasser,1.08013
+Week_day,1900-01-01 16:30:00,Beleuchtung,1.06592
+Week_day,1900-01-01 16:30:00,IKT,1.06592
+Week_day,1900-01-01 16:30:00,Klimakälte,1.06592
+Week_day,1900-01-01 16:30:00,mechanische Antriebe,1.03296
+Week_day,1900-01-01 16:30:00,Prozesskälte,1
+Week_day,1900-01-01 16:30:00,Prozesswärme,1.03296
+Week_day,1900-01-01 16:30:00,Raumwärme,1.06592
+Week_day,1900-01-01 16:30:00,Warmwasser,1.06592
+Week_day,1900-01-01 16:45:00,Beleuchtung,1.05222
+Week_day,1900-01-01 16:45:00,IKT,1.05222
+Week_day,1900-01-01 16:45:00,Klimakälte,1.05222
+Week_day,1900-01-01 16:45:00,mechanische Antriebe,1.02611
+Week_day,1900-01-01 16:45:00,Prozesskälte,1
+Week_day,1900-01-01 16:45:00,Prozesswärme,1.02611
+Week_day,1900-01-01 16:45:00,Raumwärme,1.05222
+Week_day,1900-01-01 16:45:00,Warmwasser,1.05222
+Week_day,1900-01-01 17:00:00,Beleuchtung,1.03935
+Week_day,1900-01-01 17:00:00,IKT,1.03935
+Week_day,1900-01-01 17:00:00,Klimakälte,1.03935
+Week_day,1900-01-01 17:00:00,mechanische Antriebe,1.01967
+Week_day,1900-01-01 17:00:00,Prozesskälte,1
+Week_day,1900-01-01 17:00:00,Prozesswärme,1.01967
+Week_day,1900-01-01 17:00:00,Raumwärme,1.03935
+Week_day,1900-01-01 17:00:00,Warmwasser,1.03935
+Week_day,1900-01-01 17:15:00,Beleuchtung,1.02757
+Week_day,1900-01-01 17:15:00,IKT,1.02757
+Week_day,1900-01-01 17:15:00,Klimakälte,1.02757
+Week_day,1900-01-01 17:15:00,mechanische Antriebe,1.01378
+Week_day,1900-01-01 17:15:00,Prozesskälte,1
+Week_day,1900-01-01 17:15:00,Prozesswärme,1.01378
+Week_day,1900-01-01 17:15:00,Raumwärme,1.02757
+Week_day,1900-01-01 17:15:00,Warmwasser,1.02757
+Week_day,1900-01-01 17:30:00,Beleuchtung,1.01704
+Week_day,1900-01-01 17:30:00,IKT,1.01704
+Week_day,1900-01-01 17:30:00,Klimakälte,1.01704
+Week_day,1900-01-01 17:30:00,mechanische Antriebe,1.00852
+Week_day,1900-01-01 17:30:00,Prozesskälte,1
+Week_day,1900-01-01 17:30:00,Prozesswärme,1.00852
+Week_day,1900-01-01 17:30:00,Raumwärme,1.01704
+Week_day,1900-01-01 17:30:00,Warmwasser,1.01704
+Week_day,1900-01-01 17:45:00,Beleuchtung,1.00787
+Week_day,1900-01-01 17:45:00,IKT,1.00787
+Week_day,1900-01-01 17:45:00,Klimakälte,1.00787
+Week_day,1900-01-01 17:45:00,mechanische Antriebe,1.00394
+Week_day,1900-01-01 17:45:00,Prozesskälte,1
+Week_day,1900-01-01 17:45:00,Prozesswärme,1.00394
+Week_day,1900-01-01 17:45:00,Raumwärme,1.00787
+Week_day,1900-01-01 17:45:00,Warmwasser,1.00787
+Week_day,1900-01-01 18:00:00,Beleuchtung,1.0002
+Week_day,1900-01-01 18:00:00,IKT,1.0002
+Week_day,1900-01-01 18:00:00,Klimakälte,1.0002
+Week_day,1900-01-01 18:00:00,mechanische Antriebe,1.0001
+Week_day,1900-01-01 18:00:00,Prozesskälte,1
+Week_day,1900-01-01 18:00:00,Prozesswärme,1.0001
+Week_day,1900-01-01 18:00:00,Raumwärme,1.0002
+Week_day,1900-01-01 18:00:00,Warmwasser,1.0002
+Week_day,1900-01-01 18:15:00,Beleuchtung,0.994096
+Week_day,1900-01-01 18:15:00,IKT,0.994096
+Week_day,1900-01-01 18:15:00,Klimakälte,0.994096
+Week_day,1900-01-01 18:15:00,mechanische Antriebe,0.997048
+Week_day,1900-01-01 18:15:00,Prozesskälte,1
+Week_day,1900-01-01 18:15:00,Prozesswärme,0.997048
+Week_day,1900-01-01 18:15:00,Raumwärme,0.994096
+Week_day,1900-01-01 18:15:00,Warmwasser,0.994096
+Week_day,1900-01-01 18:30:00,Beleuchtung,0.989429
+Week_day,1900-01-01 18:30:00,IKT,0.989429
+Week_day,1900-01-01 18:30:00,Klimakälte,0.989429
+Week_day,1900-01-01 18:30:00,mechanische Antriebe,0.994714
+Week_day,1900-01-01 18:30:00,Prozesskälte,1
+Week_day,1900-01-01 18:30:00,Prozesswärme,0.994714
+Week_day,1900-01-01 18:30:00,Raumwärme,0.989429
+Week_day,1900-01-01 18:30:00,Warmwasser,0.989429
+Week_day,1900-01-01 18:45:00,Beleuchtung,0.986025
+Week_day,1900-01-01 18:45:00,IKT,0.986025
+Week_day,1900-01-01 18:45:00,Klimakälte,0.986025
+Week_day,1900-01-01 18:45:00,mechanische Antriebe,0.993012
+Week_day,1900-01-01 18:45:00,Prozesskälte,1
+Week_day,1900-01-01 18:45:00,Prozesswärme,0.993012
+Week_day,1900-01-01 18:45:00,Raumwärme,0.986025
+Week_day,1900-01-01 18:45:00,Warmwasser,0.986025
+Week_day,1900-01-01 19:00:00,Beleuchtung,0.983707
+Week_day,1900-01-01 19:00:00,IKT,0.983707
+Week_day,1900-01-01 19:00:00,Klimakälte,0.983707
+Week_day,1900-01-01 19:00:00,mechanische Antriebe,0.991854
+Week_day,1900-01-01 19:00:00,Prozesskälte,1
+Week_day,1900-01-01 19:00:00,Prozesswärme,0.991854
+Week_day,1900-01-01 19:00:00,Raumwärme,0.983707
+Week_day,1900-01-01 19:00:00,Warmwasser,0.983707
+Week_day,1900-01-01 19:15:00,Beleuchtung,0.982277
+Week_day,1900-01-01 19:15:00,IKT,0.982277
+Week_day,1900-01-01 19:15:00,Klimakälte,0.982277
+Week_day,1900-01-01 19:15:00,mechanische Antriebe,0.991138
+Week_day,1900-01-01 19:15:00,Prozesskälte,1
+Week_day,1900-01-01 19:15:00,Prozesswärme,0.991138
+Week_day,1900-01-01 19:15:00,Raumwärme,0.982277
+Week_day,1900-01-01 19:15:00,Warmwasser,0.982277
+Week_day,1900-01-01 19:30:00,Beleuchtung,0.981431
+Week_day,1900-01-01 19:30:00,IKT,0.981431
+Week_day,1900-01-01 19:30:00,Klimakälte,0.981431
+Week_day,1900-01-01 19:30:00,mechanische Antriebe,0.990715
+Week_day,1900-01-01 19:30:00,Prozesskälte,1
+Week_day,1900-01-01 19:30:00,Prozesswärme,0.990715
+Week_day,1900-01-01 19:30:00,Raumwärme,0.981431
+Week_day,1900-01-01 19:30:00,Warmwasser,0.981431
+Week_day,1900-01-01 19:45:00,Beleuchtung,0.980844
+Week_day,1900-01-01 19:45:00,IKT,0.980844
+Week_day,1900-01-01 19:45:00,Klimakälte,0.980844
+Week_day,1900-01-01 19:45:00,mechanische Antriebe,0.990422
+Week_day,1900-01-01 19:45:00,Prozesskälte,1
+Week_day,1900-01-01 19:45:00,Prozesswärme,0.990422
+Week_day,1900-01-01 19:45:00,Raumwärme,0.980844
+Week_day,1900-01-01 19:45:00,Warmwasser,0.980844
+Week_day,1900-01-01 20:00:00,Beleuchtung,0.980189
+Week_day,1900-01-01 20:00:00,IKT,0.980189
+Week_day,1900-01-01 20:00:00,Klimakälte,0.980189
+Week_day,1900-01-01 20:00:00,mechanische Antriebe,0.990094
+Week_day,1900-01-01 20:00:00,Prozesskälte,1
+Week_day,1900-01-01 20:00:00,Prozesswärme,0.990094
+Week_day,1900-01-01 20:00:00,Raumwärme,0.980189
+Week_day,1900-01-01 20:00:00,Warmwasser,0.980189
+Week_day,1900-01-01 20:15:00,Beleuchtung,0.979149
+Week_day,1900-01-01 20:15:00,IKT,0.979149
+Week_day,1900-01-01 20:15:00,Klimakälte,0.979149
+Week_day,1900-01-01 20:15:00,mechanische Antriebe,0.989574
+Week_day,1900-01-01 20:15:00,Prozesskälte,1
+Week_day,1900-01-01 20:15:00,Prozesswärme,0.989574
+Week_day,1900-01-01 20:15:00,Raumwärme,0.979149
+Week_day,1900-01-01 20:15:00,Warmwasser,0.979149
+Week_day,1900-01-01 20:30:00,Beleuchtung,0.977443
+Week_day,1900-01-01 20:30:00,IKT,0.977443
+Week_day,1900-01-01 20:30:00,Klimakälte,0.977443
+Week_day,1900-01-01 20:30:00,mechanische Antriebe,0.988722
+Week_day,1900-01-01 20:30:00,Prozesskälte,1
+Week_day,1900-01-01 20:30:00,Prozesswärme,0.988722
+Week_day,1900-01-01 20:30:00,Raumwärme,0.977443
+Week_day,1900-01-01 20:30:00,Warmwasser,0.977443
+Week_day,1900-01-01 20:45:00,Beleuchtung,0.974801
+Week_day,1900-01-01 20:45:00,IKT,0.974801
+Week_day,1900-01-01 20:45:00,Klimakälte,0.974801
+Week_day,1900-01-01 20:45:00,mechanische Antriebe,0.987401
+Week_day,1900-01-01 20:45:00,Prozesskälte,1
+Week_day,1900-01-01 20:45:00,Prozesswärme,0.987401
+Week_day,1900-01-01 20:45:00,Raumwärme,0.974801
+Week_day,1900-01-01 20:45:00,Warmwasser,0.974801
+Week_day,1900-01-01 21:00:00,Beleuchtung,0.970952
+Week_day,1900-01-01 21:00:00,IKT,0.970952
+Week_day,1900-01-01 21:00:00,Klimakälte,0.970952
+Week_day,1900-01-01 21:00:00,mechanische Antriebe,0.985476
+Week_day,1900-01-01 21:00:00,Prozesskälte,1
+Week_day,1900-01-01 21:00:00,Prozesswärme,0.985476
+Week_day,1900-01-01 21:00:00,Raumwärme,0.970952
+Week_day,1900-01-01 21:00:00,Warmwasser,0.970952
+Week_day,1900-01-01 21:15:00,Beleuchtung,0.965636
+Week_day,1900-01-01 21:15:00,IKT,0.965636
+Week_day,1900-01-01 21:15:00,Klimakälte,0.965636
+Week_day,1900-01-01 21:15:00,mechanische Antriebe,0.982818
+Week_day,1900-01-01 21:15:00,Prozesskälte,1
+Week_day,1900-01-01 21:15:00,Prozesswärme,0.982818
+Week_day,1900-01-01 21:15:00,Raumwärme,0.965636
+Week_day,1900-01-01 21:15:00,Warmwasser,0.965636
+Week_day,1900-01-01 21:30:00,Beleuchtung,0.958644
+Week_day,1900-01-01 21:30:00,IKT,0.958644
+Week_day,1900-01-01 21:30:00,Klimakälte,0.958644
+Week_day,1900-01-01 21:30:00,mechanische Antriebe,0.979322
+Week_day,1900-01-01 21:30:00,Prozesskälte,1
+Week_day,1900-01-01 21:30:00,Prozesswärme,0.979322
+Week_day,1900-01-01 21:30:00,Raumwärme,0.958644
+Week_day,1900-01-01 21:30:00,Warmwasser,0.958644
+Week_day,1900-01-01 21:45:00,Beleuchtung,0.949779
+Week_day,1900-01-01 21:45:00,IKT,0.949779
+Week_day,1900-01-01 21:45:00,Klimakälte,0.949779
+Week_day,1900-01-01 21:45:00,mechanische Antriebe,0.97489
+Week_day,1900-01-01 21:45:00,Prozesskälte,1
+Week_day,1900-01-01 21:45:00,Prozesswärme,0.97489
+Week_day,1900-01-01 21:45:00,Raumwärme,0.949779
+Week_day,1900-01-01 21:45:00,Warmwasser,0.949779
+Week_day,1900-01-01 22:00:00,Beleuchtung,0.938843
+Week_day,1900-01-01 22:00:00,IKT,0.938843
+Week_day,1900-01-01 22:00:00,Klimakälte,0.938843
+Week_day,1900-01-01 22:00:00,mechanische Antriebe,0.969422
+Week_day,1900-01-01 22:00:00,Prozesskälte,1
+Week_day,1900-01-01 22:00:00,Prozesswärme,0.969422
+Week_day,1900-01-01 22:00:00,Raumwärme,0.938843
+Week_day,1900-01-01 22:00:00,Warmwasser,0.938843
+Week_day,1900-01-01 22:15:00,Beleuchtung,0.925639
+Week_day,1900-01-01 22:15:00,IKT,0.925639
+Week_day,1900-01-01 22:15:00,Klimakälte,0.925639
+Week_day,1900-01-01 22:15:00,mechanische Antriebe,0.96282
+Week_day,1900-01-01 22:15:00,Prozesskälte,1
+Week_day,1900-01-01 22:15:00,Prozesswärme,0.96282
+Week_day,1900-01-01 22:15:00,Raumwärme,0.925639
+Week_day,1900-01-01 22:15:00,Warmwasser,0.925639
+Week_day,1900-01-01 22:30:00,Beleuchtung,0.90997
+Week_day,1900-01-01 22:30:00,IKT,0.90997
+Week_day,1900-01-01 22:30:00,Klimakälte,0.90997
+Week_day,1900-01-01 22:30:00,mechanische Antriebe,0.954985
+Week_day,1900-01-01 22:30:00,Prozesskälte,1
+Week_day,1900-01-01 22:30:00,Prozesswärme,0.954985
+Week_day,1900-01-01 22:30:00,Raumwärme,0.90997
+Week_day,1900-01-01 22:30:00,Warmwasser,0.90997
+Week_day,1900-01-01 22:45:00,Beleuchtung,0.891639
+Week_day,1900-01-01 22:45:00,IKT,0.891639
+Week_day,1900-01-01 22:45:00,Klimakälte,0.891639
+Week_day,1900-01-01 22:45:00,mechanische Antriebe,0.945819
+Week_day,1900-01-01 22:45:00,Prozesskälte,1
+Week_day,1900-01-01 22:45:00,Prozesswärme,0.945819
+Week_day,1900-01-01 22:45:00,Raumwärme,0.891639
+Week_day,1900-01-01 22:45:00,Warmwasser,0.891639
+Week_day,1900-01-01 23:00:00,Beleuchtung,0.870447
+Week_day,1900-01-01 23:00:00,IKT,0.870447
+Week_day,1900-01-01 23:00:00,Klimakälte,0.870447
+Week_day,1900-01-01 23:00:00,mechanische Antriebe,0.935224
+Week_day,1900-01-01 23:00:00,Prozesskälte,1
+Week_day,1900-01-01 23:00:00,Prozesswärme,0.935224
+Week_day,1900-01-01 23:00:00,Raumwärme,0.870447
+Week_day,1900-01-01 23:00:00,Warmwasser,0.870447
+Week_day,1900-01-01 23:15:00,Beleuchtung,0.836329
+Week_day,1900-01-01 23:15:00,IKT,0.836329
+Week_day,1900-01-01 23:15:00,Klimakälte,0.836329
+Week_day,1900-01-01 23:15:00,mechanische Antriebe,0.918164
+Week_day,1900-01-01 23:15:00,Prozesskälte,1
+Week_day,1900-01-01 23:15:00,Prozesswärme,0.918164
+Week_day,1900-01-01 23:15:00,Raumwärme,0.836329
+Week_day,1900-01-01 23:15:00,Warmwasser,0.836329
+Week_day,1900-01-01 23:30:00,Beleuchtung,0.794866
+Week_day,1900-01-01 23:30:00,IKT,0.794866
+Week_day,1900-01-01 23:30:00,Klimakälte,0.794866
+Week_day,1900-01-01 23:30:00,mechanische Antriebe,0.897433
+Week_day,1900-01-01 23:30:00,Prozesskälte,1
+Week_day,1900-01-01 23:30:00,Prozesswärme,0.897433
+Week_day,1900-01-01 23:30:00,Raumwärme,0.794866
+Week_day,1900-01-01 23:30:00,Warmwasser,0.794866
+Week_day,1900-01-01 23:45:00,Beleuchtung,0.780938
+Week_day,1900-01-01 23:45:00,IKT,0.780938
+Week_day,1900-01-01 23:45:00,Klimakälte,0.780938
+Week_day,1900-01-01 23:45:00,mechanische Antriebe,0.890469
+Week_day,1900-01-01 23:45:00,Prozesskälte,1
+Week_day,1900-01-01 23:45:00,Prozesswärme,0.890469
+Week_day,1900-01-01 23:45:00,Raumwärme,0.780938
+Week_day,1900-01-01 23:45:00,Warmwasser,0.780938

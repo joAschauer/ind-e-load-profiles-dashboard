@@ -1,0 +1,29 @@
+sector_agg_id,sector_agg,sector_wz2008,share
+1,1: Gew. v. Steinen u. Erden,"08: Gewinnung von Steinen und Erden, sonstiger Bergbau",1
+2,2: Ernährung und Tabak,10: Herstellung von Nahrungs- und Futtermitteln,1
+2,2: Ernährung und Tabak,11: Getränkeherstellung,1
+2,2: Ernährung und Tabak,12: Tabakverarbeitung,1
+3,3: Papiergewerbe,"17: Herstellung von Papier, Pappe und Waren daraus",1
+4,4: Grundstoffchemie,20: Herstellung von chemischen Erzeugnissen,0.166667
+5,5: Sonst. chemische Industrie,20: Herstellung von chemischen Erzeugnissen,0.833333
+5,5: Sonst. chemische Industrie,21: Herstellung von pharmazeutischen Erzeugnissen,1
+6,6: Gummi- u. Kunststoffwaren,22: Herstellung von Gummi- und Kunststoffwaren,1
+7,7: Glas u. Keramik,"23: Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",0.428571
+8,8: Verarb. v. Steine u. Erden,"23: Herstellung von Glas und Glaswaren, Keramik, Verarbeitung von Steinen und Erden",0.571429
+9,9: Metallerzeugung,24: Metallerzeugung und -bearbeitung,0.2
+10,"10: NE-Metalle, -gießereien",24: Metallerzeugung und -bearbeitung,0.4
+11,11: Metallbearbeitung,24: Metallerzeugung und -bearbeitung,0.4
+11,11: Metallbearbeitung,25: Herstellung von Metallerzeugnissen,1
+12,12: Maschinenbau,28: Maschinenbau,1
+13,13: Fahrzeugbau,29: Herstellung von Kraftwagen und Kraftwagenteilen,1
+13,13: Fahrzeugbau,30: Sonstiger Fahrzeugbau,1
+14,14: Sonstige Wirtschaftszweige,13: Herstellung von Textilien,1
+14,14: Sonstige Wirtschaftszweige,14: Herstellung von Bekleidung,1
+14,14: Sonstige Wirtschaftszweige,"15: Herstellung von Leder, Lederwaren und Schuhen",1
+14,14: Sonstige Wirtschaftszweige,"16: Herstellung von Holz-, Flecht-, Korb- und Korkwaren (ohne Möbel)",1
+14,14: Sonstige Wirtschaftszweige,"18: Herstellung von Druckerzeugnissen; Vervielfältigung von bespielten Ton-, Bild- und Datenträgern",1
+14,14: Sonstige Wirtschaftszweige,"26: Herstellung von Datenverarbeitungsgeräten, elektronischen und optischen Erzeugnissen",1
+14,14: Sonstige Wirtschaftszweige,27: Herstellung von elektrischen Ausrüstungen,1
+14,14: Sonstige Wirtschaftszweige,31: Herstellung von Möbeln,1
+14,14: Sonstige Wirtschaftszweige,32: Herstellung von sonstigen Waren,1
+14,14: Sonstige Wirtschaftszweige,33: Reparatur und Installation von Maschinen und Ausrüstungen,1

@@ -1,0 +1,4 @@
+{
+  "date_modified": "2025-02-10",
+  "sql_query": "\n        SELECT  [day]\n        ,[time]\n        ,b.[Name_agg] as [end_use_type]\n        ,avg([value]) as [value]\n        FROM [ind_e].[dbo].[end_use_profiles] a\n        join ind_e.dbo.end_use_type b on a.end_use_type = b.[Name]\n        group by [day], [time], b.[Name_agg]\n        order by time asc\n        "
+}

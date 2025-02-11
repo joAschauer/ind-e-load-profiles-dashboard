@@ -1,0 +1,43 @@
+industry_type,end_use_type,share_fraction
+Ernährung und Tabak,Prozesskälte,0.181409
+Fahrzeugbau,Prozesskälte,0
+Gew. v. Steinen u. Erden,Prozesskälte,0
+Glas u. Keramik,Prozesskälte,0.0168539
+Grundstoffchemie,Prozesskälte,0.125
+Gummi- u. Kunststoffwaren,Prozesskälte,0.00967118
+Maschinenbau,Prozesskälte,0.0171149
+Metallbearbeitung,Prozesskälte,0
+Metallerzeugung,Prozesskälte,0
+"NE-Metalle, -gießereien",Prozesskälte,0
+Papiergewerbe,Prozesskälte,0.0103858
+Sonst. chemische Industrie,Prozesskälte,0.0509804
+Sonstige Wirtschaftszweige,Prozesskälte,0.00868486
+Verarb. v. Steine u. Erden,Prozesskälte,0
+Ernährung und Tabak,Prozesswärme u. mech. Antriebe,0.695652
+Fahrzeugbau,Prozesswärme u. mech. Antriebe,0.799058
+Gew. v. Steinen u. Erden,Prozesswärme u. mech. Antriebe,0.9375
+Glas u. Keramik,Prozesswärme u. mech. Antriebe,0.921348
+Grundstoffchemie,Prozesswärme u. mech. Antriebe,0.856098
+Gummi- u. Kunststoffwaren,Prozesswärme u. mech. Antriebe,0.87234
+Maschinenbau,Prozesswärme u. mech. Antriebe,0.640587
+Metallbearbeitung,Prozesswärme u. mech. Antriebe,0.827402
+Metallerzeugung,Prozesswärme u. mech. Antriebe,0.986072
+"NE-Metalle, -gießereien",Prozesswärme u. mech. Antriebe,0.975806
+Papiergewerbe,Prozesswärme u. mech. Antriebe,0.952522
+Sonst. chemische Industrie,Prozesswärme u. mech. Antriebe,0.756863
+Sonstige Wirtschaftszweige,Prozesswärme u. mech. Antriebe,0.733251
+Verarb. v. Steine u. Erden,Prozesswärme u. mech. Antriebe,0.946996
+Ernährung und Tabak,Sonstige,0.122939
+Fahrzeugbau,Sonstige,0.200942
+Gew. v. Steinen u. Erden,Sonstige,0.0625
+Glas u. Keramik,Sonstige,0.0617978
+Grundstoffchemie,Sonstige,0.0189024
+Gummi- u. Kunststoffwaren,Sonstige,0.117988
+Maschinenbau,Sonstige,0.342298
+Metallbearbeitung,Sonstige,0.172598
+Metallerzeugung,Sonstige,0.0139276
+"NE-Metalle, -gießereien",Sonstige,0.0241935
+Papiergewerbe,Sonstige,0.037092
+Sonst. chemische Industrie,Sonstige,0.192157
+Sonstige Wirtschaftszweige,Sonstige,0.258065
+Verarb. v. Steine u. Erden,Sonstige,0.0530035

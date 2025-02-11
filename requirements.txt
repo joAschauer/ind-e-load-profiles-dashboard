@@ -1,0 +1,8 @@
+geopandas
+holidays
+pandas
+plotly
+streamlit==1.42.0
+folium
+streamlit-folium
+openpyxl

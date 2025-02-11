@@ -1,0 +1,4 @@
+{
+  "date_modified": "2025-02-10",
+  "sql_query": "\n        SELECT [day]\n        ,[time]\n        ,[end_use_type]\n        ,[value]\n        FROM [ind_e].[dbo].[end_use_profiles]\n        "
+}
