@@ -2,6 +2,20 @@ import streamlit as st
 
 st.set_page_config(layout="wide")
 
+
+# https://discuss.streamlit.io/t/keep-menu-without-header/46558/2
+st.markdown(
+    """
+<style>
+	[data-testid="stDecoration"] {
+        background: #FFFFFF;
+    }
+
+</style>""",
+    unsafe_allow_html=True,
+)
+
+
 page = st.navigation(
     [
         st.Page("page_contents/home.py", title="Home", default=True),

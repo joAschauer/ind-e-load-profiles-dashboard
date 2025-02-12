@@ -1,0 +1,15 @@
+[theme]
+    primaryColor="#0065a0"
+    backgroundColor="#f8f8f8"
+    secondaryBackgroundColor="#F0F2F6"
+    textColor="#262730"
+    font="sans serif"
+
+[client]
+    toolbarMode = "minimal"
+
+[logger]
+    level="INFO"
+
+[browser]
+    gatherUsageStats = false
