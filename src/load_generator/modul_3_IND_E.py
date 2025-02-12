@@ -6,6 +6,7 @@ Created on Mon Oct  4 15:59:18 2021
 """
 
 import datetime
+from pathlib import Path
 
 import holidays
 import pandas as pd
@@ -112,7 +113,7 @@ def seasonality(
     path,
 ):  # With seasonality
     month_factor = pd.read_excel(
-        path + "\\HeatingDegreeDays.xlsx".format(), sheet_name="HDD"
+        Path(path) / "HeatingDegreeDays.xlsx", sheet_name="HDD"
     )
     month_factor = month_factor.iloc[0][1:13]
 

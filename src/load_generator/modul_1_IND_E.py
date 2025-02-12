@@ -5,15 +5,17 @@ Created on Tue Mar 30 15:52:10 2021.
 @author: asandhaa
 """
 
+from pathlib import Path
+
 import pandas as pd
 import streamlit as st
 
 
 @st.cache_data
-def get_industry_type_data(PATH):
+def get_industry_type_data(data_path):
     """Input 2: Tabelle mit allen Informationen zu Industrietypen."""
     all_info_wz = pd.read_excel(
-        PATH + "\\Electrical\\All_info_industry_types_electrical.xlsx".format(),
+        Path(data_path) / "Electrical" / "All_info_industry_types_electrical.xlsx",
         skipfooter=1,
     ).drop(0)
     all_info_wz.dropna(how="all", axis=0, inplace=True)
@@ -24,10 +26,10 @@ def get_industry_type_data(PATH):
 
 
 @st.cache_data
-def modul_1_el(industry_number, PATH):
+def modul_1_el(industry_number, data_path):
     """Input 1: Normierte Tageslastprofile Load_profiles_enduser.xlsx."""
     load_prof_enduser = pd.read_excel(
-        PATH + "\\Electrical\\Load_profiles_enduser.xlsx",
+        Path(data_path) / "Electrical" / "Load_profiles_enduser.xlsx",
         usecols=("B:J"),
         sheet_name="Week_day",
     )
@@ -38,7 +40,7 @@ def modul_1_el(industry_number, PATH):
     )
 
     load_prof_enduser = pd.read_excel(
-        PATH + "\\Electrical\\Load_profiles_enduser.xlsx",
+        Path(data_path) / "Electrical" / "Load_profiles_enduser.xlsx",
         usecols=("B:J"),
         sheet_name="Saturday",
     )
@@ -49,7 +51,7 @@ def modul_1_el(industry_number, PATH):
     )
 
     load_prof_enduser = pd.read_excel(
-        PATH + "\\Electrical\\Load_profiles_enduser.xlsx",
+        Path(data_path) / "Electrical" / "Load_profiles_enduser.xlsx",
         usecols=("B:J"),
         sheet_name="Sunday",
     )
@@ -60,7 +62,7 @@ def modul_1_el(industry_number, PATH):
     )
 
     load_prof_enduser = pd.read_excel(
-        PATH + "\\Electrical\\Load_profiles_enduser.xlsx",
+        Path(data_path) / "Electrical" / "Load_profiles_enduser.xlsx",
         usecols=("B:J"),
         sheet_name="Holiday",
     )
@@ -75,7 +77,7 @@ def modul_1_el(industry_number, PATH):
 
     """Input 2: Tabelle mit allen Informationen zu Industrietypen"""
 
-    all_info_wz = get_industry_type_data(PATH)
+    all_info_wz = get_industry_type_data(data_path)
 
     """Filtern der Infos für ausgewählten Industrietyp"""
 
@@ -136,25 +138,25 @@ def modul_1_el(industry_number, PATH):
     return (weekday_1, saturday_1, sunday_1, holiday_1, constant_1, data_industry_type)
 
 
-def modul_1_th(industry_number, PATH):
+def modul_1_th(industry_number, data_path):
     """Input 1: Normierte Tageslastprofile Load_profiles_enduser.xlsx."""
     profiles_weekday = pd.read_excel(
-        PATH + "\\Thermal\\Load_profiles_daytypes.xlsx",
+        Path(data_path) / "Thermal" / "Load_profiles_daytypes.xlsx",
         sheet_name="Week_day",
         index_col=0,
     )
     profiles_saturday = pd.read_excel(
-        PATH + "\\Thermal\\Load_profiles_daytypes.xlsx",
+        Path(data_path) / "Thermal" / "Load_profiles_daytypes.xlsx",
         sheet_name="Saturday",
         index_col=0,
     )
     profiles_sunday = pd.read_excel(
-        PATH + "\\Thermal\\Load_profiles_daytypes.xlsx",
+        Path(data_path) / "Thermal" / "Load_profiles_daytypes.xlsx",
         sheet_name="Sunday",
         index_col=0,
     )
     profiles_holiday = pd.read_excel(
-        PATH + "\\Thermal\\Load_profiles_daytypes.xlsx",
+        Path(data_path) / "Thermal" / "Load_profiles_daytypes.xlsx",
         sheet_name="Holiday",
         index_col=0,
     )
@@ -165,7 +167,7 @@ def modul_1_th(industry_number, PATH):
     """Input 2: Tabelle mit allen Informationen zu Industrietypen"""
 
     all_info_wz = pd.read_excel(
-        PATH + "\\Thermal\\All_info_industry_types_thermal.xlsx".format()
+        Path(data_path) / "Thermal" / "All_info_industry_types_thermal.xlsx".format()
     )
     all_info_wz.dropna(how="all", axis=0, inplace=True)
     all_info_wz.dropna(how="all", axis=1, inplace=True)
