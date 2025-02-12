@@ -11,6 +11,8 @@ import plotly.express as px
 import streamlit as st
 from streamlit_folium import st_folium
 
+from src.get_industry_data import transform_data_to_industry_types
+
 DATA_DIR = Path(__file__).parent.parent.resolve() / "data"
 
 
@@ -49,43 +51,6 @@ def get_synthetic_load_profiles(list_ind):
     target_date = datetime(2019, 1, 4).date()
     df_all = df_all[df_all["time"].dt.date == target_date]
     return df_all
-
-
-def transform_data_to_industry_types(
-    cap_and_site_data: pd.DataFrame, shares: pd.DataFrame
-) -> pd.DataFrame:
-    transformed = cap_and_site_data.merge(
-        shares, left_on="wz2008_abteilung_name", right_on="sector_wz2008"
-    )
-    transformed["n_sites_per_industry_type"] = (
-        transformed["n_sites"] * transformed["share"]
-    )
-    transformed["n_cap_per_industry_type"] = transformed["n_cap"] * transformed["share"]
-    transformed = (
-        transformed.drop(
-            [
-                "wz2008_abteilung",
-                "wz2008_abteilung_name",
-                "sector_wz2008",
-                "n_sites",
-                "n_cap",
-                "share",
-            ],
-            axis=1,
-        )
-        .groupby(["id", "name", "sector_agg", "sector_agg_id"])
-        .sum()
-        .reset_index()
-        .rename(
-            {
-                "n_sites_per_industry_type": "n_sites",
-                "n_cap_per_industry_type": "n_cap",
-            },
-            axis=1,
-        )
-    )
-
-    return transformed
 
 
 def create_map(gdf, df_select, par_select):
