@@ -6,6 +6,7 @@ from pathlib import Path
 from typing import Literal
 
 import folium
+import folium.features
 import geopandas as gpd
 import pandas as pd
 import plotly.express as px
@@ -106,7 +107,7 @@ def create_map(gdf, df_select, split_by):
     )
 
     # Create a choropleth layer to fill areas with colors based on 'area_m2'
-    folium.Choropleth(
+    choropleth = folium.Choropleth(
         geo_data=gdf,
         data=df_select,
         columns=["id", split_by],
@@ -117,10 +118,29 @@ def create_map(gdf, df_select, split_by):
         legend_name=split_by,
         nan_fill_color="white",
         highlight=True,
-    ).add_to(m)
+    )
+
+    tooltip = folium.features.GeoJsonTooltip(
+        fields=["name"],
+        aliases=["Region"],
+        localize=True,
+        sticky=False,
+        labels=True,
+        style="""
+        background-color: #F0EFEF;
+        border: 2px solid black;
+        border-radius: 3px;
+        box-shadow: 3px;
+    """,
+        max_width=800,
+    )
+
+    tooltip.add_to(choropleth.geojson)
+
+    choropleth.add_to(m)
+
     # Display the choropleth map using folium_static
-    clickdata = st_folium(m, width=600, height=800)
-    return clickdata
+    st.session_state["map"] = st_folium(m, width=600, height=800)
 
 
 @st.fragment()
@@ -131,18 +151,17 @@ def map_and_widget(gdf, industry_data):
     df_select = industry_data.loc[industry_data.sector_agg == wz_select]
     # create map:
     create_map(gdf, df_select, st.session_state["split_by"])
-    with st.expander("Data"):
-        st.dataframe(
-            df_select.set_index("name")
-            .sort_index()[[st.session_state["split_by"]]]
-            .rename(
-                columns={
-                    "n_cap": "Number of employees",
-                    "n_sites": "Number of production sites",
-                }
-            ),
-            use_container_width=True,
-        )
+    st.dataframe(
+        df_select.set_index("name")
+        .sort_index()[[st.session_state["split_by"]]]
+        .rename(
+            columns={
+                "n_cap": "Number of employees",
+                "n_sites": "Number of production sites",
+            }
+        ),
+        use_container_width=True,
+    )
 
 
 @st.fragment()
@@ -225,11 +244,11 @@ split_by = st.sidebar.selectbox(
 
 with st.container(border=True):
     st.header("Industry types in selected region")
-    st.write(f"Data for {region_names.get(st.session_state['region_id'])}:")
+    st.write(f"Data for {region_names.get(region_id)}:")
 
-    df_show = industry_data.loc[
-        industry_data.id == st.session_state["region_id"]
-    ].sort_values(by="sector_agg", ascending=False)
+    df_show = industry_data.loc[industry_data.id == region_id].sort_values(
+        by="sector_agg", ascending=False
+    )
 
     fig = px.bar(
         df_show,
@@ -245,16 +264,12 @@ with st.container(border=True):
     )
     st.plotly_chart(fig, use_container_width=True)
 
-
-with st.container(border=True):
-    st.header("Regional distribution of selected disaggregation parameter")
-    map_and_widget(gdf, industry_data)
-
-
 with st.container(border=True):
     st.header("Load profile in selected region")
     regional_profile_with_date_range_widget()
 
+with st.expander("Regional distribution of selected disaggregation parameter"):
+    map_and_widget(gdf, industry_data)
 
 # this placeholder is needed at the bottom of the page to prevent scroll-jumping
 # during widget interaction in the interactive figure
