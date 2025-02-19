@@ -32,7 +32,7 @@ page = st.navigation(
         st.Page(
             "page_contents/regional_data.py",
             title="View regional data",
-            url_path="regionl_data",
+            url_path="regional_data",
         ),
     ],
     position="sidebar",
